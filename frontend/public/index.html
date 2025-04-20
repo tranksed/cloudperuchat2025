@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>EquipeChat</title>
+     <link 
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" 
+        rel="stylesheet"
+    />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <style>
+        *, ::after, ::before {
+            font-family: Poppins, sans-serif !important;
+        }
+        
+        #splash-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background-color: rgba(240, 240, 240, 0.8);
+            z-index: 9999;
+        }
+        
+        #splash-content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+        
+        .loading-text {
+            font-size: 24px;
+            margin-bottom: 20px;
+            color: #666;
+        }
+        
+        .loader {
+            width: 78px;
+            height: 78px;
+            border-radius: 50%;
+            display: inline-block;
+            position: relative;
+            border: 3px solid;
+            border-color: #214fb1 #e4d872 transparent transparent;
+            box-sizing: border-box;
+            animation: rotation 1s linear infinite;
+            margin-bottom: 50px;
+        }
+        
+        .loader::after, .loader::before {
+            content: "";
+            box-sizing: border-box;
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            border: 3px solid;
+            border-color: transparent transparent #ff3d00 #ff3d00;
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            animation: rotationBack .5s linear infinite;
+            transform-origin: center center;
+        }
+        
+        .loader::before {
+            width: 62px;
+            height: 62px;
+            border-color: #1eec6d #fff transparent transparent;
+            animation: rotation 1.5s linear infinite;
+        }
+        
+        @keyframes rotation {
+            0% { transform: rotate(0); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        @keyframes rotationBack {
+            0% { transform: rotate(0); }
+            100% { transform: rotate(-360deg); }
+        }
+        
+        .progress-bar {
+            width: 80%;
+            height: 10px;
+            background-color: #d3d3d3;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        
+        .progress {
+            height: 100%;
+            background-color: #000;
+            width: 0;
+            transition: width 0.2s;
+        }
+    </style>
+    <script>
+        crossOriginIsolated || (SharedArrayBuffer = ArrayBuffer);
+    </script>
+    <link href="/static/css/2.b88cea32.chunk.css" rel="stylesheet">
+    <link href="/static/css/main.4ab74a11.chunk.css" rel="stylesheet">
+</head>
+<body>
+    <div id="splash-screen">
+        <div id="splash-content">
+            <div class="loader" id="progress"></div>
+        </div>
+    </div>
+    <div id="root"></div>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <script>
+        // Atualize o progresso e remova a splash screen quando o carregamento estiver completo
+        let progress = 0;
+        const interval = setInterval(() => {
+            if (progress < 50) {
+                progress += 10;
+            } else if (progress < 80) {
+                progress += 3;
+            } else if (progress < 99) {
+                progress += (99 - progress) / 20;
+            }
+            
+            if (progress >= 100) {
+                clearInterval(interval);
+                setTimeout(() => {
+                    const splashScreen = document.getElementById("splash-screen");
+                    if (splashScreen) splashScreen.remove();
+                }, 500); // Aguarda 500ms antes de remover a splash screen
+            }
+        }, 1000);
+
+        // Atualiza o progresso para 100% ao carregar a página completamente
+        window.onload = () => {
+            progress = 100;
+        };
+    </script>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+		<div id="root"></div>
+</body>
+</html>

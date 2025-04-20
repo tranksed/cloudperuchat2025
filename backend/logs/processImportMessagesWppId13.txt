@@ -1,0 +1,2099 @@
+Aguardando conexão para iniciar a importação de mensagens:
+    Whatsapp nome: SimplifiCart - FIXO
+    Whatsapp Id: 13
+    Criação do arquivo de logs: 14/11/2024 21:29:12
+    Selecionado Data de inicio de importação: 13/11/2024 21:23:00 
+    Selecionado Data final da importação: 14/11/2024 21:22:00 
+     
+
+Mensagem 1 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A1C34B58B55277A3B4"
+  },
+  "message": {
+    "conversation": "‎ Prezado(a) Ludimilla Cantareli,\n\nNotamos que o seu chamado está inativo, por isso estamos encerrando-o temporariamente. Caso deseje retomar o atendimento, basta responder com um “Oi” e daremos continuidade ao seu atendimento.\n\nAtenciosamente,\nEquipe SimplifiCart"
+  },
+  "messageTimestamp": "1731623760",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731623761",
+      "readTimestamp": "1731629834",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 2 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0113E5394C8EB7C4FC3"
+  },
+  "message": {
+    "conversation": "*Monique da Silva Garcia de Oliveira:*\nOlá, boa tarde"
+  },
+  "messageTimestamp": "1731616522",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731616522",
+      "readTimestamp": "1731621406",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 3 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A9AA3EA0EC4FEEC57FD"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1731615851",
+  "messageSecret": "oQOQ/bnXIiVF7my9bmzD1g2nXWESnG2SkpzEsN5Oa+M=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8pzumpcTRtmSScOo7FjH6X3zY="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 4 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558499468966@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB06445DFB9F7C957D8DF"
+  },
+  "message": {
+    "conversation": "‎Foi um ótimo atender você! Para garantir um controle eficiente dos atendimento, estamos encerrando seu chamado. Lembre-se que se precisar de algo, basta nos acionar novamente. \n\nSeu número de protocolo é: 20241114171156."
+  },
+  "messageTimestamp": "1731615116",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "558499468966@s.whatsapp.net",
+      "receiptTimestamp": "1731615116",
+      "readTimestamp": "1731615116",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 5 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558499468966@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3F0000A83773F46653D4"
+  },
+  "message": {
+    "conversation": "3"
+  },
+  "messageTimestamp": "1731615116",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8cvgWG+w1jiGbbIq1lzw=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 6 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558499468966@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08CC148A39EBC126B72"
+  },
+  "message": {
+    "conversation": "‎Antes de finalizarmos, seria possível nos dar um feedback sobre sua experiência? Caso sim, por gentileza, como você avaliaria nosso atendimento?\n\nDigite de 1 à 3 para qualificar nosso atendimento:\n*1* - _Insatisfeito_\n*2* - _Satisfeito_\n*3* - _Muito Satisfeito_\n\n"
+  },
+  "messageTimestamp": "1731615021",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "558499468966@s.whatsapp.net",
+      "receiptTimestamp": "1731615022",
+      "readTimestamp": "1731615106",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 7 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0EFB9B66871A9EF5D16"
+  },
+  "message": {
+    "conversation": "*Mensagem Automática:*\nBoa tarde *Ludimilla Cantareli*, meu nome é *Ludimilla Cantareli* e agora vou prosseguir com seu atendimento!"
+  },
+  "messageTimestamp": "1731614868",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731614868",
+      "readTimestamp": "1731615849",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 8 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558499468966@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0050B156DF6DFA26425"
+  },
+  "message": {
+    "conversation": "*Monique da Silva Garcia de Oliveira:*\nOlá boa tarde"
+  },
+  "messageTimestamp": "1731614860",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "558499468966@s.whatsapp.net",
+      "receiptTimestamp": "1731614860",
+      "readTimestamp": "1731614921",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 9 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558499468966@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0FFF9420162EBAE4625"
+  },
+  "message": {
+    "conversation": "*Mensagem Automática:*\nBoa tarde *Monique Garcia*, meu nome é *Monique da Silva Garcia de Oliveira* e agora vou prosseguir com seu atendimento!"
+  },
+  "messageTimestamp": "1731614844",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "558499468966@s.whatsapp.net",
+      "receiptTimestamp": "1731614844",
+      "readTimestamp": "1731614921",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 10 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558499468966@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3F2D8DAC5132A652CE51"
+  },
+  "message": {
+    "conversation": "00000"
+  },
+  "messageTimestamp": "1731614819",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/QvL3h9KecTI+WS0et5Q=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 11 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558499468966@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0BEB19830A66304EF9D"
+  },
+  "message": {
+    "conversation": "‎Você selecionou a opção *01 - Recepção*, para agilizarmos seu atendimento, poderia informar seu *nome*, *CNS da Serventia* e *como podemos te ajudar*?"
+  },
+  "messageTimestamp": "1731614813",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "558499468966@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731614814",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 12 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558499468966@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3FC11B267095035FC9BB"
+  },
+  "message": {
+    "conversation": "1"
+  },
+  "messageTimestamp": "1731614813",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/mApNq4RtaFqnE3jigDw=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 13 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558499468966@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0855FD8AFE10FADC417"
+  },
+  "message": {
+    "conversation": "‎Olá, Monique Garcia!\n\nSeja bem-vindo(a) à SimplifiCart! Para darmos continuidade, escolha abaixo a opção que melhor atenda sua necessidade:\n\n*[ 1 ]* - Recepção\n*[ 2 ]* - Suporte Técnico\n*[ 3 ]* - Financeiro\n*[ 4 ]* - Comercial\n*[ 5 ]* - Ouvidora (Elogios l Sugestões l Reclamações)\n*[ 6 ]* - Canal LGPD\n"
+  },
+  "messageTimestamp": "1731614806",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "558499468966@s.whatsapp.net",
+      "receiptTimestamp": "1731614806",
+      "readTimestamp": "1731614807",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 14 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558499468966@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3FA3CF3C970442E71625"
+  },
+  "message": {
+    "conversation": "oi"
+  },
+  "messageTimestamp": "1731614805",
+  "reportingTokenInfo": {
+    "reportingTag": "AY92j0wtP6TQ7OVBs5bEaQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 15 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08D862FB5B5FA5F5452"
+  },
+  "message": {
+    "conversation": "‎Você escolheu a *opção 02 - Suporte Técnico*, selecione abaixo para qual serviço precisa\nde suporte:\n\n\n\n*[ 1 ]* - Gestor de Atividades\n*[ 2 ]* - Gestor Financeiro\n*[ 3 ]* - WhatsApp Profissional\n*[ 4 ]* - Gerador de Matrícula\n*[ 5 ]* - LGPD\n\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1731614727",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731614727",
+      "readTimestamp": "1731614727",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 16 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A6D38CC7784A02DD3B1"
+  },
+  "message": {
+    "conversation": "2"
+  },
+  "messageTimestamp": "1731614726",
+  "messageSecret": "UFs/CNbwTRi+PssM5taQQh9dFH8kaOU2u6fGTnYJW/8=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9jyzHHyceyMACb3BHePdGrOFY="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 17 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F8421EEF9647BEAC3C"
+  },
+  "message": {
+    "conversation": "‎Olá, Ludimilla Cantareli!\n\nSeja bem-vindo(a) à SimplifiCart! Para darmos continuidade, escolha abaixo a opção que melhor atenda sua necessidade:\n\n*[ 1 ]* - Recepção\n*[ 2 ]* - Suporte Técnico\n*[ 3 ]* - Financeiro\n*[ 4 ]* - Comercial\n*[ 5 ]* - Ouvidora (Elogios l Sugestões l Reclamações)\n*[ 6 ]* - Canal LGPD\n"
+  },
+  "messageTimestamp": "1731614699",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731614699",
+      "readTimestamp": "1731614700",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 18 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A5F45329195DAE0F4EC"
+  },
+  "message": {
+    "conversation": "Ok"
+  },
+  "messageTimestamp": "1731614698",
+  "messageSecret": "jk31s26argpC2d/DrPKlT9kb9hBdiKxX5eB2YSW1K1g=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/bbMMAzXZ6OBKmoG99WKhx1aA="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 19 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04C33C68D01123D4681"
+  },
+  "message": {
+    "conversation": "‎Foi um ótimo atender você! Para garantir um controle eficiente dos atendimento, estamos encerrando seu chamado. Lembre-se que se precisar de algo, basta nos acionar novamente. \n\nSeu número de protocolo é: 20241114170451."
+  },
+  "messageTimestamp": "1731614691",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731614691",
+      "readTimestamp": "1731614691",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 20 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A01FA3B967C41AFC123"
+  },
+  "message": {
+    "conversation": "Oi"
+  },
+  "messageTimestamp": "1731614654",
+  "messageSecret": "fJpjohWJkMdENsXgJ3HhdAA+n5WkhKOsQ1ZfVaewyzY=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8aIhQBmocsQd1eZseClkSEqe4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 21 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0010BB7ADA1A93E0933"
+  },
+  "message": {
+    "conversation": "‎Antes de finalizarmos, seria possível nos dar um feedback sobre sua experiência? Caso sim, por gentileza, como você avaliaria nosso atendimento?\n\nDigite de 1 à 3 para qualificar nosso atendimento:\n*1* - _Insatisfeito_\n*2* - _Satisfeito_\n*3* - _Muito Satisfeito_\n\n"
+  },
+  "messageTimestamp": "1731614648",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731614648",
+      "readTimestamp": "1731614652",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 22 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB064E3D2E6C2F8DE0E99"
+  },
+  "message": {
+    "conversation": "*Mensagem Automática:*\nBoa tarde *Ludimilla Cantareli*, meu nome é *Ludimilla Cantareli* e agora vou prosseguir com seu atendimento!"
+  },
+  "messageTimestamp": "1731614584",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731614584",
+      "readTimestamp": "1731614585",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 23 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0987B7765663E8C2254"
+  },
+  "message": {
+    "conversation": "‎Olá, Ludimilla Cantareli!\n\nSeja bem-vindo(a) à SimplifiCart! Para darmos continuidade, escolha abaixo a opção que melhor atenda sua necessidade:\n\n*[ 1 ]* - Recepção\n*[ 2 ]* - Suporte Técnico\n*[ 3 ]* - Financeiro\n*[ 4 ]* - Comercial\n*[ 5 ]* - Ouvidora (Elogios l Sugestões l Reclamações)\n*[ 6 ]* - Canal LGPD\n"
+  },
+  "messageTimestamp": "1731614548",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731614549",
+      "readTimestamp": "1731614549",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 24 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A8CA8844E50FDEB78AE"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1731614548",
+  "messageSecret": "TTw+kJv6YhDJkqHgpbIbJmzIK+hghKTm/I0CqGH7UT4=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/mLKQtNPX0+2am3RW8bay75IE="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 25 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363144038483540@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0B369B34A1A68C83058"
+  },
+  "message": {
+    "conversation": "‎ Prezado(a) 120363144038483540,\n\nNotamos que o seu chamado está inativo, por isso estamos encerrando-o temporariamente. Caso deseje retomar o atendimento, basta responder com um “Oi” e daremos continuidade ao seu atendimento.\n\nAtenciosamente,\nEquipe SimplifiCart"
+  },
+  "messageTimestamp": "1731611580",
+  "status": "SERVER_ACK"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 26 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363066699135786@g.us",
+    "fromMe": false,
+    "id": "3AEB730035B14788D676"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/19172293_3740806836173069_2799694568381480841_n.enc?ccb=11-4&oh=01_Q5AaIGARHdqy9yCuM9Xoxt0a3UOmyVObUR-2BUyyvMoXW3O6&oe=675D97C9&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "vodo47bvC41ZU5eBpE9I1XJcmODsVoXThwaQ01ql5gI=",
+      "fileEncSha256": "Vr++LdGYF9jmEr1Us54V+YpBsQSa98E03pMswxrtl5M=",
+      "mediaKey": "H5aeJCo0AEP1RzBceMMKb82faOwmSAnzdvgPwM1e+2M=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/19172293_3740806836173069_2799694568381480841_n.enc?ccb=11-4&oh=01_Q5AaIGARHdqy9yCuM9Xoxt0a3UOmyVObUR-2BUyyvMoXW3O6&oe=675D97C9&_nc_sid=5e03e0",
+      "fileLength": "21038",
+      "mediaKeyTimestamp": "1731504793",
+      "isAnimated": false,
+      "contextInfo": {
+        "stanzaId": "3A196D7AE9EC41E46FBF",
+        "participant": "556385035253@s.whatsapp.net",
+        "quotedMessage": {
+          "extendedTextMessage": {
+            "text": "A @556392217009 tá fazendo a parte dela lá em São Valério, parabéns amiga! Te admiro. 🩵",
+            "previewType": "NONE",
+            "contextInfo": {
+              "mentionedJid": [
+                "556392217009@s.whatsapp.net"
+              ]
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        }
+      },
+      "stickerSentTs": "1731606622455",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1731606623",
+  "participant": "556392217009@s.whatsapp.net",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Stickers/STK-20241114-WA0000.webp"
+  },
+  "messageSecret": "3KVZhwyvw/5iLMMEU6G5MWjwv1APtDB3mqz48xLRLM8=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/Q6qgW4guAeqDK9fpd6jVVOkY="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 27 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363066699135786@g.us",
+    "fromMe": false,
+    "id": "3A2B15D0AC7423E17DF7"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3ACF9978D8B233CFCDBC",
+        "participant": "556385035253@s.whatsapp.net",
+        "quotedMessage": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7118-24/11729443_1623261918624097_7111147321924361776_n.enc?ccb=11-4&oh=01_Q5AaIP7zAOtsujZkJKMdJRV66WedG0xkbgw0w1dkxuEsnrNV&oe=675DA3C2&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "image/jpeg",
+            "caption": "Projeto Hospital do Amor: *Cartórios contra o Câncer.*\n\nAjudar o próximo não tem atitude mais louvável! 🙏🩵",
+            "fileSha256": "0+b1qUb49PzT/0wWMyCtp19jepb85+qJXmqYAYKqWrc=",
+            "fileLength": "167039",
+            "height": 1081,
+            "width": 1081,
+            "mediaKey": "3F3Fr50ZN56KlfZZ4DZKij+ktKD4VWl3aiav1iogCOM=",
+            "fileEncSha256": "w6mA7uyPkE6mDH8K2Rn9adpL2rUa2xLL/EXsoKEweng=",
+            "directPath": "/v/t62.7118-24/11729443_1623261918624097_7111147321924361776_n.enc?ccb=11-4&oh=01_Q5AaIP7zAOtsujZkJKMdJRV66WedG0xkbgw0w1dkxuEsnrNV&oe=675DA3C2&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1731606333",
+            "scansSidecar": "VDlWHN28E+2t3qmCcVsrxS7A3PnMejcq+M4ZavaoQbHAOtbwTo7UHA==",
+            "scanLengths": [
+              12226,
+              74060,
+              28959,
+              51792
+            ],
+            "midQualityFileSha256": "/2kWI9AJgsevJqmSZIUKBqKGJYZDS3TGvLBeQXtSnUI="
+          }
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1731606615",
+  "participant": "556392217009@s.whatsapp.net",
+  "messageSecret": "ZouJWM8nsXtnNGQNR6Ej6Xyxcl+YNO7LgwNNI9UV7Nk=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9/c9s3BMWOUs+HSG/04X4bLMc="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 28 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363066699135786@g.us",
+    "fromMe": false,
+    "id": "3A196D7AE9EC41E46FBF"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "A @556392217009 tá fazendo a parte dela lá em São Valério, parabéns amiga! Te admiro. 🩵",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3ACF9978D8B233CFCDBC",
+        "participant": "556385035253@s.whatsapp.net",
+        "quotedMessage": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7118-24/11729443_1623261918624097_7111147321924361776_n.enc?ccb=11-4&oh=01_Q5AaIP7zAOtsujZkJKMdJRV66WedG0xkbgw0w1dkxuEsnrNV&oe=675DA3C2&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "image/jpeg",
+            "caption": "Projeto Hospital do Amor: *Cartórios contra o Câncer.*\n\nAjudar o próximo não tem atitude mais louvável! 🙏🩵",
+            "fileSha256": "0+b1qUb49PzT/0wWMyCtp19jepb85+qJXmqYAYKqWrc=",
+            "fileLength": "167039",
+            "height": 1081,
+            "width": 1081,
+            "mediaKey": "3F3Fr50ZN56KlfZZ4DZKij+ktKD4VWl3aiav1iogCOM=",
+            "fileEncSha256": "w6mA7uyPkE6mDH8K2Rn9adpL2rUa2xLL/EXsoKEweng=",
+            "directPath": "/v/t62.7118-24/11729443_1623261918624097_7111147321924361776_n.enc?ccb=11-4&oh=01_Q5AaIP7zAOtsujZkJKMdJRV66WedG0xkbgw0w1dkxuEsnrNV&oe=675DA3C2&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1731606333",
+            "scansSidecar": "VDlWHN28E+2t3qmCcVsrxS7A3PnMejcq+M4ZavaoQbHAOtbwTo7UHA==",
+            "scanLengths": [
+              12226,
+              74060,
+              28959,
+              51792
+            ],
+            "midQualityFileSha256": "/2kWI9AJgsevJqmSZIUKBqKGJYZDS3TGvLBeQXtSnUI="
+          }
+        },
+        "mentionedJid": [
+          "556392217009@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1731606574",
+  "participant": "556385035253@s.whatsapp.net",
+  "messageSecret": "x3SlRO6A+Dl6ePqPlsHtJ25UdKELoBn2ac2Kq0R8wz4=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9wU8Kl/QMhllab7oFwZLrt5wY="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 29 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363066699135786@g.us",
+    "fromMe": false,
+    "id": "3A26A20EDBD11234E88C"
+  },
+  "message": {
+    "messageContextInfo": {
+      "messageSecret": "yRRKz3gC0DMgngUYM0FdjbwEEaJia/kb8eHeImWmMTo="
+    },
+    "editedMessage": {
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "120363066699135786@g.us",
+            "fromMe": false,
+            "id": "3ACF9978D8B233CFCDBC"
+          },
+          "type": "MESSAGE_EDIT",
+          "editedMessage": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7118-24/11729443_1623261918624097_7111147321924361776_n.enc?ccb=11-4&oh=01_Q5AaIP7zAOtsujZkJKMdJRV66WedG0xkbgw0w1dkxuEsnrNV&oe=675DA3C2&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "image/jpeg",
+              "caption": "Projeto Hospital do Amor: *Cartórios contra o Câncer.*\n\nAjudar o próximo não tem atitude mais louvável! 🙏🩵",
+              "fileSha256": "0+b1qUb49PzT/0wWMyCtp19jepb85+qJXmqYAYKqWrc=",
+              "fileLength": "167039",
+              "height": 1081,
+              "width": 1081,
+              "mediaKey": "3F3Fr50ZN56KlfZZ4DZKij+ktKD4VWl3aiav1iogCOM=",
+              "fileEncSha256": "w6mA7uyPkE6mDH8K2Rn9adpL2rUa2xLL/EXsoKEweng=",
+              "directPath": "/v/t62.7118-24/11729443_1623261918624097_7111147321924361776_n.enc?ccb=11-4&oh=01_Q5AaIP7zAOtsujZkJKMdJRV66WedG0xkbgw0w1dkxuEsnrNV&oe=675DA3C2&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1731606333",
+              "scansSidecar": "VDlWHN28E+2t3qmCcVsrxS7A3PnMejcq+M4ZavaoQbHAOtbwTo7UHA==",
+              "scanLengths": [
+                12226,
+                74060,
+                28959,
+                51792
+              ],
+              "midQualityFileSha256": "/2kWI9AJgsevJqmSZIUKBqKGJYZDS3TGvLBeQXtSnUI="
+            }
+          },
+          "timestampMs": "1731606540616"
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1731606486",
+  "participant": "556385035253@s.whatsapp.net",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/IMG-20241114-WA0001.jpg"
+  },
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "120363066699135786@g.us",
+        "fromMe": false,
+        "id": "3A739B19B664D2513397",
+        "participant": "556392217009@s.whatsapp.net"
+      },
+      "text": "👏",
+      "senderTimestampMs": "1731606610644"
+    }
+  ],
+  "messageSecret": "yRRKz3gC0DMgngUYM0FdjbwEEaJia/kb8eHeImWmMTo=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8H2MsEEWEKroPzUZ59dJSX1ZQ="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 30 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556398452977@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB028B19FBF4B286AD3C4"
+  },
+  "message": {
+    "conversation": "*Ludimilla Cantareli:*\nOiii"
+  },
+  "messageTimestamp": "1731605887",
+  "status": "SERVER_ACK"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 31 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363066699135786@g.us",
+    "fromMe": false,
+    "id": "3EB0EF28EA7D301C364572"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Milci pesquisei aqui e achei esse novo número, tenta ligar lá:\n\n          (61) 3414-1108",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "B91BDF19D60AB62DF26B8BAA71006A01",
+        "participant": "556381006335@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Alguém tem algum e-mail ou número telefone?"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1731605544",
+  "participant": "556385035253@s.whatsapp.net",
+  "messageSecret": "PbjFPfXA9t97T9Pckes+RXIG63ohbI6+67QhwuGo6Uc=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+luD7BisWStwuSSs5t7w=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 32 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363144038483540@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB020F93174F3C7AAEF20"
+  },
+  "message": {
+    "conversation": "*Mensagem Automática:*\nBoa tarde *120363144038483540*, meu nome é *Ludimilla Cantareli* e agora vou prosseguir com seu atendimento!"
+  },
+  "messageTimestamp": "1731604353",
+  "status": "SERVER_ACK"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 33 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363144038483540@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0753171FFFC1BD18360"
+  },
+  "message": {
+    "conversation": "‎Olá, 120363144038483540!\n\nSeja bem-vindo(a) à SimplifiCart! Para darmos continuidade, escolha abaixo a opção que melhor atenda sua necessidade:\n\n*[ 1 ]* - Recepção\n*[ 2 ]* - Suporte Técnico\n*[ 3 ]* - Financeiro\n*[ 4 ]* - Comercial\n*[ 5 ]* - Ouvidora (Elogios l Sugestões l Reclamações)\n*[ 6 ]* - Canal LGPD\n"
+  },
+  "messageTimestamp": "1731604179",
+  "status": "SERVER_ACK"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 34 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363066699135786@g.us",
+    "fromMe": false,
+    "id": "911BCC1B46EF7AA501395EC8C0CAF2F9"
+  },
+  "message": {
+    "conversation": "Obrigada"
+  },
+  "messageTimestamp": "1731602934",
+  "participant": "556381006335@s.whatsapp.net",
+  "messageSecret": "BQQsdS8wFEMPJC4fzlV/Fx2GPVWh3HqMI9idh8PVclU=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8KJDCqB6djZ8dxB2dFfbdhK5k="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 35 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363066699135786@g.us",
+    "fromMe": false,
+    "id": "B91BDF19D60AB62DF26B8BAA71006A01"
+  },
+  "message": {
+    "conversation": "Alguém tem algum e-mail ou número telefone?"
+  },
+  "messageTimestamp": "1731602933",
+  "participant": "556381006335@s.whatsapp.net",
+  "messageSecret": "9UiEvNUr8/HDxy8kuAg+JVzD6CbKfZYlMOwDAODAQ04=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+oOVZeyXqGbETEb5s7zxwqjl0="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 36 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363066699135786@g.us",
+    "fromMe": false,
+    "id": "3379157A068E2B0BE8DF34ADD1550374"
+  },
+  "message": {
+    "conversation": "Estou precisando entrar em contato com Siscoaf"
+  },
+  "messageTimestamp": "1731602933",
+  "participant": "556381006335@s.whatsapp.net",
+  "messageSecret": "7S1dj3INJfv1yhWunfx+J57/FrS/yy8iS2IscBEfR+w=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9Ebk8R7GeYcojPz4h+OiDt5DY="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 37 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363066699135786@g.us",
+    "fromMe": false,
+    "id": "197636C847F4213FBA4778840BFB7567"
+  },
+  "message": {
+    "conversation": "Boa tarde colegas"
+  },
+  "messageTimestamp": "1731602932",
+  "participant": "556381006335@s.whatsapp.net",
+  "messageSecret": "wTF1Th8r1UC7AB68CzbQYWm9njaJ0dWs6TBRieoDOhY=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8o1Hplc1mqmSiZxmt+G17pUEU="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 38 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363066699135786@g.us",
+    "fromMe": false,
+    "id": "3AD8B4347375D8163714"
+  },
+  "message": {
+    "contactMessage": {
+      "displayName": "Suporte SimplifiCart",
+      "vcard": "BEGIN:VCARD\nVERSION:3.0\nN:SimplifiCart;Suporte;;;\nFN:Suporte SimplifiCart\nX-WA-BIZ-NAME:SimplifiCart\nX-WA-BIZ-DESCRIPTION:A SimplifiCart foi criada com o propósito de simplificar o cotidiano dos Cartórios, através da organização, padronização e automatização das tarefas. Todas as nossas soluções são desenvolvidas em estrita conformidade com as leis e provimentos estaduais e nacionais, garantindo assim que seu Cartório esteja sempre em conformidade.\n\nConheça nossas soluções:\n✅ Sistema de Gestão;\n✅ Assessoria LGPD (Plataforma, DPO Certificado e Adequação Documental);\n✅ Assessoria Notarial e Registral\n✅ Cursos Notariais e Registr\nTEL;waid=556391313350:+55 63 99131-3350\nEND:VCARD"
+    }
+  },
+  "messageTimestamp": "1731600719",
+  "participant": "556385035253@s.whatsapp.net",
+  "messageSecret": "mRdQUt/t6GAiwiLQBsdjPXnR1SjViRA4jDNGm9BQEfs=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8Q9HZhxCuNsYnhy0pZrA=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 39 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363066699135786@g.us",
+    "fromMe": false,
+    "id": "3AAE205F5C8FBC86DFE6"
+  },
+  "message": {
+    "contactMessage": {
+      "displayName": "SimplifiCart - Fixo",
+      "vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;SimplifiCart - Fixo;;;\nFN:SimplifiCart - Fixo\nX-WA-BIZ-NAME:SimplifiCart\nX-WA-BIZ-DESCRIPTION:Simplificamos a Gestão do seu Cartório!\n\n💻 SimplifiCart Sistemas (Gestor de Atividades + WhatsApp, Financeiro) \n\n🛡️Adequação LGPD\n\n🚀DPO em +100 Cartórios\nTEL;waid=556331420107:+55 63 3142-0107\nEND:VCARD"
+    }
+  },
+  "messageTimestamp": "1731600678",
+  "participant": "556385035253@s.whatsapp.net",
+  "messageSecret": "KcTzeZbzYuWfE9G6Jn0dzGvS32sGocjHpZ2ol9m3FHE=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+ddNMtd8jgzvuay2+8jg=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 40 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363066699135786@g.us",
+    "fromMe": false,
+    "id": "3ABBCC86F46E44675E6A"
+  },
+  "message": {
+    "messageContextInfo": {
+      "messageSecret": "LZmCTWLMh0UE0hcN/4OP0LfAKpH3ZpxcPOhdzRBPBQI="
+    },
+    "editedMessage": {
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "120363066699135786@g.us",
+            "fromMe": false,
+            "id": "3A9608C06ED488869C3A"
+          },
+          "type": "MESSAGE_EDIT",
+          "editedMessage": {
+            "conversation": "Aproveitando, salvem nossos números de suporte. Ambos são WhatsApp:"
+          },
+          "timestampMs": "1731600706820"
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1731600667",
+  "participant": "556385035253@s.whatsapp.net",
+  "messageSecret": "LZmCTWLMh0UE0hcN/4OP0LfAKpH3ZpxcPOhdzRBPBQI=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/0IA+YY1J2rhvCKmzsUjF+Z1c="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 41 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363066699135786@g.us",
+    "fromMe": false,
+    "id": "86C248712DA5782ED8F8B31F33E34CC2"
+  },
+  "message": {
+    "conversation": "Seja bem vinda!😍"
+  },
+  "messageTimestamp": "1731600486",
+  "participant": "556281002403@s.whatsapp.net",
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "120363066699135786@g.us",
+        "fromMe": false,
+        "id": "3A70930A30887AB75D58",
+        "participant": "556392029251@s.whatsapp.net"
+      },
+      "text": "🩵",
+      "senderTimestampMs": "1731600521395"
+    },
+    {
+      "key": {
+        "remoteJid": "120363066699135786@g.us",
+        "fromMe": false,
+        "id": "3A41E6BEA49F3D70BED1",
+        "participant": "556385035253@s.whatsapp.net"
+      },
+      "text": "🩵",
+      "senderTimestampMs": "1731600615313"
+    }
+  ],
+  "messageSecret": "NXjHEcRBmDqiHYuBldpQKdDwdGJjljg0YMzpYPDi5I4=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY808hLv5BuiNqXs9fUTSc9s+M8="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 42 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363066699135786@g.us",
+    "fromMe": false,
+    "id": "3AA5CB5F54B9F376AA4E"
+  },
+  "message": {
+    "messageContextInfo": {
+      "messageSecret": "HJeR3D1csMsT5ByBdgShiS990ej3TWyuBHpNte8rE+A="
+    },
+    "editedMessage": {
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "120363066699135786@g.us",
+            "fromMe": false,
+            "id": "3A8757F241102DAC0A2B"
+          },
+          "type": "MESSAGE_EDIT",
+          "editedMessage": {
+            "extendedTextMessage": {
+              "text": "Boa tarde a todos, \n\nUm prazer imenso fazer parte dessa equipe, o objetivo é somar. Ficarei feliz em atende-los e ajudar no que puder, estarei à disposição. 🩵🫱🏻‍🫲🏼🫱🏻‍🫲🏼",
+              "previewType": "NONE",
+              "contextInfo": {
+                "stanzaId": "3AF9CB78EA2CCBF69AF3",
+                "participant": "556385035253@s.whatsapp.net",
+                "quotedMessage": {
+                  "extendedTextMessage": {
+                    "text": "Boa tarde 😃 \n\nAcabo de adicionar a @556392029251 , a nova integrante do time SimplifiCart.\n\nKaren nos auxiliará no suporte ao cliente, principalmente quanto a usabilidade das ferramentas que desenvolvemos.\n\nKaren é uma profissional dedicada e compartilha dos nossos mesmos valores, além de possuir experiência com nosso ecossistema.\n\n\nSeja bem-vinda a família SimplifiCart. 👏🚀🩵",
+                    "previewType": "NONE",
+                    "contextInfo": {
+                      "mentionedJid": [
+                        "556392029251@s.whatsapp.net"
+                      ]
+                    },
+                    "inviteLinkGroupTypeV2": "DEFAULT"
+                  }
+                }
+              },
+              "inviteLinkGroupTypeV2": "DEFAULT"
+            }
+          },
+          "timestampMs": "1731600658264"
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1731600453",
+  "participant": "556392029251@s.whatsapp.net",
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "120363066699135786@g.us",
+        "fromMe": false,
+        "id": "3A77A4912EE342D75F9F",
+        "participant": "556392680805@s.whatsapp.net"
+      },
+      "text": "🩵",
+      "senderTimestampMs": "1731600659880"
+    },
+    {
+      "key": {
+        "remoteJid": "120363066699135786@g.us",
+        "fromMe": false,
+        "id": "3EB0E77BA9616D70FE6414",
+        "participant": "556384723533@s.whatsapp.net"
+      },
+      "text": "🫶",
+      "senderTimestampMs": "1731606567000"
+    },
+    {
+      "key": {
+        "remoteJid": "120363066699135786@g.us",
+        "fromMe": false,
+        "id": "3ABE7BFC4E98F440BB5F",
+        "participant": "556385035253@s.whatsapp.net"
+      },
+      "text": "🩵",
+      "senderTimestampMs": "1731600624076"
+    },
+    {
+      "key": {
+        "remoteJid": "120363066699135786@g.us",
+        "fromMe": false,
+        "id": "7E21BCA7C11B5222CD9182D12D5CE64C",
+        "participant": "556399987077@s.whatsapp.net"
+      },
+      "text": "😍",
+      "senderTimestampMs": "1731602076014"
+    }
+  ],
+  "messageSecret": "HJeR3D1csMsT5ByBdgShiS990ej3TWyuBHpNte8rE+A=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+TTpv28Mw5n6y1uHvssx9GX4s="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 43 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363066699135786@g.us",
+    "fromMe": false,
+    "id": "3A4CA826DC915B0B71B9"
+  },
+  "message": {
+    "messageContextInfo": {
+      "messageSecret": "8TTk7606QhPALzXOzLbfuJBxEPlHbiPGKxlrpRzaQIE="
+    },
+    "editedMessage": {
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "120363066699135786@g.us",
+            "fromMe": false,
+            "id": "3AF9CB78EA2CCBF69AF3"
+          },
+          "type": "MESSAGE_EDIT",
+          "editedMessage": {
+            "extendedTextMessage": {
+              "text": "Boa tarde 😃 \n\nAcabo de adicionar a @556392029251 , a nova integrante do time SimplifiCart.\n\nKaren nos auxiliará no suporte ao cliente, principalmente quanto a usabilidade das ferramentas que desenvolvemos.\n\nKaren é uma profissional dedicada e compartilha dos nossos mesmos valores, além de possuir experiência com nosso ecossistema.\n\n\nSeja bem-vinda à família SimplifiCart. 👏🚀🩵",
+              "previewType": "NONE",
+              "contextInfo": {
+                "mentionedJid": [
+                  "556392029251@s.whatsapp.net"
+                ]
+              },
+              "inviteLinkGroupTypeV2": "DEFAULT"
+            }
+          },
+          "timestampMs": "1731600806751"
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1731600149",
+  "participant": "556385035253@s.whatsapp.net",
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "120363066699135786@g.us",
+        "fromMe": false,
+        "id": "3AE1A4786C47E35D1EEA",
+        "participant": "556392029251@s.whatsapp.net"
+      },
+      "text": "🩵",
+      "senderTimestampMs": "1731600186620"
+    },
+    {
+      "key": {
+        "remoteJid": "120363066699135786@g.us",
+        "fromMe": false,
+        "id": "5AE1FD52D9FB7C65CB45C4C7DF0459FA",
+        "participant": "556281002403@s.whatsapp.net"
+      },
+      "text": "❤️",
+      "senderTimestampMs": "1731600432236"
+    },
+    {
+      "key": {
+        "remoteJid": "120363066699135786@g.us",
+        "fromMe": false,
+        "id": "3EB03FED0CD5B7D610C91D",
+        "participant": "556384723533@s.whatsapp.net"
+      },
+      "text": "😍",
+      "senderTimestampMs": "1731606561000"
+    },
+    {
+      "key": {
+        "remoteJid": "120363066699135786@g.us",
+        "fromMe": false,
+        "id": "55FF641E3A3AB42C65261F280C369CB0",
+        "participant": "558981030081@s.whatsapp.net"
+      },
+      "text": "👏",
+      "senderTimestampMs": "1731601306795"
+    },
+    {
+      "key": {
+        "remoteJid": "120363066699135786@g.us",
+        "fromMe": false,
+        "id": "F2B01957D70273B0A4E89F78BF808489",
+        "participant": "556399801530@s.whatsapp.net"
+      },
+      "text": "👍🏼",
+      "senderTimestampMs": "1731600706467"
+    },
+    {
+      "key": {
+        "remoteJid": "120363066699135786@g.us",
+        "fromMe": false,
+        "id": "424C9B837E1C8CF6EDAF8BFC88301F67",
+        "participant": "556399987077@s.whatsapp.net"
+      },
+      "text": "😍",
+      "senderTimestampMs": "1731602085148"
+    }
+  ],
+  "messageSecret": "8TTk7606QhPALzXOzLbfuJBxEPlHbiPGKxlrpRzaQIE=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8/OzuU9u8r1zJ2JJjqy9QSSdE="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 44 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB02D5C18879441FDD52A"
+  },
+  "message": {
+    "conversation": "‎ Prezado(a) Ludimilla Cantareli,\n\nNotamos que o seu chamado está inativo, por isso estamos encerrando-o temporariamente. Caso deseje retomar o atendimento, basta responder com um “Oi” e daremos continuidade ao seu atendimento.\n\nAtenciosamente,\nEquipe SimplifiCart"
+  },
+  "messageTimestamp": "1731559440",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731559598",
+      "readTimestamp": "1731577554",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 45 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558499468966@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0D49AD00AD2941A96DB"
+  },
+  "message": {
+    "conversation": "‎ Prezado(a) Monique Garcia,\n\nNotamos que o seu chamado está inativo, por isso estamos encerrando-o temporariamente. Caso deseje retomar o atendimento, basta responder com um “Oi” e daremos continuidade ao seu atendimento.\n\nAtenciosamente,\nEquipe SimplifiCart"
+  },
+  "messageTimestamp": "1731557700",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "558499468966@s.whatsapp.net",
+      "receiptTimestamp": "1731557700",
+      "readTimestamp": "1731574685",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 46 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F8E46E990EA07AFCC4"
+  },
+  "message": {
+    "conversation": "‎ Olá Ludimilla, essa é uma mensagem agendada! Passando para te lembrar da nossa reunião agendada para amanhã às 0:39:10 .\n\nSegue seu Número de 2024111403910 "
+  },
+  "messageTimestamp": "1731555550",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731555550",
+      "readTimestamp": "1731555557",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 47 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556398503525@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0679A45E8743FC68C39"
+  },
+  "message": {
+    "conversation": "‎ Olá Ludimilla, Boa noite !\n\nPassando para lembrar da nossa reunião agendada para amanhã às 23:45:10 .\n\nSegue também seu número de Protocolo: 20241113234510 "
+  },
+  "messageTimestamp": "1731552310",
+  "status": "SERVER_ACK"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 48 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB00A2A51CE11456198C8"
+  },
+  "message": {
+    "conversation": "‎Antes de finalizarmos, seria possível nos dar um feedback sobre sua experiência? Caso sim, por gentileza, como você avaliaria nosso atendimento?\n\nDigite de 1 à 3 para qualificar nosso atendimento:\n*1* - _Insatisfeito_\n*2* - _Satisfeito_\n*3* - _Muito Satisfeito_\n\n"
+  },
+  "messageTimestamp": "1731552224",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731552227",
+      "readTimestamp": "1731552548",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 49 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB05442A1206184B0A403"
+  },
+  "message": {
+    "conversation": "*Mensagem Automática:*\nBoa noite *Ludimilla Cantareli*, meu nome é *Ludimilla Cantareli* e agora vou prosseguir com seu atendimento!"
+  },
+  "messageTimestamp": "1731551940",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731551942",
+      "readTimestamp": "1731551949",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 50 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0D5A7342D8FED5D2162"
+  },
+  "message": {
+    "conversation": "‎Que maravilha, ficamos contentes em ter você aqui, será uma satisfação enorme ter você utilizando nossos produtos ou serviços. Para entendermos um pouco mais sobre o que precisa, por gentileza selecione abaixo o(s) serviço(s) que deseja conhecer.\n\n*[ 1 ]* - Gestor de Atividades\n*[ 2 ]* - Gestor Financeiro\n*[ 3 ]* - WhatsApp Profissional\n*[ 4 ]* - Gerador de Matrícula\n*[ 5 ]* - Assessoria LGPD \n\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1731551674",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731551675",
+      "readTimestamp": "1731551675",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 51 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A6CF31F50A619978EA3"
+  },
+  "message": {
+    "conversation": "4"
+  },
+  "messageTimestamp": "1731551674",
+  "messageSecret": "++MW9sBynvTZD5lFgtcS/v18HzBxF9EGUkefgG4KPrw=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+fut1o5qNCDKbFkCNGjd3NZTM="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 52 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB081AD01CA391337484F"
+  },
+  "message": {
+    "conversation": "‎Olá, Ludimilla Cantareli!\n\nSeja bem-vindo(a) à SimplifiCart! Para darmos continuidade, escolha abaixo a opção que melhor atenda sua necessidade:\n\n*[ 1 ]* - Recepção\n*[ 2 ]* - Suporte Técnico\n*[ 3 ]* - Financeiro\n*[ 4 ]* - Comercial\n*[ 5 ]* - Ouvidora (Elogios l Sugestões l Reclamações)\n*[ 6 ]* - Canal LGPD\n"
+  },
+  "messageTimestamp": "1731551659",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731551660",
+      "readTimestamp": "1731551660",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 53 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A4892DC1431841C2E4D"
+  },
+  "message": {
+    "conversation": "#"
+  },
+  "messageTimestamp": "1731551659",
+  "messageSecret": "Xm6F5TCbw7THeGUxgT77pQTVLtwntvLTeIpCLYV7vYQ=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+5Z45/ttfDrhy1g6AEjTvqTqA="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 54 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A2AA827E16E47EEBD7"
+  },
+  "message": {
+    "conversation": "‎Entendi, você precisa de suporte com nosso módulo Gerador de Matricula. Por gentileza, poderia informar como podemos te ajudar?\n\n\n*[ 0 ]* - Menu anterior\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1731551648",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731551649",
+      "readTimestamp": "1731551649",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 55 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3AC2FC5A5A7E3BB0AE00"
+  },
+  "message": {
+    "conversation": "4"
+  },
+  "messageTimestamp": "1731551648",
+  "messageSecret": "to/+NLqTeE5JmvemgzlBhMv6b7vDyu+Mtnzu+ZXGIuc=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8V2fWyLtVRME/7WGp5Mdd1Eqk="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 56 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB00968E456051434DA51"
+  },
+  "message": {
+    "conversation": "‎Você escolheu a *opção 02 - Suporte Técnico*, selecione abaixo para qual serviço precisa\nde suporte:\n\n\n\n*[ 1 ]* - Gestor de Atividades\n*[ 2 ]* - Gestor Financeiro\n*[ 3 ]* - WhatsApp Profissional\n*[ 4 ]* - Gerador de Matrícula\n*[ 5 ]* - LGPD\n\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1731551643",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731551644",
+      "readTimestamp": "1731551644",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 57 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A1ACA15E680B8F6BF2C"
+  },
+  "message": {
+    "conversation": "0"
+  },
+  "messageTimestamp": "1731551642",
+  "messageSecret": "/kMp+D03gBhLFOavocw35FTTa9mVngFxopfUo/uRd58=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+UJyuzOCjC0x8dEBaa7YFY70k="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 58 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F17244CB0E50FBC906"
+  },
+  "message": {
+    "conversation": "‎Entendi, você precisa de suporte em ferramenta de WhatsApp Profissional. Como podemos te ajudar?\n\n\n*[ 0 ]* - Menu anterior\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1731551537",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731551537",
+      "readTimestamp": "1731551537",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 59 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3AB971FBE9F66E1776FE"
+  },
+  "message": {
+    "conversation": "3"
+  },
+  "messageTimestamp": "1731551536",
+  "messageSecret": "cO2kctnh7W/WYQZAMO0f0bxv41tLGW9M1HWIsdZewWM=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8JamBjSZcmZwmX8FcwVP5IuFU="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 60 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0590C8DDC3C4FC94405"
+  },
+  "message": {
+    "conversation": "‎Você escolheu a *opção 02 - Suporte Técnico*, selecione abaixo para qual serviço precisa\nde suporte:\n\n\n\n*[ 1 ]* - Gestor de Atividades\n*[ 2 ]* - Gestor Financeiro\n*[ 3 ]* - WhatsApp Profissional\n*[ 4 ]* - LGPD\n\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1731551525",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731551526",
+      "readTimestamp": "1731551526",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 61 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A8CF3BF4E4DA4DB31DB"
+  },
+  "message": {
+    "conversation": "2"
+  },
+  "messageTimestamp": "1731551525",
+  "messageSecret": "yVwsREcfwbnZgWMVZQBH5nogPKmXishnTr25JB8ZYvI=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY81iPVPDkn9L4Y5xdxnIlBNABM="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 62 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0AD194329069B1855EA"
+  },
+  "message": {
+    "conversation": "‎Olá, Ludimilla Cantareli!\n\nSeja bem-vindo(a) à SimplifiCart! Para darmos continuidade, escolha abaixo a opção que melhor atenda sua necessidade:\n\n*[ 1 ]* - Recepção\n*[ 2 ]* - Suporte Técnico\n*[ 3 ]* - Financeiro\n*[ 4 ]* - Comercial\n*[ 5 ]* - Ouvidora (Elogios l Sugestões l Reclamações)\n*[ 6 ]* - Canal LGPD\n"
+  },
+  "messageTimestamp": "1731551521",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731551522",
+      "readTimestamp": "1731551522",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 63 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3AB1D7B6EFB4C52B9CB2"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1731551520",
+  "messageSecret": "pUzGwKlN2I+1xeoQ8D5J0+TqyMlpm05M5hmnG+ud8CU=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9cQYo65ETXRdhdap3LBZ2wCrk="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 64 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB01A9A31161EF834F0D5"
+  },
+  "message": {
+    "conversation": "‎Foi um ótimo atender você! Para garantir um controle eficiente dos atendimento, estamos encerrando seu chamado. Lembre-se que se precisar de algo, basta nos acionar novamente. \n\nSeu número de protocolo é: ."
+  },
+  "messageTimestamp": "1731551464",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731551465",
+      "readTimestamp": "1731551465",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 65 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A62F23DAA6E71F69305"
+  },
+  "message": {
+    "conversation": "3"
+  },
+  "messageTimestamp": "1731551464",
+  "messageSecret": "mQRj0vZSkftiOIpT0bbUoJ5rS0c8jck2PtRPvf3ZNMA=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/pyfEaIqP7meb05k4MDAnos8E="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 66 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0C09B9B993F2612F6A4"
+  },
+  "message": {
+    "conversation": "‎Antes de finalizarmos, seria possível nos dar um feedback sobre sua experiência? Caso sim, por gentileza, como você avaliaria nosso atendimento?\n\nDigite de 1 à 3 para qualificar nosso atendimento:\n*1* - _Insatisfeito_\n*2* - _Satisfeito_\n*3* - _Muito Satisfeito_\n\n"
+  },
+  "messageTimestamp": "1731551446",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731551447",
+      "readTimestamp": "1731551447",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 67 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A7F3B2CB3FE4F94DEDD"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1731551434",
+  "messageSecret": "N5su+5+CNMKgG3iOEi/cIK15ksjFRsfTIHDrtxsOq8Y=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8TTSnnMCFM6LGW6oqInyvXSfY="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 68 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0AED2AAD0D4E282CB3E"
+  },
+  "message": {
+    "conversation": "*Ludimilla Cantareli:*\nComo posso ajudar?"
+  },
+  "messageTimestamp": "1731550438",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731550439",
+      "readTimestamp": "1731550439",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 69 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0AF79BE81F6ECF9B3C7"
+  },
+  "message": {
+    "conversation": "*Ludimilla Cantareli:*\nOlá, Ludimilla!"
+  },
+  "messageTimestamp": "1731550425",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731550426",
+      "readTimestamp": "1731550426",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 70 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A76D18FC3DA4DAEB31F"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1731550369",
+  "messageSecret": "2EoKtsulR7VpxyMbc8I5cvX181rdt1y+Cv6ralOH7PI=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+gO2+C1HNX/QBKqGNXjMOjQhQ="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 71 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A6D102D00AC81B96610"
+  },
+  "message": {
+    "conversation": "0"
+  },
+  "messageTimestamp": "1731548237",
+  "messageSecret": "USFkKWCnGkkYnScNU2gttgL6RG7eti/8qQi0C8xBqCA=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8X6T5DbuivPG2QM91R1Ce8Dpc="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 72 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0683C6505CEF3DFC7DF"
+  },
+  "message": {
+    "conversation": "‎Que maravilha, ficamos contentes em ter você aqui, será uma satisfação enorme ter você utilizando nossos produtos ou serviços. Para entendermos um pouco mais sobre o que precisa, por gentileza selecione abaixo o(s) serviço(s) que deseja conhecer.\n\n1 - Sistemas SimplifiCart (Gestor Atividades, Gestor de Requerimentos)\n2 - Assessoria LGPD (Plataforma + DPO Certificado + Implementações)\n3 - Cursos\n4 - Assessoria Notarial e Registral\n10 - Quero conhecer todos!\n\n↩️ 0 - Voltar ao menu principal"
+  },
+  "messageTimestamp": "1731548233",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731548234",
+      "readTimestamp": "1731548234",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 73 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A63260A119839B72052"
+  },
+  "message": {
+    "conversation": "4"
+  },
+  "messageTimestamp": "1731548232",
+  "messageSecret": "uz+UNiGhEgEepwyVXsCAYDR5ZeYzra4HqMrAqWDlrOY=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+yscva5bFt/Ay1pviikdbIVdY="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 74 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB082595AAB6874E2F55E"
+  },
+  "message": {
+    "conversation": "‎Olá, Ludimilla Cantareli!\n\nSeja bem-vindo(a) à SimplifiCart! Para darmos continuidade, escolha abaixo a opção que melhor atenda sua necessidade:\n\n*[ 1 ]* - Recepção\n*[ 2 ]* - Suporte Técnico\n*[ 3 ]* - Financeiro\n*[ 4 ]* - Comercial\n*[ 5 ]* - Ouvidora (Elogios l Sugestões l Reclamações)\n*[ 6 ]* - Canal LGPD\n"
+  },
+  "messageTimestamp": "1731548223",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731548224",
+      "readTimestamp": "1731548224",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 75 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3ABB2330DBBD5AF17BB5"
+  },
+  "message": {
+    "conversation": "#"
+  },
+  "messageTimestamp": "1731548223",
+  "messageSecret": "1i8wS+cIO0zwoLjaKTLXgV2AcfngBN6s2byYGtMk6pY=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/oDkGmqWvl2xwgw+4l13hrMR0="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 76 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0FA42D0875258BF46CD"
+  },
+  "message": {
+    "conversation": "‎Entendi, você precisa de suporte em nossa ferramenta Gestor de Atividades. Como podemos te ajudar?\n\n\n*[ 0 ]* - Menu anterior\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1731548206",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731548207",
+      "readTimestamp": "1731548207",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 77 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A368EAD6646FCFD6FAC"
+  },
+  "message": {
+    "conversation": "1"
+  },
+  "messageTimestamp": "1731548206",
+  "messageSecret": "QyjMIMklue91TT0jEokft4vLFGMLL2ClJsTgBxFUvp0=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8tPaAS8XzMOOR+GJRRzQ+mqZ8="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 78 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08E2B6A42816B2063F7"
+  },
+  "message": {
+    "conversation": "‎Você escolheu a *opção 02 - Suporte Técnico*, selecione abaixo para qual serviço precisa\nde suporte:\n\n\n\n*[ 1 ]* - Gestor de Atividades\n*[ 2 ]* - Gestor Financeiro\n*[ 3 ]* - WhatsApp Profissional\n*[ 4 ]* - LGPD\n\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1731548195",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731548195",
+      "readTimestamp": "1731548195",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 79 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A0E7886659DE6DDE2CB"
+  },
+  "message": {
+    "conversation": "2"
+  },
+  "messageTimestamp": "1731548194",
+  "messageSecret": "Nmo43Oc0LQUFL5iAFRjmfr/TUjHerC8FQN3D/aSZ0qM=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9TibZbhHNH8o5CdHvDsUPbNoE="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 80 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB07E681CEC5A5D681C7C"
+  },
+  "message": {
+    "conversation": "‎Olá, Ludimilla Cantareli!\n\nSeja bem-vindo(a) à SimplifiCart! Para darmos continuidade, escolha abaixo a opção que melhor atenda sua necessidade:\n\n*[ 1 ]* - Recepção\n*[ 2 ]* - Suporte Técnico\n*[ 3 ]* - Financeiro\n*[ 4 ]* - Comercial\n*[ 5 ]* - Ouvidora (Elogios l Sugestões l Reclamações)\n*[ 6 ]* - Canal LGPD\n"
+  },
+  "messageTimestamp": "1731548181",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731548182",
+      "readTimestamp": "1731548182",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 81 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A9CDC4275B4605D813B"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1731548181",
+  "messageSecret": "+Kdw1CSYLsmq4wX2Bj4hMqhZkkr0G7guj6twmpBF2QI=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8GKYYksgv6pcIWemLyS/mEyDk="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 82 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB051270B7133E74ECA26"
+  },
+  "message": {
+    "conversation": "‎ No momento, nossa equipe está fora do horário de atendimento. Estamos disponíveis de segunda a sexta-feira, das 9h às 18h. Assim que o expediente iniciar, estaremos prontos para lhe atender!\n\nAtenciosamente,\nEquipe SimplifiCart"
+  },
+  "messageTimestamp": "1731548130",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731548131",
+      "readTimestamp": "1731548131",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 83 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3AB3359D8230E7FC6C1A"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1731548126",
+  "messageSecret": "yVENWQtVnouJ1qsnzQzN+5xXXM6JeRuelAPjARv2Eus=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/dHbJiDmLYjLbDd5/8nil4yPU="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 84 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556398452977@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0E458B7EF7505129FB1"
+  },
+  "message": {
+    "conversation": "‎ Prezado(a) Girley Almeida,\n\nNotamos que o seu chamado está inativo, por isso estamos encerrando-o temporariamente. Caso deseje retomar o atendimento, basta responder com um “Oi” e daremos continuidade ao seu atendimento.\n\nAtenciosamente,\nEquipe SimplifiCart"
+  },
+  "messageTimestamp": "1731545520",
+  "status": "SERVER_ACK"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 85 de 85
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "556385035253@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB07852414CB0D6ED5C6A"
+  },
+  "message": {
+    "conversation": "‎ Prezado(a) Ludimilla Cantareli,\n\nNotamos que o seu chamado está inativo, por isso estamos encerrando-o temporariamente. Caso deseje retomar o atendimento, basta responder com um “Oi” e daremos continuidade ao seu atendimento.\n\nAtenciosamente,\nEquipe SimplifiCart"
+  },
+  "messageTimestamp": "1731544440",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "556385035253@s.whatsapp.net",
+      "receiptTimestamp": "1731544440",
+      "readTimestamp": "1731548123",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 

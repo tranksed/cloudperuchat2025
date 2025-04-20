@@ -1,0 +1,14 @@
+#messageReactionIconContainer{
+  margin-bottom: 1.5px;
+}
+#messageReactionIcon {
+  display: none;
+  color: #999;
+  z-index: 10;
+  background-color: inherit;
+
+}
+#messageReactionIconContainer:hover #messageReactionIcon {
+  background-color: inherit;
+  display: block;
+}

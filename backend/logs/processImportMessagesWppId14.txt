@@ -1,0 +1,2734 @@
+Aguardando conexão para iniciar a importação de mensagens:
+    Whatsapp nome: Teste
+    Whatsapp Id: 14
+    Criação do arquivo de logs: 18/11/2024 10:31:50
+    Selecionado Data de inicio de importação: 18/11/2024 08:29:00 
+    Selecionado Data final da importação: 18/11/2024 10:28:00 
+     
+
+Mensagem 1 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558196277285@s.whatsapp.net",
+    "fromMe": false,
+    "id": "66540F90106B21CBCAF0707EF2D0A011"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/20128999_1528617764469885_110457271243212810_n.enc?ccb=11-4&oh=01_Q5AaIGbQe2WkBOx2EISsySYIRilVGW6PmFmpkwOcC2L5sg9_&oe=6762C05B&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "VLTIAkiIfaLRBG1XDMW4Bi8OmjfAaD4ox9bJTiwqvg0=",
+      "fileLength": "14017",
+      "seconds": 6,
+      "ptt": true,
+      "mediaKey": "M4mf5vTA3FDJ7Y7nrDFeuCdcX3sE7ZHXS2Dngg+gSQo=",
+      "fileEncSha256": "V4iRTz38YBqo2rU9HnKQ4lJi8VWzlMF5HoFhicBHwkA=",
+      "directPath": "/v/t62.7117-24/20128999_1528617764469885_110457271243212810_n.enc?ccb=11-4&oh=01_Q5AaIGbQe2WkBOx2EISsySYIRilVGW6PmFmpkwOcC2L5sg9_&oe=6762C05B&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1731936463",
+      "waveform": "HikgHBUZGyIfPlJcWFs6WlRYXmJbQk4yV0BRPD4gGEpeWFJAS1JgRDxHPxtRSlpYWUpZDxgQBgoHBgABAAwGCg=="
+    }
+  },
+  "messageTimestamp": "1731936472",
+  "status": "PLAYED",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Voice Notes/202447/PTT-20241118-WA0030.opus"
+  },
+  "messageSecret": "zl3YrHKuL5F2w/5Ov9YyBIIRVAdmS53AJZnRKU4aZNQ=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9ZeVv7dOfqnDGAYJXYyKt1HOM="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 2 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558196277285@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB07441607CE7FDDD6E14"
+  },
+  "message": {
+    "conversation": "ele tem flowbuilder?"
+  },
+  "messageTimestamp": "1731936453",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "558196277285@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731936454",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "ZWbf6mjn91h8r1RR/912Rxskx5qMeMmz+/Q3hy70ILo="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 3 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558196277285@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0AB0C80D035378387B7"
+  },
+  "message": {
+    "conversation": "entendi"
+  },
+  "messageTimestamp": "1731936442",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "558196277285@s.whatsapp.net",
+      "receiptTimestamp": "1731936443",
+      "readTimestamp": "1731936448",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "NYAzMlgRFNA+9Ajc3EhdGoOHStKks8ZOmZT1oZWibSk="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 4 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558196277285@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A6732B519A42DBF301"
+  },
+  "message": {
+    "conversation": "Bom dia"
+  },
+  "messageTimestamp": "1731936399",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "558196277285@s.whatsapp.net",
+      "receiptTimestamp": "1731936400",
+      "readTimestamp": "1731936402",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "+p6irIf/nGMDMzH7Ci3t0TAUDAM9gstEAub4+KkwEwI="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 5 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558196277285@s.whatsapp.net",
+    "fromMe": false,
+    "id": "67929C26554C0CAF5B310E4E44A70BF9"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/30598904_1362126664760153_2214229894884996420_n.enc?ccb=11-4&oh=01_Q5AaIKzVrpdHoHDyXXU-RShq6GaxBmwFMPjlDWchcPXF3Ron&oe=6762BE48&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "7MUDTgLK7JlyoWfA1R/7kfa7WiRALYxg6Xx022hb6vU=",
+      "fileLength": "71419",
+      "seconds": 30,
+      "ptt": true,
+      "mediaKey": "EGqu44XSCws493iIHegcCxVaAfWOv5gLPHmV+myDNXQ=",
+      "fileEncSha256": "5d2OnfErStiYkZMbGgKzr7sAOiQrXuIfuk3ZTP2/Lsk=",
+      "directPath": "/v/t62.7117-24/30598904_1362126664760153_2214229894884996420_n.enc?ccb=11-4&oh=01_Q5AaIKzVrpdHoHDyXXU-RShq6GaxBmwFMPjlDWchcPXF3Ron&oe=6762BE48&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1731936370",
+      "waveform": "Jx5PXR9WUl89WilbQUpeJl5cVVlfRx5MWVtIRFgdF0hPFVo4XS8xYjZTQltYM1VgGClSXFlDTzNdFx1aTF1dBg=="
+    }
+  },
+  "messageTimestamp": "1731936399",
+  "status": "PLAYED",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Voice Notes/202447/PTT-20241118-WA0029.opus"
+  },
+  "messageSecret": "4HEdIdrW84L/NnCCKsYwFnIu1mla7gMGQTFpBnGuybk=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY98N/Uwfj9i5rcnakFVL/hylpU="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 6 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558196277285@s.whatsapp.net",
+    "fromMe": false,
+    "id": "557AE732B78539379D8C1EC7E99A3F75"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/11410906_2043918199369031_4396769924381645709_n.enc?ccb=11-4&oh=01_Q5AaIM_7q2xpk7VgE-rV_0-2glSYFJx0gju48K5vRnVtGiHB&oe=6762BB29&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "PY49X09lJuaushACHaopm3gIb6a5KmaW+aMNkLx53lI=",
+      "fileLength": "64441",
+      "seconds": 27,
+      "ptt": true,
+      "mediaKey": "g18Ma9yUz1+Vwk2z8Jfp49y8YyVN/vxNU5UTQdiK0DA=",
+      "fileEncSha256": "IcoXB8RRd3WOtRNn2130mfvls5K81xDhKA3+jhOf6fY=",
+      "directPath": "/v/t62.7117-24/11410906_2043918199369031_4396769924381645709_n.enc?ccb=11-4&oh=01_Q5AaIM_7q2xpk7VgE-rV_0-2glSYFJx0gju48K5vRnVtGiHB&oe=6762BB29&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1731936340",
+      "waveform": "MDMxMz9iUFhfUF5BXVFHXV5UWFk5Sj5fUV5aWUJbVE49RTwpQ1VVXFUxR0pdLCBgWUs1KGIvRVpYXERIUl9OIA=="
+    }
+  },
+  "messageTimestamp": "1731936367",
+  "status": "PLAYED",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Voice Notes/202447/PTT-20241118-WA0028.opus"
+  },
+  "messageSecret": "JRqw7XerKFGeYm1PX91t95wlIajakyFikp93wCF4cDU=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/V4T4T07pgWt9PI0jbGfouMnQ="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 7 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558196277285@s.whatsapp.net",
+    "fromMe": false,
+    "id": "BC49182257DDA2C44E2B49B1A01F9D55"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/11285522_1754716005349956_8908469337788472796_n.enc?ccb=11-4&oh=01_Q5AaICpIUvl01H-kZuje8plNySbs7tfP58DDcm6JLOnyWDG8&oe=6762BF06&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "WLIVkeFBEPFRvEdT16sBeTgiWbgp7G6BCZgBz8MxGCk=",
+      "fileLength": "31212",
+      "seconds": 13,
+      "ptt": true,
+      "mediaKey": "qx6rxyYNcJA1L2GARcSVtLDfv0gAnRaNDB2EM/6lrhc=",
+      "fileEncSha256": "u4zVAjM60AEHeAiEq3d5v0kssljFPldhavNurpn3III=",
+      "directPath": "/v/t62.7117-24/11285522_1754716005349956_8908469337788472796_n.enc?ccb=11-4&oh=01_Q5AaICpIUvl01H-kZuje8plNySbs7tfP58DDcm6JLOnyWDG8&oe=6762BF06&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1731936322",
+      "waveform": "JysnMV1XW0cyUTw2L1lgYVtcRl1SYFZHV2FWMi0tMjtYV1NMW1xXKyclUVNcS0piLykrS1JfX0NbX1lNLjU2Kg=="
+    }
+  },
+  "messageTimestamp": "1731936336",
+  "status": "PLAYED",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Voice Notes/202447/PTT-20241118-WA0027.opus"
+  },
+  "messageSecret": "UJ4trpJ+fcJL8hF4B5ZfiT4Pb2msLINEF5DYGJ262O4=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+V7PrTXW10OpqInqNp8HDQ6ls="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 8 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0CD7408BDF1FB582000"
+  },
+  "message": {
+    "conversation": "😬"
+  },
+  "messageTimestamp": "1731936284",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553192695171@s.whatsapp.net",
+      "receiptTimestamp": "1731936284",
+      "readTimestamp": "1731936300",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "Vf9fN6cv86CFpq8c9579al+eVM6jSA3ctDFsJfOa9eQ="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 9 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558196277285@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB09E4219B6B86F786295"
+  },
+  "message": {
+    "conversation": "qual o valor"
+  },
+  "messageTimestamp": "1731936279",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "558196277285@s.whatsapp.net",
+      "receiptTimestamp": "1731936280",
+      "readTimestamp": "1731936402",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "hEjjTAB4UrJotgOpbeH/YohSbtQzB7hmAurZDSUT2Yo="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 10 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558196277285@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0C7770E5FFA8480AD68"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "https://www.youtube.com/watch?v=ejqWxPbPGaQ&ab_channel=VemFazer",
+      "matchedText": "https://www.youtube.com/watch?v=ejqWxPbPGaQ&ab_channel=VemFazer",
+      "canonicalUrl": "https://www.youtube.com/watch?v=ejqWxPbPGaQ&ab_channel=VemFazer",
+      "description": "https://www.youtube.com/watch?v=ejqWxPbPGaQ&ab_channel=VemFazer",
+      "title": "www.youtube.com",
+      "previewType": "NONE",
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1731936278",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "558196277285@s.whatsapp.net",
+      "receiptTimestamp": "1731936279",
+      "readTimestamp": "1731936402",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "LBhmZV905P5QxTrCPjk0NoePGNgPT0MPP0DKV7HHmDg="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 11 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "558196277285@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB080371757A9D7D3528F"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1731936266",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "558196277285@s.whatsapp.net",
+      "receiptTimestamp": "1731936268",
+      "readTimestamp": "1731936402",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "p9w4LDroTBm+CYbmTWxCBbN7NxKnM5tqFY1yFlepfiU="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 12 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB068C89A95ADD2F7CDB7"
+  },
+  "message": {
+    "conversation": "nem sei quando eu vou ter férias"
+  },
+  "messageTimestamp": "1731936130",
+  "messageSecret": "pXwP7Xcq2GDkmDDskVxiljnlVM9kXNZFiVodv+YL3F8=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8V4AAta/OBPWvb+jeb9g=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 13 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB001858C0F50E9771A5D"
+  },
+  "message": {
+    "conversation": "fala q hoje é o ultimo dia de trabalho e amanhã estamos de ferias"
+  },
+  "messageTimestamp": "1731936071",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553192695171@s.whatsapp.net",
+      "receiptTimestamp": "1731936071",
+      "readTimestamp": "1731936107",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "QEbV1RorwnYqHIwB54Um+uAff/rRTgnnIAhtSR53Alg="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 14 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB082D7D1CB38DC88D305"
+  },
+  "message": {
+    "conversation": "kkkkk"
+  },
+  "messageTimestamp": "1731936061",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553192695171@s.whatsapp.net",
+      "receiptTimestamp": "1731936062",
+      "readTimestamp": "1731936107",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "gqABh+7+8xw1PW8RAt1tZG6iPHZMmvU2Di7WwAE6xf4="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 15 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553194401920@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB099355AC21CC1E272DA"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "https://userede.com.br/pagamentos/pt/pf27uyq3",
+      "matchedText": "https://userede.com.br/pagamentos/pt/pf27uyq3",
+      "canonicalUrl": "https://userede.com.br/pagamentos/pt/pf27uyq3",
+      "description": "https://userede.com.br/pagamentos/pt/pf27uyq3",
+      "title": "userede.com.br",
+      "previewType": "NONE",
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1731936054",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553194401920@s.whatsapp.net",
+      "receiptTimestamp": "1731936054",
+      "readTimestamp": "1731936058",
+      "playedTimestamp": "0"
+    }
+  ],
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "553194401920@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3EB04D33D87A0BBA5F7EBA"
+      },
+      "text": "👍🏾",
+      "senderTimestampMs": "1731936383000",
+      "unread": true
+    }
+  ],
+  "messageSecret": "RHCsbvOBrxe2WR8pKXk7IQ8VwWoYTFKXe03LHX5hXS4="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 16 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB050015948453B56B70A"
+  },
+  "message": {
+    "conversation": "fala que já é dia de pagamento"
+  },
+  "messageTimestamp": "1731935974",
+  "messageSecret": "vBZEYKM6tJ0Fije8y+wp0R4qyjwIt3jUx8MI12Y316Q=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8Gcgka24ZNtfnv6fEpkg=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 17 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553194401920@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB04939B692113F9EB49F"
+  },
+  "message": {
+    "conversation": "Não passou tudo no caixa"
+  },
+  "messageTimestamp": "1731935756",
+  "messageSecret": "s8RAzDflU7afZYvK9kFmGWEtwbXIbPSgjavtMQwt0IU=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/XKqwwRUlt5BUl9fl9Tw=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 18 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553194401920@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0DA67439ED9A3DFD264"
+  },
+  "message": {
+    "conversation": "😡"
+  },
+  "messageTimestamp": "1731935747",
+  "messageSecret": "CEaFl6DR6FRFy6y3XU346UfS/FEmugYauE3zoNiX8Gw=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8o4xx6x94IMrvfNM8zmA=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 19 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553194401920@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0FED2127D496C05A828"
+  },
+  "message": {
+    "conversation": "Cria pra mim agora um de R$1000,00 de 6x por favor"
+  },
+  "messageTimestamp": "1731935738",
+  "messageSecret": "LIuXLEkKzjDF/PKYmSWTqXQ/b0ACnP7qvQGxHj6c90w=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9dFr/Ieco+a2/8/e2eIQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 20 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0C0803CFDDC6A615E80"
+  },
+  "message": {
+    "conversation": "ah sim"
+  },
+  "messageTimestamp": "1731935321",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553192695171@s.whatsapp.net",
+      "receiptTimestamp": "1731935322",
+      "readTimestamp": "1731935455",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 21 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0F12A989F8F4ECAA9AF"
+  },
+  "message": {
+    "conversation": "hj não"
+  },
+  "messageTimestamp": "1731935293",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/oCX4JDXTEIQFkCHxBqQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 22 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553194401920@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0599CA54B56AD5DCC20"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://web.whatsapp.net",
+      "fileSha256": "qBMh9h7sehUQCr2FYHJX9gQ5uEsXYpsRM38C6+X1AcY=",
+      "fileEncSha256": "4ymwTgAFkqvZQp35MBe/nlP98PvKKEBFan3WGbEjCVY=",
+      "mediaKey": "nxpGu5XCxjhmSoEJ5SSDwEGWI0po2X3dgUnWms+CNQY=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/11785876_8506829172773567_4343742476764344353_n.enc?ccb=11-4&oh=01_Q5AaIPBC4IudhB8Law5nhlr-xuQk-aV9alX3XTjwJdXzfFfW&oe=6762C1EB&_nc_sid=5e03e0",
+      "fileLength": "472948",
+      "mediaKeyTimestamp": "1731408946",
+      "firstFrameLength": 10924,
+      "firstFrameSidecar": "MmkvX53ziLbEUg==",
+      "isAnimated": true,
+      "stickerSentTs": "1731935292000",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1731935292",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Stickers/STK-20220821-WA0053.webp"
+  },
+  "userReceipt": [
+    {
+      "userJid": "553194401920@s.whatsapp.net",
+      "receiptTimestamp": "1731935292",
+      "readTimestamp": "1731935294",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 23 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553194401920@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0A828AD6A1A86273B52"
+  },
+  "message": {
+    "conversation": "Mulher maluca"
+  },
+  "messageTimestamp": "1731935274",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/if3zpEKeulcDgOr2htQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 24 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553194401920@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB09D6C7345B9F4C84139"
+  },
+  "message": {
+    "conversation": "Pode cancelar, vlw"
+  },
+  "messageTimestamp": "1731935271",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/RjFF7j142NlnKICSxMQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 25 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A649029B9EC8C2B848"
+  },
+  "message": {
+    "conversation": "tem despacho hj?"
+  },
+  "messageTimestamp": "1731935256",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553192695171@s.whatsapp.net",
+      "receiptTimestamp": "1731935257",
+      "readTimestamp": "1731935285",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 26 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553196756772@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB01ABA4135E1A7107B59"
+  },
+  "message": {
+    "conversation": "vão querer renovar?"
+  },
+  "messageTimestamp": "1731935234",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "553196756772@s.whatsapp.net",
+      "receiptTimestamp": "1731935234",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "NvKSWAKcBOhhWWvTKzDcDgnxHM5ActPRjAEz87RjYT0="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 27 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553196756772@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB03DE0B7387587C1AE16"
+  },
+  "message": {
+    "conversation": "o plano do spotify vence agora em dezembro"
+  },
+  "messageTimestamp": "1731935230",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "553196756772@s.whatsapp.net",
+      "receiptTimestamp": "1731935232",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 28 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553196756772@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB063711B375A7F6E8112"
+  },
+  "message": {
+    "conversation": "cole"
+  },
+  "messageTimestamp": "1731935217",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "553196756772@s.whatsapp.net",
+      "receiptTimestamp": "1731935218",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 29 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553134955145@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB099F50D2AC270D5F05B"
+  },
+  "message": {
+    "conversation": "Não atendo"
+  },
+  "messageTimestamp": "1731935172",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553134955145@s.whatsapp.net",
+      "receiptTimestamp": "1731935172",
+      "readTimestamp": "1731935176",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 30 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553194401920@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0F497FB5462C86ECDEF"
+  },
+  "message": {
+    "conversation": "Se for o caso vou te pedir para gerar novamente"
+  },
+  "messageTimestamp": "1731934828",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/0FKqwnB5A6dyqfTuaBQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 31 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553194401920@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB01BBF8E1C0A0CE21636"
+  },
+  "message": {
+    "conversation": "Estou ouvindo ela conversar aqui"
+  },
+  "messageTimestamp": "1731934811",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/xexhAexx8j2ahqZUDxg=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 32 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553194401920@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB01D6F61CBF40A268062"
+  },
+  "message": {
+    "conversation": "Quando são dois 2 cartões, tem que gerar 2 links com o valor pra cada um deles?"
+  },
+  "messageTimestamp": "1731934805",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/ccROtFYVQ1i7ayToL6A=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 33 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553194401920@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB080C237BF723FE79F77"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "https://userede.com.br/pagamentos/pt/bk17cjjhg",
+      "matchedText": "https://userede.com.br/pagamentos/pt/bk17cjjhg",
+      "canonicalUrl": "https://userede.com.br/pagamentos/pt/bk17cjjhg",
+      "description": "https://userede.com.br/pagamentos/pt/bk17cjjhg",
+      "title": "userede.com.br",
+      "previewType": "NONE",
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1731934753",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553194401920@s.whatsapp.net",
+      "receiptTimestamp": "1731934753",
+      "readTimestamp": "1731934781",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 34 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553194401920@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB02982DC3706A644472C"
+  },
+  "message": {
+    "conversation": "Bom dia Jovem,\nGera um link por favor: R$5000,00 de 6x"
+  },
+  "messageTimestamp": "1731934627",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+5CyfDq4aWeGMDMsK2vg=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 35 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5511995616721@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB02709F14E353AB5C71C"
+  },
+  "message": {
+    "conversation": "entendi"
+  },
+  "messageTimestamp": "1731934437",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5511995616721@s.whatsapp.net",
+      "receiptTimestamp": "1731934437",
+      "readTimestamp": "1731934948",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "C2YHaD9rX3fJVdO654QjUTeZgVRZwyUD3R1FZfSfiFs="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 36 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5511995616721@s.whatsapp.net",
+    "fromMe": false,
+    "id": "CB190E85179920B69C41F1C1CBEE9595"
+  },
+  "message": {
+    "conversation": "Tenho a versão antiga"
+  },
+  "messageTimestamp": "1731934412",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/VCaOZyKk7F1j8PLesIdEGcBQ="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 37 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": false,
+    "id": "DE38B72B603D54D1E815DC0C76B2F25F"
+  },
+  "message": {
+    "conversation": "❤️"
+  },
+  "messageTimestamp": "1731934386",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9HtqhCsT1rHJKR5TLKyHZvkRQ="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 38 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0294183DC3CF4FDB6A6"
+  },
+  "message": {
+    "conversation": "valeu"
+  },
+  "messageTimestamp": "1731934145",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553191675616@s.whatsapp.net",
+      "receiptTimestamp": "1731934145",
+      "readTimestamp": "1731934175",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "NI7s/vV5F82Q3+C/33o8BbC1BpmrrjJAJr0k5ECSX2g="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 39 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB00AB3F1B3FE03C7B78A"
+  },
+  "message": {
+    "conversation": "kkkk"
+  },
+  "messageTimestamp": "1731934144",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553191675616@s.whatsapp.net",
+      "receiptTimestamp": "1731934145",
+      "readTimestamp": "1731934175",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 40 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": false,
+    "id": "225198F1FBCF01817ADDDF30FBE17058"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/18860821_1514708142526896_4957961721407973756_n.enc?ccb=11-4&oh=01_Q5AaIC0eTNYVIOqw8k9tfnRLgPqpJsYnv18j4-ozw3C1myHJ&oe=67629264&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "8IvHvPe+z/Hacz3Sg+zcA+NtDHGt6vAN8xEOBo6175U=",
+      "fileEncSha256": "p15LP5IdEP+aan8ramttH1/iV0E36ensjQGCdORyC9M=",
+      "mediaKey": "/34XW7awN3W3x16x8FuRiGMektbFC2S6JKRrJ0pe+mY=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/18860821_1514708142526896_4957961721407973756_n.enc?ccb=11-4&oh=01_Q5AaIC0eTNYVIOqw8k9tfnRLgPqpJsYnv18j4-ozw3C1myHJ&oe=67629264&_nc_sid=5e03e0",
+      "fileLength": "401148",
+      "mediaKeyTimestamp": "1731884876",
+      "firstFrameLength": 11440,
+      "firstFrameSidecar": "nfwbGbAsxA4DSA==",
+      "isAnimated": true,
+      "stickerSentTs": "1731934137000",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1731934137",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Stickers/STK-20240903-WA0144.webp"
+  },
+  "reportingTokenInfo": {
+    "reportingTag": "AY9Yu+ChWF0c93V7JMqtJTNhcRU="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 41 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3C23F7F397C4B463988D7404F7DF2458"
+  },
+  "message": {
+    "conversation": "Vou ai conferir"
+  },
+  "messageTimestamp": "1731934132",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9D3yru1DasGlB3+LF8RkW+WaM="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 42 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": false,
+    "id": "91E5F33E050970B6DE666DA4F1B05408"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Pera ai",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB02CC73028583785E2D6",
+        "participant": "553194779744@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "chegou n, manda de novo ai"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1731934128",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8ER11kNXXCiZ+w2CjeCf8hVuI="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 43 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0DF86CEC6CF86393A08"
+  },
+  "message": {
+    "conversation": "🥰"
+  },
+  "messageTimestamp": "1731934026",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553192695171@s.whatsapp.net",
+      "receiptTimestamp": "1731934026",
+      "readTimestamp": "1731934382",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 44 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": true,
+    "id": "F88CC968A65A09C1B5250E71496F8662"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/29944129_1780326572785646_4952481055995908314_n.enc?ccb=11-4&oh=01_Q5AaIBhHxZyCX_Zpq0jvddXdfStcp9ponTs8r5ChZuI91BPE&oe=6762BB2E&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "W3N8zEgPYryxwnwihg8LnJ99vhr3USs4SYURsDcHMxs=",
+      "fileEncSha256": "ifK3sfYHWLR5Lm6gHpDqCp/HUOblYw0BraPjwKkKjM4=",
+      "mediaKey": "RinD0ktoJ5qPX5q0FZd9vyir9ZnZby2eHPmmaqFZO0Q=",
+      "mimetype": "image/webp",
+      "directPath": "/v/t62.15575-24/29944129_1780326572785646_4952481055995908314_n.enc?ccb=11-4&oh=01_Q5AaIBhHxZyCX_Zpq0jvddXdfStcp9ponTs8r5ChZuI91BPE&oe=6762BB2E&_nc_sid=5e03e0",
+      "fileLength": "261638",
+      "mediaKeyTimestamp": "1729167381288",
+      "firstFrameLength": 261232,
+      "firstFrameSidecar": "w/8l7/+FxF4Iqg==",
+      "isAnimated": true,
+      "stickerSentTs": "1731934011777",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1731934011",
+  "status": "READ",
+  "messageC2STimestamp": "1731934012",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Stickers/STK-20241017-WA0022.webp"
+  },
+  "userReceipt": [
+    {
+      "userJid": "553191675616@s.whatsapp.net",
+      "receiptTimestamp": "1731934012",
+      "readTimestamp": "1731934124",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 45 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB02CC73028583785E2D6"
+  },
+  "message": {
+    "conversation": "chegou n, manda de novo ai"
+  },
+  "messageTimestamp": "1731934002",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553191675616@s.whatsapp.net",
+      "receiptTimestamp": "1731934002",
+      "readTimestamp": "1731934124",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 46 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0FDB34F323BFDAC12"
+  },
+  "message": {
+    "messageContextInfo": {
+      "messageSecret": "fg7nTVfghUEWlK97rYiFjbrRuFEoojwMmeqVav8fvHo="
+    },
+    "editedMessage": {
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "555199579150@s.whatsapp.net",
+            "fromMe": false,
+            "id": "3EB003FF33B2006C71CC1D"
+          },
+          "type": "MESSAGE_EDIT",
+          "editedMessage": {
+            "extendedTextMessage": {
+              "text": "https://atendimento.devconnectai.com.br/\nadmin@admin.com\n123456789",
+              "matchedText": "https://atendimento.devconnectai.com.br/",
+              "canonicalUrl": "https://atendimento.devconnectai.com.br/",
+              "description": "https://atendimento.devconnectai.com.br/",
+              "title": "atendimento.devconnectai.com.br",
+              "previewType": "NONE",
+              "inviteLinkGroupTypeV2": "DEFAULT"
+            }
+          },
+          "timestampMs": "1731934003396"
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1731933997",
+  "messageSecret": "fg7nTVfghUEWlK97rYiFjbrRuFEoojwMmeqVav8fvHo=",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/c9JiKHLY30L+lsSy5eg=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 47 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5511995616721@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0020139E9E0E5E3DF66"
+  },
+  "message": {
+    "conversation": "vc tem o whaticket gold?"
+  },
+  "messageTimestamp": "1731933983",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5511995616721@s.whatsapp.net",
+      "receiptTimestamp": "1731933984",
+      "readTimestamp": "1731934379",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 48 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": false,
+    "id": "A85543794D634B9321C52A0E8CC0C9CB"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/11982275_1090184035984391_7131003420212516466_n.enc?ccb=11-4&oh=01_Q5AaIOF0oxAdQ7H4Nzp5nBK-PG8N6cTUCL0UJ6UbyUZitvMM&oe=6762B012&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "C1qT35aJrAu2jpoyV+WiENZkirOAxw/9L5RzhbD4PhE=",
+      "fileLength": "12904",
+      "seconds": 5,
+      "ptt": true,
+      "mediaKey": "ExsB2kV/eYJ1q33kG4I1RxqZ3iEf7iUPgLf9jFBdFbM=",
+      "fileEncSha256": "MImCCTG4+WZfqmesdtGMeurQelY1klpDcs7qdVChuuE=",
+      "directPath": "/v/t62.7117-24/11982275_1090184035984391_7131003420212516466_n.enc?ccb=11-4&oh=01_Q5AaIOF0oxAdQ7H4Nzp5nBK-PG8N6cTUCL0UJ6UbyUZitvMM&oe=6762B012&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1731933961",
+      "waveform": "X0hgYFNhVEJMUU5RTlJLVVo2Tz4/OVZTRj5VSC84O0M+PzlWVFlCWU9gUlZbVkpeSFdZSUtER0VWRDwzNDcwMA=="
+    }
+  },
+  "messageTimestamp": "1731933965",
+  "status": "PLAYED",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Voice Notes/202447/PTT-20241118-WA0017.opus"
+  },
+  "reportingTokenInfo": {
+    "reportingTag": "AY/sbQNKjGKNLZL/peY2iL0T+1E="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 49 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": false,
+    "id": "B743C65AC3F63124237D83C8E4F3B0AE"
+  },
+  "message": {
+    "conversation": "Obg baby"
+  },
+  "messageTimestamp": "1731933950",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9s11LZUZTG6OKx2HRCHr8f0Nk="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 50 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0C733CA3C88A795F09C"
+  },
+  "message": {
+    "conversation": "bom trabalho amor ♥"
+  },
+  "messageTimestamp": "1731933865",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553192695171@s.whatsapp.net",
+      "receiptTimestamp": "1731933866",
+      "readTimestamp": "1731933927",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 51 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": false,
+    "id": "CE7CA5C05C450D80148AC7CAD24BF57C"
+  },
+  "message": {
+    "conversation": "Cheguei"
+  },
+  "messageTimestamp": "1731933799",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9KhUvrUyd55Ono+6IyQe9Nmgg="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 52 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB046C486DB6E65797E2F"
+  },
+  "message": {
+    "conversation": "entendi, tem alguma demo?"
+  },
+  "messageTimestamp": "1731933775",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555199579150@s.whatsapp.net",
+      "receiptTimestamp": "1731933775",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 53 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": true,
+    "id": "C1BCBCD266CE3AF059A27F63D90712BB"
+  },
+  "message": {
+    "documentMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7119-24/11775635_1518191002169374_7917737231430649347_n.enc?ccb=11-4&oh=01_Q5AaIBqkNDfNs9mVzzyK-cxAK7ONx4WjEjXUfzgMNU_gxIsr&oe=6762B57C&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "application/pdf",
+      "fileSha256": "Em0PM2HCjDj48kkkLbwXp/MLl/4DnhKPFLmP4wxv4wc=",
+      "fileLength": "96447",
+      "pageCount": 1,
+      "mediaKey": "2s323ZPvYqRfA1yNRtbI3ZRMVpr55GxJ28wEIMMFT3k=",
+      "fileName": "mercadopago_comprovante_93390962119.pdf",
+      "fileEncSha256": "d8el6jhOXi2mSIN+7oMAq20loUw959Pgf98QR5dWOYc=",
+      "directPath": "/v/t62.7119-24/11775635_1518191002169374_7917737231430649347_n.enc?ccb=11-4&oh=01_Q5AaIBqkNDfNs9mVzzyK-cxAK7ONx4WjEjXUfzgMNU_gxIsr&oe=6762B57C&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1731933696",
+      "thumbnailDirectPath": "/v/t62.36145-24/21324985_950622960269720_4350712456590774516_n.enc?ccb=11-4&oh=01_Q5AaIKJRKkhbtlJ-2QCrUdXTj1p2b8AdExqaU73TcG7uBM_q&oe=6762AB80&_nc_sid=5e03e0",
+      "thumbnailSha256": "2Io2jaCG8sSRV5OwLSXynJNwBrsIo0ZS4Dc5PtMX1cY=",
+      "thumbnailEncSha256": "Q3aJ6Gs9XffcQmxbncyArHM80PYsmPgPT7uT3RkvfmE=",
+      "thumbnailHeight": 480,
+      "thumbnailWidth": 166
+    }
+  },
+  "messageTimestamp": "1731933696",
+  "status": "READ",
+  "messageC2STimestamp": "1731933698",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Documents/Sent/DOC-20241118-WA0016."
+  },
+  "userReceipt": [
+    {
+      "userJid": "553191675616@s.whatsapp.net",
+      "receiptTimestamp": "1731933698",
+      "readTimestamp": "1731933954",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 54 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": true,
+    "id": "6A78705D08608986DB1FA4412A783585"
+  },
+  "message": {
+    "videoMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.9505-24/f1/m232/up-oil-gif-43d580e3-1cb9-4e2b-b59b-91cb3f0b3848?ccb=9-4&oh=01_Q5AaIFR_sk01QxN_STv_CjcASDu1GSYT0TWlrSmTGLTr85hv&oe=6762BDBB&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "video/mp4",
+      "fileSha256": "jKJYw8tdVUzH8pV2+vv6+wv0vFPdy4r2STmdWYH4ItM=",
+      "fileLength": "44169",
+      "seconds": 2,
+      "mediaKey": "X2kzOvSWTpoo0Tu5a0FAMveIZAb/i8ZGHUzKtN7TPwk=",
+      "gifPlayback": true,
+      "height": 220,
+      "width": 220,
+      "fileEncSha256": "IFMEwPrqqrvJsxKWfLorexGclnqGtvLq4OL/K9lqheg=",
+      "directPath": "/o1/v/t62.9505-24/f1/m232/up-oil-gif-43d580e3-1cb9-4e2b-b59b-91cb3f0b3848?ccb=9-4&oh=01_Q5AaIFR_sk01QxN_STv_CjcASDu1GSYT0TWlrSmTGLTr85hv&oe=6762BDBB&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1731933620",
+      "contextInfo": {
+        "stanzaId": "15F5BC9A0E479FFFA5AE80D676031432",
+        "participant": "553191675616@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "120  pra vc"
+        }
+      },
+      "gifAttribution": "NONE"
+    }
+  },
+  "messageTimestamp": "1731933620",
+  "status": "READ",
+  "messageC2STimestamp": "1731933622",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Animated Gifs/Sent/VID-20241118-WA0015.mp4"
+  },
+  "userReceipt": [
+    {
+      "userJid": "553191675616@s.whatsapp.net",
+      "receiptTimestamp": "1731933622",
+      "readTimestamp": "1731933954",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 55 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB01842D725AB05CD9519"
+  },
+  "message": {
+    "conversation": "não. precisa do ssl"
+  },
+  "messageTimestamp": "1731933603",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+c3po0cK60eQVOGDxqxQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 56 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0EC548FFA2F98CE151F"
+  },
+  "message": {
+    "conversation": "entendi, e da pra instalar em localhost?"
+  },
+  "messageTimestamp": "1731933567",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555199579150@s.whatsapp.net",
+      "receiptTimestamp": "1731933568",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 57 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB08AF37C31C949DA0223"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-d7e31b1c-e93d-4ccc-91df-d42edc25d60d?ccb=9-4&oh=01_Q5AaIAKe2LFQB0qF1XkT5kAXZhef92ofq7HKAGvrJizo7u2r&oe=6762B58F&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "as atualizações ainda todos estão recebendo gratuitamente",
+      "fileSha256": "3dK7tIWQ1QgdnDyoiKl0JIacLZko3rO12jbiAy7QVbc=",
+      "fileLength": "88397",
+      "height": 754,
+      "width": 561,
+      "mediaKey": "tSXKfMQ3h32QLmrg+D64Ta4D+Sc8c5Z3YLq0XXGqf9M=",
+      "fileEncSha256": "iszKbmXXk/PzAmDHXKRCe2OJd5bXrh3SNh/IzWupFdA=",
+      "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-d7e31b1c-e93d-4ccc-91df-d42edc25d60d?ccb=9-4&oh=01_Q5AaIAKe2LFQB0qF1XkT5kAXZhef92ofq7HKAGvrJizo7u2r&oe=6762B58F&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1731933063"
+    }
+  },
+  "messageTimestamp": "1731933065",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/McYR4Ell9rvw+lGVRGQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 58 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB015C79E1BCB1BF16014"
+  },
+  "message": {
+    "conversation": "A licença vc paga uma vez ela e sua"
+  },
+  "messageTimestamp": "1731933006",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+XYT+rvd4HahoNd1F0vw=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 59 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": false,
+    "id": "23F1740E2B68CD7870D4EDDA67E65A73"
+  },
+  "message": {
+    "conversation": "seyllon777@gmail.com"
+  },
+  "messageTimestamp": "1731932893",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+z+1T3lnhlwPJwrfK9C1rlvs0="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 60 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": false,
+    "id": "FB268DC8C2ACA6714D90910AA29FBCD5"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/19428346_1209900320116119_5644139935804934540_n.enc?ccb=11-4&oh=01_Q5AaIDwFf58qmkvFPZotVExcKJ8FhZL8q-H6POYEaIF5KdiE&oe=676298DA&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "2N4S/0kaHa/88XlzFqFGiteklOeGAgAZrzTJ/5Hqwoc=",
+      "fileEncSha256": "/3iKMHmJhjbIw255YXZg+whzf5yh7fpSaFf5+ShWszg=",
+      "mediaKey": "22F0qEGK3eJFSh/0L9jW/gmdRri28lzUhBBrOeqpAaw=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/19428346_1209900320116119_5644139935804934540_n.enc?ccb=11-4&oh=01_Q5AaIDwFf58qmkvFPZotVExcKJ8FhZL8q-H6POYEaIF5KdiE&oe=676298DA&_nc_sid=5e03e0",
+      "fileLength": "91762",
+      "mediaKeyTimestamp": "1731932884",
+      "isAnimated": false,
+      "stickerSentTs": "1731932885000",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1731932885",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Stickers/STK-20241118-WA0014.webp"
+  },
+  "reportingTokenInfo": {
+    "reportingTag": "AY/Z4cb0uXBDB1aUjtvKJVWUySQ="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 61 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": false,
+    "id": "15F5BC9A0E479FFFA5AE80D676031432"
+  },
+  "message": {
+    "conversation": "120  pra vc"
+  },
+  "messageTimestamp": "1731932879",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8mu9z9cCZh9Yl84GG8LxP/EOM="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 62 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553184460317@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0B99A194F2691811350"
+  },
+  "message": {
+    "conversation": "ah blz"
+  },
+  "messageTimestamp": "1731932776",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "553184460317@s.whatsapp.net",
+      "receiptTimestamp": "1731932777",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "KPIB40BMjsHwvF2+oHqHVw12dGxK8KMYcoRtZDW5agI="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 63 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553184460317@s.whatsapp.net",
+    "fromMe": false,
+    "id": "F0B88FD1D0ED0FF90841966C7A7A9F7F"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/25267692_915397623883708_9047897753378840756_n.enc?ccb=11-4&oh=01_Q5AaIGXnCvuNwdLCWzafzYJ6lZZHhXMQKYe8lCi9WHkQPBlS&oe=67628A6C&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "SPP3P+XjBXruSkWpWVEq/80HB36U7qkWVPpqiiCE27Q=",
+      "fileLength": "22457",
+      "seconds": 9,
+      "ptt": true,
+      "mediaKey": "4jEFhYIPHUTgLBumuV8zN7NhEPqJ00XCsepNSFbRYv4=",
+      "fileEncSha256": "8iBYFC3j0cLfV8TY1Kcxrn9Z1O6ptOLTKLK//6uEoas=",
+      "directPath": "/v/t62.7117-24/25267692_915397623883708_9047897753378840756_n.enc?ccb=11-4&oh=01_Q5AaIGXnCvuNwdLCWzafzYJ6lZZHhXMQKYe8lCi9WHkQPBlS&oe=67628A6C&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1731932752",
+      "waveform": "AAAAAAAhTCRFCjRCCRgAADEvIzVLQgwAAAcfOEZAGz4uOS46AAAFRDw7M0AqOyMlGj0QNAAUDkE7QycAAEJKKg=="
+    }
+  },
+  "messageTimestamp": "1731932761",
+  "status": "PLAYED",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Voice Notes/202447/PTT-20241118-WA0013.opus"
+  },
+  "reportingTokenInfo": {
+    "reportingTag": "AY/6f/1pJGi4KFokanLid46A0zs="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 64 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A0670CCC10A7C0950C"
+  },
+  "message": {
+    "conversation": "20"
+  },
+  "messageTimestamp": "1731932751",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553191675616@s.whatsapp.net",
+      "receiptTimestamp": "1731932751",
+      "readTimestamp": "1731932819",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 65 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553184460317@s.whatsapp.net",
+    "fromMe": false,
+    "id": "2578B57B195A28A884EE78913A85D24C"
+  },
+  "message": {
+    "conversation": "Renilde é 222,00"
+  },
+  "messageTimestamp": "1731932734",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9Tsta3oCsiYEcpyXgolRFCr8U="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 66 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553184460317@s.whatsapp.net",
+    "fromMe": false,
+    "id": "9BE6854EFDB5D5C1F20FB93250E6416A"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/19440686_545926488220151_4712617570517282564_n.enc?ccb=11-4&oh=01_Q5AaIBV0KKOSZ32whRbDqlRmfrNyyd-A029Tk2X9j1MvARJr&oe=6762A84F&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "AlqyIjPbC5K14MsPUXLNwksB/cmDwSOM3gMlzsvpY5E=",
+      "fileLength": "25896",
+      "height": 804,
+      "width": 412,
+      "mediaKey": "7noVczMp+v23rsTxlwoNOpVkyHjlXsEPJAIh20ZfDz0=",
+      "fileEncSha256": "jEfYqTW4q2DFyl5ZeVhWc/AD0vcCSnNTVYEkrJ/TdMU=",
+      "directPath": "/v/t62.7118-24/19440686_545926488220151_4712617570517282564_n.enc?ccb=11-4&oh=01_Q5AaIBV0KKOSZ32whRbDqlRmfrNyyd-A029Tk2X9j1MvARJr&oe=6762A84F&_nc_sid=5e03e0&_nc_hot=1731932725",
+      "mediaKeyTimestamp": "1731929825",
+      "contextInfo": {
+        "forwardingScore": 1,
+        "isForwarded": true
+      },
+      "scansSidecar": "I5ZMHdt4gjCIF16b67NGPKjjY2z42Cbd0ZAuBLcS7QSifnXJxthI7w==",
+      "scanLengths": [
+        2370,
+        12322,
+        5089,
+        6115
+      ],
+      "midQualityFileSha256": "O/yECk9A7svUhnSF/DoIpbocfdoLF2PFB30ECtpezWw="
+    }
+  },
+  "messageTimestamp": "1731932725",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/jHKUDPoEjUWB/wuSynwoeitc="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 67 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": false,
+    "id": "78B34F90DA10AC61C84F3396CCED5C45"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Me dê dinheiro",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB04F1D09B31B240AA2B9",
+        "participant": "553194779744@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "me de creditos"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1731932686",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+QDcreEad4VYRN3CkB9GyAcmU="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 68 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": false,
+    "id": "C29CE17953297C1D07373D9B37509BB7"
+  },
+  "message": {
+    "conversation": "Qntos?"
+  },
+  "messageTimestamp": "1731932686",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9gIKCx9Gml1AAM4qBLyQ7vpSI="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 69 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB09BC67E4D5FE92EE08D"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "isso é anual ou paga uma vez só?",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB0DF2B618B48314649DF",
+        "participant": "555199579150@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "997 ate 12 x"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1731932570",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555199579150@s.whatsapp.net",
+      "receiptTimestamp": "1731932571",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 70 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04F1D09B31B240AA2B9"
+  },
+  "message": {
+    "conversation": "me de creditos"
+  },
+  "messageTimestamp": "1731932556",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553191675616@s.whatsapp.net",
+      "receiptTimestamp": "1731932556",
+      "readTimestamp": "1731932676",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 71 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0E9649E6EF3C0743936"
+  },
+  "message": {
+    "conversation": "kkkk"
+  },
+  "messageTimestamp": "1731932553",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553191675616@s.whatsapp.net",
+      "receiptTimestamp": "1731932553",
+      "readTimestamp": "1731932676",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 72 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB060843436996C156384"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/13749222_851721120369125_3525038384029058089_n.enc?ccb=11-4&oh=01_Q5AaIPlf-IqLJjqA8S2-_GScU_DRnjq7RReVxfYIvkioYbKA&oe=67629607&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "EL6qPiyWwz17R7lkTHNbk3VGD+nCl+TauFGR03EVs8M=",
+      "fileEncSha256": "ZeP7whzhu37GwEduM1EwQyI0AJdkucT+W1gukeoHd8s=",
+      "mediaKey": "qkL5Tdr5TfcdapwkgfIbdAnXkriWWSfk7+d8ZNUMq2U=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/13749222_851721120369125_3525038384029058089_n.enc?ccb=11-4&oh=01_Q5AaIPlf-IqLJjqA8S2-_GScU_DRnjq7RReVxfYIvkioYbKA&oe=67629607&_nc_sid=5e03e0",
+      "fileLength": "34892",
+      "mediaKeyTimestamp": "1731408946",
+      "isAnimated": false,
+      "stickerSentTs": "1731932552000",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1731932552",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Stickers/STK-20240229-WA0055.webp"
+  },
+  "userReceipt": [
+    {
+      "userJid": "553191675616@s.whatsapp.net",
+      "receiptTimestamp": "1731932552",
+      "readTimestamp": "1731932676",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 73 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A7B8C6957459EAFF27"
+  },
+  "message": {
+    "conversation": "com Deus ♥"
+  },
+  "messageTimestamp": "1731932543",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553192695171@s.whatsapp.net",
+      "receiptTimestamp": "1731932544",
+      "readTimestamp": "1731933795",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 74 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": false,
+    "id": "2BD91A18B124120DA848E7203E86DEB3"
+  },
+  "message": {
+    "conversation": "Tô indo amor"
+  },
+  "messageTimestamp": "1731932531",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/6aLpQo5xDdXgbIK7exZik3XM="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 75 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": false,
+    "id": "164F6114F564329A2147E492D5FADE4E"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Vem aqui na minha porta 🤣🤣🤣🤣",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB047A5BFD7726FE1593D",
+        "participant": "553194779744@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "vou aguardar n"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1731932497",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9YOEOzo43LZuUr34zWjxa7Ga4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 76 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0DF2B618B48314649DF"
+  },
+  "message": {
+    "conversation": "997 ate 12 x"
+  },
+  "messageTimestamp": "1731932390",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8JjjvIqp7/r1mdm/7gIg=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 77 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "551137385894@s.whatsapp.net",
+    "fromMe": false,
+    "id": "A8218006092C8FDCDB31CF8E4BD9CC93"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-0ae363e2-3866-4d5f-a542-92a4cfb0e38a?ccb=9-4&oh=01_Q5AaIDgF1xzDlVjqph8uD4S1a9oA_vkcjVkNjYw5ASsHlK5P&oe=6762B758&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "lAcUYCAOA+AatRtQlbw1NCN+G3rhvglJJ1CHqJI1x58=",
+      "fileLength": "226893",
+      "height": 1069,
+      "width": 616,
+      "mediaKey": "KrmB80oGsAC9w+BsdVa4jOreezM+on+UgUJqViejWLY=",
+      "fileEncSha256": "44GL+oAxz/DOXPcrnfFDjVzHJVrVglIuLXInjt3PfIg=",
+      "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-0ae363e2-3866-4d5f-a542-92a4cfb0e38a?ccb=9-4&oh=01_Q5AaIDgF1xzDlVjqph8uD4S1a9oA_vkcjVkNjYw5ASsHlK5P&oe=6762B758&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1731928277"
+    }
+  },
+  "messageTimestamp": "1731932139",
+  "broadcast": true,
+  "reportingTokenInfo": {
+    "reportingTag": "AY9ukqqdK+emVLn0GdsNqb8xyWc="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 78 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04B76B2672C44AA3138"
+  },
+  "message": {
+    "conversation": "entendi, e qual o valor?"
+  },
+  "messageTimestamp": "1731931896",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555199579150@s.whatsapp.net",
+      "receiptTimestamp": "1731931897",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 79 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": false,
+    "id": "4B24C8571E1431C3E47E8742693297DD"
+  },
+  "message": {
+    "conversation": "Com grupos de suporte atualizações"
+  },
+  "messageTimestamp": "1731931887",
+  "reportingTokenInfo": {
+    "reportingTag": "AY850900jlnvvKmqhDoIlNp28sg="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 80 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": false,
+    "id": "29C463F118D03DF0DF1DC8F715762BC1"
+  },
+  "message": {
+    "conversation": "Sim"
+  },
+  "messageTimestamp": "1731931873",
+  "reportingTokenInfo": {
+    "reportingTag": "AY97S5cdsL5R8UOErtzUr+lHJI4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 81 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB05A291E659CD8F0F512"
+  },
+  "message": {
+    "conversation": "ele é pago?"
+  },
+  "messageTimestamp": "1731931854",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555199579150@s.whatsapp.net",
+      "receiptTimestamp": "1731931854",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 82 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB03A90D121A78E818CED"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "https://github.com/andrew890074/WhaticketWorkflow?tab=readme-ov-file",
+      "matchedText": "https://github.com/andrew890074/WhaticketWorkflow?tab=readme-ov-file",
+      "canonicalUrl": "https://github.com/andrew890074/WhaticketWorkflow?tab=readme-ov-file",
+      "description": "https://github.com/andrew890074/WhaticketWorkflow?tab=readme-ov-file",
+      "title": "github.com",
+      "previewType": "NONE",
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1731931852",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555199579150@s.whatsapp.net",
+      "receiptTimestamp": "1731931852",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 83 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0B99482937C5B30D1F1"
+  },
+  "message": {
+    "conversation": "eu encontrei esse whaticket no github"
+  },
+  "messageTimestamp": "1731931851",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555199579150@s.whatsapp.net",
+      "receiptTimestamp": "1731931852",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 84 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": false,
+    "id": "93E406AD10BEE577456C6827AE19576C"
+  },
+  "message": {
+    "conversation": "Olá bom dia"
+  },
+  "messageTimestamp": "1731931822",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8S3yu08kSLB0n+HUL8q6q0JJg="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 85 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB067E2B1FEC3ACEA4785"
+  },
+  "message": {
+    "conversation": "bom dia"
+  },
+  "messageTimestamp": "1731931816",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555199579150@s.whatsapp.net",
+      "receiptTimestamp": "1731931817",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 86 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199579150@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB03E74330AB96440CE88"
+  },
+  "message": {
+    "conversation": "olá"
+  },
+  "messageTimestamp": "1731931808",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555199579150@s.whatsapp.net",
+      "receiptTimestamp": "1731931809",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 87 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5511995616721@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0D931D454AF8ED6A2AB"
+  },
+  "message": {
+    "conversation": "ah sim"
+  },
+  "messageTimestamp": "1731931708",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5511995616721@s.whatsapp.net",
+      "receiptTimestamp": "1731931709",
+      "readTimestamp": "1731933779",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 88 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5511995616721@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3D26268DFC349208DF106332AE5C0E6C"
+  },
+  "message": {
+    "conversation": "Vou me programar na semana pra instalar e te falo."
+  },
+  "messageTimestamp": "1731931610",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9xEvVTE0cKZ4FcedFOt+IfAPo="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 89 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5511995616721@s.whatsapp.net",
+    "fromMe": false,
+    "id": "47B31118F2F98C7A994DE56813546A97"
+  },
+  "message": {
+    "conversation": "Bom Dia!"
+  },
+  "messageTimestamp": "1731931568",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8sYzJVBdQ7TylUmpERUlfweow="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 90 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB039BB4E535201C31ECC"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://web.whatsapp.net",
+      "fileSha256": "lJj3I+vmgB3n1v3i+0GhpkqTDz1QOoHSuWTrYJSBues=",
+      "fileEncSha256": "ANccwCJge6sHXpmRDEtl0jGxhSuX8XznuH89dptlXJI=",
+      "mediaKey": "2/XgkFZHvU7IVKIbc0379rswYVqYInM8FArnJ+94ACA=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/11985539_555233540437390_6603886971468469122_n.enc?ccb=11-4&oh=01_Q5AaIJTOrxNxz6KUobamc4kK9xWtnps5IImexUshD2-bl33d&oe=6762ABAA&_nc_sid=5e03e0",
+      "fileLength": "102820",
+      "mediaKeyTimestamp": "1682946113729",
+      "isAnimated": false,
+      "stickerSentTs": "1731930834000",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1731930834",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Stickers/STK-20230328-WA0006.webp"
+  },
+  "userReceipt": [
+    {
+      "userJid": "553192695171@s.whatsapp.net",
+      "receiptTimestamp": "1731930835",
+      "readTimestamp": "1731931727",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 91 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": false,
+    "id": "2E7422FF65C94BD474038F0F11B44315"
+  },
+  "message": {
+    "conversation": "🥰"
+  },
+  "messageTimestamp": "1731930565",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/t/Gly9ZIn5yF27p47C0GN1k8="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 92 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0FFF1B7C90BEBC1832C"
+  },
+  "message": {
+    "conversation": "dormi tb"
+  },
+  "messageTimestamp": "1731930342",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553192695171@s.whatsapp.net",
+      "receiptTimestamp": "1731930342",
+      "readTimestamp": "1731930561",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 93 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553192695171@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3C34BFEFBF3001FC01562CAE661CA577"
+  },
+  "message": {
+    "conversation": "Sim e vc?"
+  },
+  "messageTimestamp": "1731930336",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/iVcAmaygESqtUkKw2/021UX0="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 94 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553194779755@s.whatsapp.net",
+    "fromMe": true,
+    "id": "79CB88F2148D58AF6EE65A1C460251DD"
+  },
+  "message": {
+    "conversation": "*Deivid* seu plano vence em *18/11/2024*, \n\n*R$ 25,00* - Mensal.  \n\nPara que você não fique sem assistir \no que acha de renovar sua assinatura? \n\n*CHAVE PIX*: 31994779744"
+  },
+  "messageTimestamp": "1731930277",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "553194779755@s.whatsapp.net",
+      "receiptTimestamp": "1731930652",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 95 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553195903063@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB02A60DDD2F40EC9BE7A"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m239/up-oil-image-20543e75-895e-4358-a056-d086e23288e0?ccb=9-4&oh=01_Q5AaIP2olR00wPb22vVkbDhILkLiL-iYrsYUcmY5g1dJT3qs&oe=676291E7&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "CvIY1EQYSp/xpLipHbdlgFs0iJXnLc9/BIrug3GvLlA=",
+      "fileLength": "19827",
+      "height": 295,
+      "width": 432,
+      "mediaKey": "vwsLaGh3sJXwyoNmD9XxDvNyJh1oZkVF2j1UvT70nB8=",
+      "fileEncSha256": "RAaarWrTQtabkQrv4L8o40+2fUak7ZzvaktxsBLr2bE=",
+      "directPath": "/o1/v/t62.7118-24/f1/m239/up-oil-image-20543e75-895e-4358-a056-d086e23288e0?ccb=9-4&oh=01_Q5AaIP2olR00wPb22vVkbDhILkLiL-iYrsYUcmY5g1dJT3qs&oe=676291E7&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1731930055"
+    }
+  },
+  "messageTimestamp": "1731930058",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "553195903063@s.whatsapp.net",
+      "receiptTimestamp": "1731930058",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "553195903063@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3EB0D7C101CFD001A1761C"
+      },
+      "text": "👍",
+      "senderTimestampMs": "1731930119000"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 96 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553189177830@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0FF4AED1F81B507BF5B"
+  },
+  "message": {
+    "conversation": "valeu"
+  },
+  "messageTimestamp": "1731929988",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+Um2Az5XJTe6rgkfjkNw=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 97 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553189177830@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB026ACA82105616798AC"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m235/up-oil-image-72062cee-522e-4de1-8816-433ea5093581?ccb=9-4&oh=01_Q5AaINbQfvApkFNx-LvYyBAzp7uEiARiq89zDiCxhGS0F8Mm&oe=6762A246&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "9KwmYZtptAFT7TY7mpVGf8KwYtJQPjapj/UzexE7XJw=",
+      "fileLength": "25857",
+      "height": 190,
+      "width": 444,
+      "mediaKey": "13EKlbPsHOG59Pl0lmqssRK4F6s2X03YIVBlARirhlE=",
+      "fileEncSha256": "CKCF7wVE8p+S8DzKB+jxjCjl4NyQatqdGCzpOn/AHXY=",
+      "directPath": "/o1/v/t62.7118-24/f1/m235/up-oil-image-72062cee-522e-4de1-8816-433ea5093581?ccb=9-4&oh=01_Q5AaINbQfvApkFNx-LvYyBAzp7uEiARiq89zDiCxhGS0F8Mm&oe=6762A246&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1731929909"
+    }
+  },
+  "messageTimestamp": "1731929911",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553189177830@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1731929982",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 98 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553195903063@s.whatsapp.net",
+    "fromMe": false,
+    "id": "573ED0E902B5CF86D1BB9922862973A2"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/11771950_1644193389497976_6484766970008277848_n.enc?ccb=11-4&oh=01_Q5AaIAe3DIeGa5EoMGvMGzQhlolxSlEs-fjQPZm0lK4HjvWm&oe=6762AB08&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "IPTV",
+      "fileSha256": "egR5Ylbb5OYllC+qozDPRjp4+Mgox5x9mYB6NOQTpZs=",
+      "fileLength": "49667",
+      "height": 1600,
+      "width": 432,
+      "mediaKey": "Sl6GHVtRfDJYiyv9lHC0lxTzBlkM5sV0dzcN5SYLtsI=",
+      "fileEncSha256": "A4+c9wFuMQ1sGWk18TpD163ZM+hdfzGXMRdpuw61KhY=",
+      "directPath": "/v/t62.7118-24/11771950_1644193389497976_6484766970008277848_n.enc?ccb=11-4&oh=01_Q5AaIAe3DIeGa5EoMGvMGzQhlolxSlEs-fjQPZm0lK4HjvWm&oe=6762AB08&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1731929855",
+      "scansSidecar": "ecGD3SgksDvGiQ9sBYw91CvknIhaKrdUHlkb9X8Sj7O3ysgkCzB5vg==",
+      "scanLengths": [
+        3906,
+        22632,
+        10840,
+        12289
+      ],
+      "midQualityFileSha256": "cpoBp0nKXWMj/hNvIHLj/VMlqR21LHYkRvakF013IFQ="
+    }
+  },
+  "messageTimestamp": "1731929856",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9SbJRdBtYSZwpcRhhAgs/A1yE="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 99 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0340B1B5939E5648770"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://web.whatsapp.net",
+      "fileSha256": "vnjuC0gTo42ou01KvIQsrg0tR79hvYOdjMCaFWT4N4A=",
+      "fileEncSha256": "PJmTmhx6/w61/DUMBpGmG+o50BaDmoM5t2mVGVbLcPQ=",
+      "mediaKey": "qlTcHgbn3UUMXSLgk9aUy5pkCAOw3l8cal3vEH4xI/E=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/31139481_1091318192642405_5377067801001518119_n.enc?ccb=11-4&oh=01_Q5AaICILJdoHBt1djQ8XC0OmHcQkj--r6mkRcA4IXp822BnA&oe=6762B210&_nc_sid=5e03e0",
+      "fileLength": "222362",
+      "mediaKeyTimestamp": "1731408946",
+      "firstFrameLength": 3044,
+      "firstFrameSidecar": "qSw/pSnBvM61Hw==",
+      "isAnimated": true,
+      "stickerSentTs": "1731929803000",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1731929803",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Stickers/STK-20241021-WA0114.webp"
+  },
+  "userReceipt": [
+    {
+      "userJid": "553191675616@s.whatsapp.net",
+      "receiptTimestamp": "1731929803",
+      "readTimestamp": "1731932486",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 100 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB047A5BFD7726FE1593D"
+  },
+  "message": {
+    "conversation": "vou aguardar n"
+  },
+  "messageTimestamp": "1731929787",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553191675616@s.whatsapp.net",
+      "receiptTimestamp": "1731929787",
+      "readTimestamp": "1731932486",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 101 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": false,
+    "id": "2A15FC4469D22FD28577D32CA02F6D20"
+  },
+  "message": {
+    "conversation": "Saaalve, tudo bem?  Nesse horário eu continuo atendendo, porém, com menos agilidade 🐌. Só aguardar, em breve vc será atendido 😉🙏🏻\n\n*HORÁRIO  DE ATENDIMENTO*\n\n- Segunda a Sexta: De *9 as 11hrs* / *14 as 22:30*\n\n- *Sábado, Domingo e Feriado* - Atendimento com pouca agilidade e conforme disponibilidade.\n\n- *Atenção*: _Continuarei atendendo fora do horário preestabelecido, porém, com menos agilidade e conforme disponibilidade._"
+  },
+  "messageTimestamp": "1731929775",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9U+tpj3PqSNWA32+HA67Rd4vQ="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 102 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F05F6EC316BA174AA8"
+  },
+  "message": {
+    "conversation": "bom?"
+  },
+  "messageTimestamp": "1731929772",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553191675616@s.whatsapp.net",
+      "receiptTimestamp": "1731929773",
+      "readTimestamp": "1731932486",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 103 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "553191675616@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0E7A9AB8D75AF51F8DC"
+  },
+  "message": {
+    "conversation": "Diiaa"
+  },
+  "messageTimestamp": "1731929772",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "553191675616@s.whatsapp.net",
+      "receiptTimestamp": "1731929773",
+      "readTimestamp": "1731932486",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 104 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555193231592@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0F47224B8A87D801B60"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "‎Ótimo, Artur! É um prazer te atender. \n\nVocê conheceu o Whaticket Saas Whitelabel de onde? Como chegou até nosso contato? \n\nEstamos aqui para oferecer uma solução completa de atendimento multicanal, com suporte ao WhatsApp, Telegram, Instagram e Facebook Messenger. Nossos planos começam com 25 conexões, a partir de R$ 799 mensais, e uma taxa única de setup de R$ 2.500,00. \n\nTemos integrações nativas com ChatGPT, TypeBot, Flowise, APIs e Webhooks, além de um construtor de fluxos exclusivo, o Flowbuilder. Você pode conferir uma demonstração dele [neste link](https://www.youtube.com/watch?v=4-lltAIhKfg).\n\nSe precisar de mais detalhes sobre os planos, você pode acessar [aqui](https://whaticket-saas.com/planos.php).\n\nCaso tenha interesse em testar nossa plataforma, posso te indicar um servidor de teste. O que você acha?",
+      "matchedText": "https://www.youtube.com/watch?v=4-lltAIhKfg",
+      "canonicalUrl": "https://www.youtube.com/watch?v=4-lltAIhKfg",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "title": " - YouTube",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB0D255ADB41D5CD07887",
+        "participant": "553194779744@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Artur"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1731929615",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8fAC0K7QelfBnVF0KH1g=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 105 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555193231592@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0D255ADB41D5CD07887"
+  },
+  "message": {
+    "conversation": "Artur"
+  },
+  "messageTimestamp": "1731929606",
+  "status": "SERVER_ACK"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 106 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555193231592@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB094F2695ED413276E75"
+  },
+  "message": {
+    "conversation": "Olá! Tudo bem? Para prosseguir, me informe seu nome:\n‎"
+  },
+  "messageTimestamp": "1731929601",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+MUGg+Of7XeP8rybfEGg=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 107 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555193231592@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0DAC2F9DC27AB28370E"
+  },
+  "message": {
+    "listResponseMessage": {
+      "title": "Testar a Plataforma",
+      "listType": "SINGLE_SELECT",
+      "singleSelectReply": {},
+      "contextInfo": {
+        "stanzaId": "3EB0D87297FDA1ED70999E",
+        "participant": "555193231592@s.whatsapp.net",
+        "quotedMessage": {
+          "listMessage": {
+            "description": "Boa tarde Artur!\n\nWhaticket Saas Whitelabel lhe deseja Boas Vindas!\n\nEscolha a opção desejada usando o botão abaixo:\n‎",
+            "buttonText": "Escolha uma Opção",
+            "listType": "SINGLE_SELECT",
+            "sections": [
+              {
+                "rows": [
+                  {
+                    "title": "Comercial",
+                    "rowId": "1"
+                  },
+                  {
+                    "title": "Testar a Plataforma",
+                    "rowId": "2"
+                  },
+                  {
+                    "title": "Suporte Técnico",
+                    "rowId": "3"
+                  },
+                  {
+                    "title": "Financeiro",
+                    "rowId": "4"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1731929600",
+  "status": "SERVER_ACK"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 108 de 108
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5511995616721@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04F1025D44E7D279689"
+  },
+  "message": {
+    "conversation": "bom dia, tu conseguiu instalar?"
+  },
+  "messageTimestamp": "1731929541",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5511995616721@s.whatsapp.net",
+      "receiptTimestamp": "1731929558",
+      "readTimestamp": "1731931558",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 

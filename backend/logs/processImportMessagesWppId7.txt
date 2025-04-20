@@ -1,0 +1,3183 @@
+Aguardando conexão para iniciar a importação de mensagens:
+    Whatsapp nome: Whats
+    Whatsapp Id: 7
+    Criação do arquivo de logs: 13/11/2024 08:26:26
+    Selecionado Data de inicio de importação: 01/10/2024 08:24:00 
+    Selecionado Data final da importação: 13/11/2024 08:23:00 
+     
+
+Mensagem 1 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE51C63AD9B89D9"
+  },
+  "message": {
+    "conversation": "*Admin:*\naaa"
+  },
+  "messageTimestamp": "1728559741",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1728559741",
+      "readTimestamp": "1728561680",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 2 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE547A1281265A3"
+  },
+  "message": {
+    "conversation": "*Admin:*\neee"
+  },
+  "messageTimestamp": "1728559740",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1728559740",
+      "readTimestamp": "1728561680",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 3 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE55B874E33B545"
+  },
+  "message": {
+    "conversation": "*Admin:*\naaa"
+  },
+  "messageTimestamp": "1728559739",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1728559739",
+      "readTimestamp": "1728561680",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 4 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE519D834855E03"
+  },
+  "message": {
+    "conversation": "*Admin:*\neee"
+  },
+  "messageTimestamp": "1728559738",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1728559738",
+      "readTimestamp": "1728561680",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 5 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE51C416E59A991"
+  },
+  "message": {
+    "conversation": "*Admin:*\nrrr"
+  },
+  "messageTimestamp": "1728559737",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1728559737",
+      "readTimestamp": "1728561680",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 6 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE5D769AB44FF08"
+  },
+  "message": {
+    "conversation": "*Admin:*\nee"
+  },
+  "messageTimestamp": "1728559735",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1728559735",
+      "readTimestamp": "1728561680",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 7 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE5F974EAA45553"
+  },
+  "message": {
+    "conversation": "*Admin:*\nee"
+  },
+  "messageTimestamp": "1728559734",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1728559734",
+      "readTimestamp": "1728561680",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 8 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516991457396@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE5E9F91163A07C"
+  },
+  "message": {
+    "conversation": "‎Meu numero:, foi um prazer conversar com você! 😊\n\n📋 *Protocolo:* _2024101082838_"
+  },
+  "messageTimestamp": "1728559719",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516991457396@s.whatsapp.net",
+      "receiptTimestamp": "1728559719",
+      "readTimestamp": "1728562957",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 9 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE55C0FF5F8C275"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, foi um prazer conversar com você! 😊\n\n📋 *Protocolo:* _2024101082835_"
+  },
+  "messageTimestamp": "1728559715",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1728561680",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 10 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE5E5A91B74440A"
+  },
+  "message": {
+    "conversation": "*Admin:*\nr"
+  },
+  "messageTimestamp": "1728559698",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1728561680",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 11 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE57D2C4785818F"
+  },
+  "message": {
+    "conversation": "*Admin:*\ne"
+  },
+  "messageTimestamp": "1728559695",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1728561680",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 12 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE564107FB1FDBB"
+  },
+  "message": {
+    "conversation": "*Admin:*\na"
+  },
+  "messageTimestamp": "1728559693",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1728561680",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 13 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE5A2DD863B2EB7"
+  },
+  "message": {
+    "conversation": "*Deborah:* Ben?"
+  },
+  "messageTimestamp": "1728558057",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1728558057",
+      "readTimestamp": "1728558061",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 14 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE54868C1A47E26"
+  },
+  "message": {
+    "conversation": "*Deborah:* Oie"
+  },
+  "messageTimestamp": "1728558054",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1728558054",
+      "readTimestamp": "1728558061",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 15 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB07F103079E453243AEF"
+  },
+  "message": {
+    "conversation": "aaaa"
+  },
+  "messageTimestamp": "1728558027"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 16 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516991457396@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0511E7FFB89E7DCEA22"
+  },
+  "message": {
+    "conversation": "aaaaaaaaaaaaaaa"
+  },
+  "messageTimestamp": "1727874421",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516991457396@s.whatsapp.net",
+      "receiptTimestamp": "1727874421",
+      "readTimestamp": "1727875679",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 17 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516991457396@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0CFF49C8F27D90A13F5"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7114-24/31840744_1768355990367866_699530320780314163_n.enc?ccb=11-4&oh=01_Q5AaIJJOUcuihZUThKGMNcjV-tgXdswbnWRT2C6zggcOUvTY&oe=6724B964&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/mpeg",
+      "fileSha256": "S8TYQgnw08qfXSNFaAtT7zyPL1gBetrLypfSI4xvu1M=",
+      "fileLength": "87552",
+      "seconds": 3,
+      "ptt": false,
+      "mediaKey": "TJ1mR7cF0RqlJdfWR49sSI58q3mDrSOd7Eg3qd02sk0=",
+      "fileEncSha256": "D0JXxfDIC/fnFdJ1q23UUqSnHvVl8d9DgOcTo8DXdpk=",
+      "directPath": "/v/t62.7114-24/31840744_1768355990367866_699530320780314163_n.enc?ccb=11-4&oh=01_Q5AaIJJOUcuihZUThKGMNcjV-tgXdswbnWRT2C6zggcOUvTY&oe=6724B964&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1727874398"
+    }
+  },
+  "messageTimestamp": "1727874415",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Audio/Sent/AUD-20241002-WA0001.mp3"
+  },
+  "userReceipt": [
+    {
+      "userJid": "5516991457396@s.whatsapp.net",
+      "receiptTimestamp": "1727874416",
+      "readTimestamp": "1727875679",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 18 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0924A21AFBD8C854E6D"
+  },
+  "message": {
+    "conversation": "aaaaaaaaaaaaaaa"
+  },
+  "messageTimestamp": "1727874406",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727874406",
+      "readTimestamp": "1727897053",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 19 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F7469A87F7FD3EEE90"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7114-24/31840744_1768355990367866_699530320780314163_n.enc?ccb=11-4&oh=01_Q5AaIJJOUcuihZUThKGMNcjV-tgXdswbnWRT2C6zggcOUvTY&oe=6724B964&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/mpeg",
+      "fileSha256": "S8TYQgnw08qfXSNFaAtT7zyPL1gBetrLypfSI4xvu1M=",
+      "fileLength": "87552",
+      "seconds": 3,
+      "ptt": false,
+      "mediaKey": "TJ1mR7cF0RqlJdfWR49sSI58q3mDrSOd7Eg3qd02sk0=",
+      "fileEncSha256": "D0JXxfDIC/fnFdJ1q23UUqSnHvVl8d9DgOcTo8DXdpk=",
+      "directPath": "/v/t62.7114-24/31840744_1768355990367866_699530320780314163_n.enc?ccb=11-4&oh=01_Q5AaIJJOUcuihZUThKGMNcjV-tgXdswbnWRT2C6zggcOUvTY&oe=6724B964&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1727874398"
+    }
+  },
+  "messageTimestamp": "1727874399",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Audio/Sent/AUD-20241002-WA0001.mp3"
+  },
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727874400",
+      "readTimestamp": "1727897053",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 20 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554799934641@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0307AD388E383567343"
+  },
+  "message": {
+    "conversation": "Teste"
+  },
+  "messageTimestamp": "1727874280",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "554799934641@s.whatsapp.net",
+      "receiptTimestamp": "1727874282",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 21 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554796184145@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0CC028C368EEDD1FE95"
+  },
+  "message": {
+    "conversation": "Teste"
+  },
+  "messageTimestamp": "1727874272",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "554796184145@s.whatsapp.net",
+      "receiptTimestamp": "1727874274",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 22 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516991457396@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0367E7040AA8BC130BB"
+  },
+  "message": {
+    "conversation": "‌ Teste 1"
+  },
+  "messageTimestamp": "1727868802",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516991457396@s.whatsapp.net",
+      "receiptTimestamp": "1727868802",
+      "readTimestamp": "1727869008",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 23 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516991457396@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F941BB64D7BEE7840B"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7114-24/35124249_1618902742301832_7920860793080737556_n.enc?ccb=11-4&oh=01_Q5AaIE9xZqmDPcw5a73H_zhq4fGb_l98ip2JsCI8lzhXCfEO&oe=67249B98&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/mp4",
+      "fileSha256": "4J1s0i1IFAp/2uN4lXJ1GI8VPOeDT75rvJVENLVxOng=",
+      "fileLength": "178207",
+      "seconds": 10,
+      "ptt": true,
+      "mediaKey": "R6N91+ej0WCURYXmSLMv7NHmN3ryW8Aoe6DqkLrqUm8=",
+      "fileEncSha256": "6d5h6LC6I8X4JSt7+R2KtPWJi3t0LgT+i6UX7Q9ODHU=",
+      "directPath": "/v/t62.7114-24/35124249_1618902742301832_7920860793080737556_n.enc?ccb=11-4&oh=01_Q5AaIE9xZqmDPcw5a73H_zhq4fGb_l98ip2JsCI8lzhXCfEO&oe=67249B98&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1727868800"
+    }
+  },
+  "messageTimestamp": "1727868802",
+  "status": "PLAYED",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Voice Notes/202440/PTT-20241002-WA0000.m4a"
+  },
+  "userReceipt": [
+    {
+      "userJid": "5516991457396@s.whatsapp.net",
+      "receiptTimestamp": "1727868802",
+      "readTimestamp": "1727869008",
+      "playedTimestamp": "1727869012"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 24 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB07AE9D78305407AD3CB"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, foi um prazer conversar com você! 😊\n\n📋 *Protocolo:* _2024100283046_"
+  },
+  "messageTimestamp": "1727868647",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727868647",
+      "readTimestamp": "1727869003",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 25 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0CA4D86772DF6E20520"
+  },
+  "message": {
+    "conversation": "sim e sim"
+  },
+  "messageTimestamp": "1727823447"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 26 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A7FDC3DE6061681231"
+  },
+  "message": {
+    "conversation": "Tudo bem?"
+  },
+  "messageTimestamp": "1727823442",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727823442",
+      "readTimestamp": "1727823442",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 27 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB02BC1E817686DC087C3"
+  },
+  "message": {
+    "conversation": "2"
+  },
+  "messageTimestamp": "1727823440"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 28 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0886EA347EE74FFE10E"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, Boa noite!\n\n😍 Seja bem vindo ao nosso atendimento.\n\nEscolha uma das opções abaixo 👇\n\n*[ 1 ]* - 📕 Dúvidas\n*[ 2 ]* - 📌 Typebot\n"
+  },
+  "messageTimestamp": "1727823438",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727823439",
+      "readTimestamp": "1727823439",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 29 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB04B57E159F4E6387BD1"
+  },
+  "message": {
+    "conversation": "ee"
+  },
+  "messageTimestamp": "1727823438"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 30 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A6EAC5117BD175BDFF"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, foi um prazer conversar com você! 😊\n\n📋 *Protocolo:* _20241001195715_"
+  },
+  "messageTimestamp": "1727823435",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727823436",
+      "readTimestamp": "1727823436",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 31 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB00A69DB9965E452A092"
+  },
+  "message": {
+    "conversation": "aa"
+  },
+  "messageTimestamp": "1727823432"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 32 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0FCC6D301639231DBD0"
+  },
+  "message": {
+    "conversation": "2"
+  },
+  "messageTimestamp": "1727810934"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 33 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F876F3BC8D5BC8D6D8"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, Boa tarde!\n\n😍 Seja bem vindo ao nosso atendimento.\n\nEscolha uma das opções abaixo 👇\n\n*[ 1 ]* - 📕 Dúvidas\n*[ 2 ]* - 📌 Typebot\n"
+  },
+  "messageTimestamp": "1727810932",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810932",
+      "readTimestamp": "1727810933",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 34 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0643F0B8CCD36F174A7"
+  },
+  "message": {
+    "conversation": "aaa"
+  },
+  "messageTimestamp": "1727810932"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 35 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB078E0C5F2567F031AE4"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, foi um prazer conversar com você! 😊\n\n📋 *Protocolo:* _20241001162848_"
+  },
+  "messageTimestamp": "1727810928",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810929",
+      "readTimestamp": "1727810929",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 36 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08234861B2372AFB81A"
+  },
+  "message": {
+    "conversation": "Fim"
+  },
+  "messageTimestamp": "1727810840",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810840",
+      "readTimestamp": "1727810840",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 37 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0B9B18369CD4FEE8248"
+  },
+  "message": {
+    "conversation": "Tudo bem?"
+  },
+  "messageTimestamp": "1727810838",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810839",
+      "readTimestamp": "1727810839",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 38 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0EC6A54ECA4444A5ACE"
+  },
+  "message": {
+    "conversation": "2"
+  },
+  "messageTimestamp": "1727810837"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 39 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0B1C85421F852C50300"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, Boa tarde!\n\n😍 Seja bem vindo ao nosso atendimento.\n\nEscolha uma das opções abaixo 👇\n\n*[ 1 ]* - 📕 Dúvidas\n*[ 2 ]* - 📌 Typebot\n"
+  },
+  "messageTimestamp": "1727810835",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810835",
+      "readTimestamp": "1727810836",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 40 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB00785C0DF7D33D34E94"
+  },
+  "message": {
+    "conversation": "aaa"
+  },
+  "messageTimestamp": "1727810834"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 41 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F1917E06BEC5BC1C2C"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, foi um prazer conversar com você! 😊\n\n📋 *Protocolo:* _20241001162711_"
+  },
+  "messageTimestamp": "1727810832",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810832",
+      "readTimestamp": "1727810833",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 42 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB054A13AA392583A3DF5"
+  },
+  "message": {
+    "conversation": "2"
+  },
+  "messageTimestamp": "1727810804"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 43 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB09D1AA9AFC87EE92602"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, Boa tarde!\n\n😍 Seja bem vindo ao nosso atendimento.\n\nEscolha uma das opções abaixo 👇\n\n*[ 1 ]* - 📕 Dúvidas\n*[ 2 ]* - 📌 Typebot\n"
+  },
+  "messageTimestamp": "1727810802",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810803",
+      "readTimestamp": "1727810803",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 44 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB05392EA6055831B6000"
+  },
+  "message": {
+    "conversation": "eeeee"
+  },
+  "messageTimestamp": "1727810802"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 45 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB03227789D4C737398C0"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, foi um prazer conversar com você! 😊\n\n📋 *Protocolo:* _20241001162637_"
+  },
+  "messageTimestamp": "1727810797",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810798",
+      "readTimestamp": "1727810798",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 46 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB02B4E70F8355A5AE892"
+  },
+  "message": {
+    "conversation": "aa"
+  },
+  "messageTimestamp": "1727810785"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 47 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0267B38B48CA55F2A11"
+  },
+  "message": {
+    "conversation": "2"
+  },
+  "messageTimestamp": "1727810692"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 48 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB059ED9F7344BB475AA4"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, Boa tarde!\n\n😍 Seja bem vindo ao nosso atendimento.\n\nEscolha uma das opções abaixo 👇\n\n*[ 1 ]* - 📕 Dúvidas\n*[ 2 ]* - 📌 Typebot\n"
+  },
+  "messageTimestamp": "1727810690",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810690",
+      "readTimestamp": "1727810691",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 49 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0ADA2711A4042AC8CE8"
+  },
+  "message": {
+    "conversation": "a"
+  },
+  "messageTimestamp": "1727810689"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 50 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A7139444EB494EF881"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, foi um prazer conversar com você! 😊\n\n📋 *Protocolo:* _20241001162421_"
+  },
+  "messageTimestamp": "1727810661",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810661",
+      "readTimestamp": "1727810687",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 51 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04EB710084BD733EDB4"
+  },
+  "message": {
+    "conversation": "Aguarde, em breve iremos te atender"
+  },
+  "messageTimestamp": "1727810655",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810655",
+      "readTimestamp": "1727810656",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 52 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB00F413C3CDD04C185BD"
+  },
+  "message": {
+    "conversation": "loja"
+  },
+  "messageTimestamp": "1727810653"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 53 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04531BCC1679A9FB65E"
+  },
+  "message": {
+    "conversation": "Precisa que os produtos sejam entregues ou prefere retirar na loja?"
+  },
+  "messageTimestamp": "1727810648",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810649",
+      "readTimestamp": "1727810649",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 54 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB090C6ABA2DDDABB7646"
+  },
+  "message": {
+    "conversation": "nao"
+  },
+  "messageTimestamp": "1727810647"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 55 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0E82067CD2796B98956"
+  },
+  "message": {
+    "conversation": "Tem preferência por alguma marca ou tipo de produto?"
+  },
+  "messageTimestamp": "1727810643",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810643",
+      "readTimestamp": "1727810644",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 56 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB03B5DA1817E27530DC7"
+  },
+  "message": {
+    "conversation": "2"
+  },
+  "messageTimestamp": "1727810641"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 57 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0ED29268E7EC988CB66"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, Boa tarde!\n\n😍 Seja bem vindo ao nosso atendimento.\n\nEscolha uma das opções abaixo 👇\n\n*[ 1 ]* - 📕 Dúvidas\n*[ 2 ]* - 📌 Typebot\n"
+  },
+  "messageTimestamp": "1727810640",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810640",
+      "readTimestamp": "1727810640",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 58 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0B3AEEC295051F577BA"
+  },
+  "message": {
+    "conversation": "aa"
+  },
+  "messageTimestamp": "1727810639"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 59 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB027F96A9F1500BB9D4D"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, foi um prazer conversar com você! 😊\n\n📋 *Protocolo:* _20241001162357_"
+  },
+  "messageTimestamp": "1727810637",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810637",
+      "readTimestamp": "1727810638",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 60 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB05A378F59F38B4C6FE0"
+  },
+  "message": {
+    "conversation": "2"
+  },
+  "messageTimestamp": "1727810578"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 61 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB06465C5831C8FD4C61C"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, Boa tarde!\n\n😍 Seja bem vindo ao nosso atendimento.\n\nEscolha uma das opções abaixo 👇\n\n*[ 1 ]* - 📕 Dúvidas\n*[ 2 ]* - 📌 Typebot\n"
+  },
+  "messageTimestamp": "1727810576",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810576",
+      "readTimestamp": "1727810576",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 62 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0698512C90A071F8821"
+  },
+  "message": {
+    "conversation": "e"
+  },
+  "messageTimestamp": "1727810575"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 63 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0D70E7FC987095569DA"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, foi um prazer conversar com você! 😊\n\n📋 *Protocolo:* _20241001162252_"
+  },
+  "messageTimestamp": "1727810572",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810572",
+      "readTimestamp": "1727810573",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 64 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB022331661A4081A23FF"
+  },
+  "message": {
+    "conversation": "2"
+  },
+  "messageTimestamp": "1727810491"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 65 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0CA57B18972BCAB849C"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, Boa tarde!\n\n😍 Seja bem vindo ao nosso atendimento.\n\nEscolha uma das opções abaixo 👇\n\n*[ 1 ]* - 📕 Dúvidas\n*[ 2 ]* - 📌 Typebot\n"
+  },
+  "messageTimestamp": "1727810489",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810489",
+      "readTimestamp": "1727810490",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 66 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0B2A0FD6FB9D6942340"
+  },
+  "message": {
+    "conversation": "aaa"
+  },
+  "messageTimestamp": "1727810489"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 67 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB044A3F56C70AF347B63"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, foi um prazer conversar com você! 😊\n\n📋 *Protocolo:* _20241001162124_"
+  },
+  "messageTimestamp": "1727810484",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810485",
+      "readTimestamp": "1727810486",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 68 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0E1F830D7B14DDD34CA"
+  },
+  "message": {
+    "conversation": "2"
+  },
+  "messageTimestamp": "1727810426"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 69 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0EEE1169097A7435027"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, Boa tarde!\n\n😍 Seja bem vindo ao nosso atendimento.\n\nEscolha uma das opções abaixo 👇\n\n*[ 1 ]* - 📕 Dúvidas\n*[ 2 ]* - 📌 Typebot\n"
+  },
+  "messageTimestamp": "1727810424",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810424",
+      "readTimestamp": "1727810424",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 70 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB03DDDB6A9065878C25F"
+  },
+  "message": {
+    "conversation": "aa"
+  },
+  "messageTimestamp": "1727810423"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 71 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0395D6BC9C23DA9418D"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, foi um prazer conversar com você! 😊\n\n📋 *Protocolo:* _20241001162020_"
+  },
+  "messageTimestamp": "1727810420",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810421",
+      "readTimestamp": "1727810422",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 72 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB064A59D9C8D7D75607F"
+  },
+  "message": {
+    "conversation": "2"
+  },
+  "messageTimestamp": "1727810377"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 73 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0BF18ECD1BBE3BD1315"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, Boa tarde!\n\n😍 Seja bem vindo ao nosso atendimento.\n\nEscolha uma das opções abaixo 👇\n\n*[ 1 ]* - 📕 Dúvidas\n*[ 2 ]* - 📌 Typebot\n"
+  },
+  "messageTimestamp": "1727810374",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727810374",
+      "readTimestamp": "1727810374",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 74 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0F7A50DA4D99A67B96A"
+  },
+  "message": {
+    "conversation": "oie"
+  },
+  "messageTimestamp": "1727810373"
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 75 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE57EB0A67637F2"
+  },
+  "message": {
+    "conversation": "*Admin:*\n222"
+  },
+  "messageTimestamp": "1727807131",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727807131",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 76 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE574720FC407B7"
+  },
+  "message": {
+    "conversation": "*Admin:*\ne"
+  },
+  "messageTimestamp": "1727807077",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727807078",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 77 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE5441A3C6C63C5"
+  },
+  "message": {
+    "conversation": "*Admin:*\nt"
+  },
+  "messageTimestamp": "1727807077",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727807077",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 78 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE587E5FFCBE0FB"
+  },
+  "message": {
+    "conversation": "*Admin:*\nr"
+  },
+  "messageTimestamp": "1727807076",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727807077",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 79 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE59999CA4DEE63"
+  },
+  "message": {
+    "conversation": "*Admin:*\ne"
+  },
+  "messageTimestamp": "1727807076",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727807076",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 80 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE54B9B3892E507"
+  },
+  "message": {
+    "conversation": "*Admin:*\na"
+  },
+  "messageTimestamp": "1727807075",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727807075",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 81 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE5013E7FFD4A97"
+  },
+  "message": {
+    "conversation": "*Admin:*\ne"
+  },
+  "messageTimestamp": "1727807074",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727807075",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 82 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE5D0A4CC710594"
+  },
+  "message": {
+    "conversation": "*Admin:*\nee"
+  },
+  "messageTimestamp": "1727807073",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727807073",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 83 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE54B68356FEA0A"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, foi um prazer conversar com você! 😊\n\n📋 *Protocolo:* _20241001152359_"
+  },
+  "messageTimestamp": "1727807048",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727807048",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 84 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE50DB3A0976DBA"
+  },
+  "message": {
+    "conversation": "*Admin:*\neee"
+  },
+  "messageTimestamp": "1727806986",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806986",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 85 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE514628DF69E09"
+  },
+  "message": {
+    "conversation": "*Admin:*\n987"
+  },
+  "messageTimestamp": "1727806907",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806907",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 86 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "0614AE1C2E97E134FE57BC821A6AF6F5"
+  },
+  "message": {
+    "conversation": "123"
+  },
+  "messageTimestamp": "1727806898",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806898",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 87 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "ADE7EFF857DC60A8C00C1F06B41737FD"
+  },
+  "message": {
+    "conversation": "eeee"
+  },
+  "messageTimestamp": "1727806885",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806885",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 88 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "D9B7BCD66B1D2C96ADC878772B50160B"
+  },
+  "message": {
+    "conversation": "aaaa"
+  },
+  "messageTimestamp": "1727806818",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806818",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 89 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "DD3DDC01C4BB6850F421BC296AE1F531"
+  },
+  "message": {
+    "conversation": "eeee"
+  },
+  "messageTimestamp": "1727806798",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806798",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 90 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE57F36C4983E35"
+  },
+  "message": {
+    "conversation": "*Admin:*\ne"
+  },
+  "messageTimestamp": "1727806791",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806791",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 91 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE5682140CB5900"
+  },
+  "message": {
+    "conversation": "*Admin:*\neeee"
+  },
+  "messageTimestamp": "1727806772",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806772",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 92 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "66FA1B9F39F2EA8F1308E1E2F3593B05"
+  },
+  "message": {
+    "conversation": "aaa"
+  },
+  "messageTimestamp": "1727806692",
+  "status": "READ",
+  "messageC2STimestamp": "1727806693",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806693",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 93 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE550FAFB3EA4E8"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, foi um prazer conversar com você! 😊\n\n📋 *Protocolo:* _20241001151754_"
+  },
+  "messageTimestamp": "1727806683",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806683",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 94 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE56A08C2095470"
+  },
+  "message": {
+    "conversation": "*Admin:*\neeee"
+  },
+  "messageTimestamp": "1727806648",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806648",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 95 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "12F6D765A1828610F24A319C37CF64BC"
+  },
+  "message": {
+    "conversation": "c"
+  },
+  "messageTimestamp": "1727806643",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806643",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 96 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "B6B03B8EAD95A7EFE499C57CD1E0A98B"
+  },
+  "message": {
+    "conversation": "e"
+  },
+  "messageTimestamp": "1727806638",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806638",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 97 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "8BC72DC24CFEAE1D965735A2898CB687"
+  },
+  "message": {
+    "conversation": "d"
+  },
+  "messageTimestamp": "1727806636",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806636",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 98 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE58292EE66ABB0"
+  },
+  "message": {
+    "conversation": "*Admin:*\naa"
+  },
+  "messageTimestamp": "1727806624",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806624",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 99 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE5603103459A93"
+  },
+  "message": {
+    "conversation": "*Admin:*\nee"
+  },
+  "messageTimestamp": "1727806617",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806618",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 100 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "9E3A57C41EB3F88B14E2EF7897761239"
+  },
+  "message": {
+    "conversation": "e"
+  },
+  "messageTimestamp": "1727806605",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806605",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 101 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "B9F2C806416C0237C9B21E4169A0FCF9"
+  },
+  "message": {
+    "conversation": "e"
+  },
+  "messageTimestamp": "1727806597",
+  "status": "READ",
+  "messageC2STimestamp": "1727806598",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806598",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 102 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE5116B8329D32E"
+  },
+  "message": {
+    "conversation": "*Admin:*\na"
+  },
+  "messageTimestamp": "1727806577",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806577",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 103 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516992475333@s.whatsapp.net",
+    "fromMe": true,
+    "id": "BAE56F81A4A32832"
+  },
+  "message": {
+    "conversation": "‎Marcio Guinati, foi um prazer conversar com você! 😊\n\n📋 *Protocolo:* _20241001151548_"
+  },
+  "messageTimestamp": "1727806558",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516992475333@s.whatsapp.net",
+      "receiptTimestamp": "1727806559",
+      "readTimestamp": "1727807142",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 104 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516991457396@s.whatsapp.net",
+    "fromMe": true,
+    "id": "4CB83B7C0D41A35611320FBA4CB1E112"
+  },
+  "message": {
+    "conversation": "oie"
+  },
+  "messageTimestamp": "1727796591",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516991457396@s.whatsapp.net",
+      "receiptTimestamp": "1727796592",
+      "readTimestamp": "1727803740",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 105 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516991457396@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08712AF87352365EB74"
+  },
+  "message": {
+    "conversation": "‎aaaa, foi um prazer conversar com você! 😊\n\n📋 *Protocolo:* _20241001122223_"
+  },
+  "messageTimestamp": "1727796143",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516991457396@s.whatsapp.net",
+      "receiptTimestamp": "1727796144",
+      "readTimestamp": "1727803740",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 106 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5516991457396@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB07B5FAA59547C8BDD23"
+  },
+  "message": {
+    "conversation": "eesr"
+  },
+  "messageTimestamp": "1727796137",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "5516991457396@s.whatsapp.net",
+      "receiptTimestamp": "1727796138",
+      "readTimestamp": "1727803740",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 107 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB053B56DA00A1A87761D"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Sistema cancelou a operação, devido a demora na resposta...",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "C1DA69A40B40C4D89051995DAFAB1EF3",
+        "participant": "5511993330079@s.whatsapp.net",
+        "quotedMessage": {
+          "templateButtonReplyMessage": {
+            "selectedDisplayText": "𝙑𝙄́𝘿𝙀𝙊 🎥",
+            "contextInfo": {},
+            "selectedIndex": 0
+          }
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1727786948",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 108 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB0560AECD3A0B65F770B"
+  },
+  "message": {
+    "editedMessage": {
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "120363332920017614@g.us",
+            "fromMe": false,
+            "id": "3EB0A4594BA4A880ECC536"
+          },
+          "type": "MESSAGE_EDIT",
+          "editedMessage": {
+            "extendedTextMessage": {
+              "text": "~_*© black system*_~\n𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳...",
+              "previewType": "NONE",
+              "contextInfo": {
+                "stanzaId": "6FCC81EA24BF8EE947D67874A474DCA9",
+                "participant": "5517999774892@s.whatsapp.net",
+                "quotedMessage": {
+                  "templateButtonReplyMessage": {
+                    "selectedDisplayText": "𝘼́𝙐𝘿𝙄𝙊 🎵",
+                    "contextInfo": {},
+                    "selectedIndex": 0
+                  }
+                }
+              },
+              "inviteLinkGroupTypeV2": "DEFAULT"
+            }
+          },
+          "timestampMs": "1727786950343"
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1727786946",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 109 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB0DBB84C6FC9AE9CDF4A"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "</> @553196707701\n</> @553899483739\n</> @556198609693\n</> @557582711614\n</> @557184753805\n</> @559887676832\n</> @558586479655\n</> @5511939394181\n</> @5511916675061\n</> @556181711937\n</> @559492966434\n</> @556793392971\n</> @558386678452\n</> @556392538321\n</> @5524981493553\n</> @559492297133\n</> @558396731310\n</> @554498304882\n</> @5548933802356\n</> @5524981397319\n</> @258851827945\n</> @556282339310\n</> @557196283195\n</> @558287342487\n</> @5517997187882\n</> @553195711548\n</> @558499987654\n</> @556797311030\n</> @5517999747925\n</> @558388558552\n</> @5514988285090\n</> @556797313792\n</> @558185221278\n</> @554498124739\n</> @559291895662\n</> @559184777763\n</> @967774804918\n</> @553186218137\n</> @5524999869804\n</> @559191130449\n</> @559881180892\n</> @5511937043692\n</> @5511959068003\n</> @558896663477\n</> @555596481781\n</> @559784061818\n</> @258872303545\n</> @556297007965\n</> @5516994096631\n</> @558488877654\n</> @5524998456111\n</> @5524998437700\n</> @5511918273264\n</> @559294083563\n</> @559294242111\n</> @5521964746381\n</> @555195444243\n</> @351927159732\n</> @558585793573\n</> @351967950858\n</> @5517981639072\n</> @553198624048\n</> @553198242057\n</> @556281670120\n</> @559884501601\n</> @556296331704\n</> @5516981512065\n</> @553599996899\n</> @5524999295177\n</> @258864286020\n</> @5519996081612\n</> @553499171787\n</> @244953182452\n</> @556992080642\n</> @553799743116\n</> @5511967211843\n</> @558291498686\n</> @553192365524\n</> @5511932903348\n</> @5521979841920\n</> @559884365123\n</> @5511967252430\n</> @559491640640\n</> @5521982563576\n</> @553291517688\n</> @554396644492\n</> @556596605948\n</> @557192672115\n</> @5511993330079\n</> @5511983393203\n</> @258871083019\n</> @554891757439\n</> @553398113201\n</> @5518998078360\n</> @556198314384\n</> @557788731216\n</> @559981239645\n</> @5511954960262\n</> @558694332538\n</> @553799767239\n</> @5511951012023\n</> @56950375126\n</> @554488571934\n</> @5517997019190\n</> @5511959179417\n</> @5511981530703",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "7B8F8030CC5C6666DCE44B996CCF1B00",
+        "participant": "5517999774892@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": ".marcar"
+        },
+        "mentionedJid": [
+          "5516994096631@s.whatsapp.net",
+          "558488877654@s.whatsapp.net",
+          "556296331704@s.whatsapp.net",
+          "558287342487@s.whatsapp.net",
+          "556793392971@s.whatsapp.net",
+          "558386678452@s.whatsapp.net",
+          "558185221278@s.whatsapp.net",
+          "5548933802356@s.whatsapp.net",
+          "56950375126@s.whatsapp.net",
+          "5517997187882@s.whatsapp.net",
+          "557582711614@s.whatsapp.net",
+          "559884365123@s.whatsapp.net",
+          "5511983393203@s.whatsapp.net",
+          "559294083563@s.whatsapp.net",
+          "5511939394181@s.whatsapp.net",
+          "258871083019@s.whatsapp.net",
+          "553198624048@s.whatsapp.net",
+          "556181711937@s.whatsapp.net",
+          "5521982563576@s.whatsapp.net",
+          "557788731216@s.whatsapp.net",
+          "5514988285090@s.whatsapp.net",
+          "558896663477@s.whatsapp.net",
+          "559881180892@s.whatsapp.net",
+          "553291517688@s.whatsapp.net",
+          "5518998078360@s.whatsapp.net",
+          "5521964746381@s.whatsapp.net",
+          "553196707701@s.whatsapp.net",
+          "5524999295177@s.whatsapp.net",
+          "553799743116@s.whatsapp.net",
+          "559784061818@s.whatsapp.net",
+          "5519996081612@s.whatsapp.net",
+          "558388558552@s.whatsapp.net",
+          "556198609693@s.whatsapp.net",
+          "5511932903348@s.whatsapp.net",
+          "558585793573@s.whatsapp.net",
+          "5511981530703@s.whatsapp.net",
+          "555596481781@s.whatsapp.net",
+          "553186218137@s.whatsapp.net",
+          "559191130449@s.whatsapp.net",
+          "554891757439@s.whatsapp.net",
+          "553195711548@s.whatsapp.net",
+          "553398113201@s.whatsapp.net",
+          "553499171787@s.whatsapp.net",
+          "559981239645@s.whatsapp.net",
+          "5511967211843@s.whatsapp.net",
+          "553198242057@s.whatsapp.net",
+          "5511959068003@s.whatsapp.net",
+          "554498304882@s.whatsapp.net",
+          "5511954960262@s.whatsapp.net",
+          "5524998456111@s.whatsapp.net",
+          "258864286020@s.whatsapp.net",
+          "558586479655@s.whatsapp.net",
+          "558291498686@s.whatsapp.net",
+          "559884501601@s.whatsapp.net",
+          "5524981397319@s.whatsapp.net",
+          "556596605948@s.whatsapp.net",
+          "554396644492@s.whatsapp.net",
+          "556392538321@s.whatsapp.net",
+          "553599996899@s.whatsapp.net",
+          "558499987654@s.whatsapp.net",
+          "554488571934@s.whatsapp.net",
+          "5511937043692@s.whatsapp.net",
+          "557184753805@s.whatsapp.net",
+          "351927159732@s.whatsapp.net",
+          "559492966434@s.whatsapp.net",
+          "557196283195@s.whatsapp.net",
+          "5524998437700@s.whatsapp.net",
+          "558694332538@s.whatsapp.net",
+          "5511951012023@s.whatsapp.net",
+          "556282339310@s.whatsapp.net",
+          "967774804918@s.whatsapp.net",
+          "258851827945@s.whatsapp.net",
+          "5524981493553@s.whatsapp.net",
+          "351967950858@s.whatsapp.net",
+          "559491640640@s.whatsapp.net",
+          "553192365524@s.whatsapp.net",
+          "556198314384@s.whatsapp.net",
+          "5511959179417@s.whatsapp.net",
+          "559492297133@s.whatsapp.net",
+          "5521979841920@s.whatsapp.net",
+          "556797311030@s.whatsapp.net",
+          "553799767239@s.whatsapp.net",
+          "556297007965@s.whatsapp.net",
+          "5511967252430@s.whatsapp.net",
+          "556992080642@s.whatsapp.net",
+          "559294242111@s.whatsapp.net",
+          "556797313792@s.whatsapp.net",
+          "5524999869804@s.whatsapp.net",
+          "556281670120@s.whatsapp.net",
+          "244953182452@s.whatsapp.net",
+          "553899483739@s.whatsapp.net",
+          "559887676832@s.whatsapp.net",
+          "5511916675061@s.whatsapp.net",
+          "5511993330079@s.whatsapp.net",
+          "5517997019190@s.whatsapp.net",
+          "258872303545@s.whatsapp.net",
+          "555195444243@s.whatsapp.net",
+          "5511918273264@s.whatsapp.net",
+          "5517981639072@s.whatsapp.net",
+          "558396731310@s.whatsapp.net",
+          "557192672115@s.whatsapp.net",
+          "5517999747925@s.whatsapp.net",
+          "559184777763@s.whatsapp.net",
+          "559291895662@s.whatsapp.net",
+          "554498124739@s.whatsapp.net",
+          "5516981512065@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1727786903",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 110 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB01E6E715A2ACB4FC899"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7114-24/19267800_1682073022632940_7889066454402351770_n.enc?ccb=11-4&oh=01_Q5AaICq5luspVd7L_tBGXSKoOqM9e12FWOD81AkD223Y1DqJ&oe=67235450&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/mp4",
+      "fileSha256": "WmGEmBpdFxbHfpaE6qCK9JVeLsn/vnegiSfyGA7thc8=",
+      "fileLength": "76636",
+      "seconds": 3,
+      "ptt": true,
+      "mediaKey": "vbjle2Qln+B0q3h2VbYtJKlBisL3AuNMyq+Czh+LXMk=",
+      "fileEncSha256": "8tfnnk+hQ1P1q+0A7yksrAZxQ4cM5y5TiY+ZfncRsx4=",
+      "directPath": "/v/t62.7114-24/19267800_1682073022632940_7889066454402351770_n.enc?ccb=11-4&oh=01_Q5AaICq5luspVd7L_tBGXSKoOqM9e12FWOD81AkD223Y1DqJ&oe=67235450&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1727786749",
+      "contextInfo": {
+        "stanzaId": "9F9166EAC8FFDBC5ECCEBAADFB5C4ADC",
+        "participant": "553491541089@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": ".promo"
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1727786749",
+  "status": "PLAYED",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true,
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Voice Notes/202440/PTT-20241001-WA0009.m4a"
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 111 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB072A30EA18AD1B74A0E"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "@5517999774892 *ACABA DE RECEBER A COROA DE ADMINISTRADOR DO GRUPO... ESPERO QUE HONRE A SUA FUNÇÃO* 👑",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          "5517999774892@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1727786748",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 112 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB0970360512CE653A8B5"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "GENTE SO PODE PEDIR .MENU UMA VEZ",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          "5516994096631@s.whatsapp.net",
+          "558488877654@s.whatsapp.net",
+          "556296331704@s.whatsapp.net",
+          "558287342487@s.whatsapp.net",
+          "556793392971@s.whatsapp.net",
+          "558386678452@s.whatsapp.net",
+          "558185221278@s.whatsapp.net",
+          "5548933802356@s.whatsapp.net",
+          "553191537245@s.whatsapp.net",
+          "56950375126@s.whatsapp.net",
+          "5517997187882@s.whatsapp.net",
+          "557582711614@s.whatsapp.net",
+          "559884365123@s.whatsapp.net",
+          "5511983393203@s.whatsapp.net",
+          "559294083563@s.whatsapp.net",
+          "5511939394181@s.whatsapp.net",
+          "258871083019@s.whatsapp.net",
+          "553198624048@s.whatsapp.net",
+          "556181711937@s.whatsapp.net",
+          "5521982563576@s.whatsapp.net",
+          "557788731216@s.whatsapp.net",
+          "5514988285090@s.whatsapp.net",
+          "558896663477@s.whatsapp.net",
+          "559881180892@s.whatsapp.net",
+          "5521989056711@s.whatsapp.net",
+          "553291517688@s.whatsapp.net",
+          "5518998078360@s.whatsapp.net",
+          "5521964746381@s.whatsapp.net",
+          "553196707701@s.whatsapp.net",
+          "5524999295177@s.whatsapp.net",
+          "553799743116@s.whatsapp.net",
+          "559784061818@s.whatsapp.net",
+          "5519996081612@s.whatsapp.net",
+          "558388558552@s.whatsapp.net",
+          "556198609693@s.whatsapp.net",
+          "5511932903348@s.whatsapp.net",
+          "558585793573@s.whatsapp.net",
+          "5511981530703@s.whatsapp.net",
+          "555596481781@s.whatsapp.net",
+          "553186218137@s.whatsapp.net",
+          "559191130449@s.whatsapp.net",
+          "554891757439@s.whatsapp.net",
+          "553195711548@s.whatsapp.net",
+          "553398113201@s.whatsapp.net",
+          "553499171787@s.whatsapp.net",
+          "559981239645@s.whatsapp.net",
+          "5511910149157@s.whatsapp.net",
+          "5511967211843@s.whatsapp.net",
+          "553198242057@s.whatsapp.net",
+          "5511959068003@s.whatsapp.net",
+          "554498304882@s.whatsapp.net",
+          "5511954960262@s.whatsapp.net",
+          "5524998456111@s.whatsapp.net",
+          "258864286020@s.whatsapp.net",
+          "558586479655@s.whatsapp.net",
+          "558291498686@s.whatsapp.net",
+          "559884501601@s.whatsapp.net",
+          "5524981397319@s.whatsapp.net",
+          "556596605948@s.whatsapp.net",
+          "554396644492@s.whatsapp.net",
+          "556392538321@s.whatsapp.net",
+          "553599996899@s.whatsapp.net",
+          "558499987654@s.whatsapp.net",
+          "5511943677872@s.whatsapp.net",
+          "554488571934@s.whatsapp.net",
+          "5511937043692@s.whatsapp.net",
+          "553491038411@s.whatsapp.net",
+          "557184753805@s.whatsapp.net",
+          "351927159732@s.whatsapp.net",
+          "559492966434@s.whatsapp.net",
+          "557196283195@s.whatsapp.net",
+          "5524998437700@s.whatsapp.net",
+          "5521976637755@s.whatsapp.net",
+          "558694332538@s.whatsapp.net",
+          "5511951012023@s.whatsapp.net",
+          "5517999774892@s.whatsapp.net",
+          "556282339310@s.whatsapp.net",
+          "967774804918@s.whatsapp.net",
+          "258851827945@s.whatsapp.net",
+          "5524981493553@s.whatsapp.net",
+          "351967950858@s.whatsapp.net",
+          "559491640640@s.whatsapp.net",
+          "553192365524@s.whatsapp.net",
+          "556198314384@s.whatsapp.net",
+          "5511959179417@s.whatsapp.net",
+          "559492297133@s.whatsapp.net",
+          "5521979841920@s.whatsapp.net",
+          "556797311030@s.whatsapp.net",
+          "553799767239@s.whatsapp.net",
+          "556297007965@s.whatsapp.net",
+          "5511967252430@s.whatsapp.net",
+          "556798741045@s.whatsapp.net",
+          "556992080642@s.whatsapp.net",
+          "559294242111@s.whatsapp.net",
+          "556797313792@s.whatsapp.net",
+          "5524999869804@s.whatsapp.net",
+          "556281670120@s.whatsapp.net",
+          "553491541089@s.whatsapp.net",
+          "556992568907@s.whatsapp.net",
+          "244953182452@s.whatsapp.net",
+          "553899483739@s.whatsapp.net",
+          "559887676832@s.whatsapp.net",
+          "556999179993@s.whatsapp.net",
+          "5511916675061@s.whatsapp.net",
+          "5527995212514@s.whatsapp.net",
+          "5511993330079@s.whatsapp.net",
+          "5517997019190@s.whatsapp.net",
+          "258872303545@s.whatsapp.net",
+          "555195444243@s.whatsapp.net",
+          "5511918273264@s.whatsapp.net",
+          "5517981639072@s.whatsapp.net",
+          "558396731310@s.whatsapp.net",
+          "557192672115@s.whatsapp.net",
+          "5517999747925@s.whatsapp.net",
+          "559184777763@s.whatsapp.net",
+          "556192616228@s.whatsapp.net",
+          "559291895662@s.whatsapp.net",
+          "554498124739@s.whatsapp.net",
+          "5516981512065@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1727786732",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 113 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB05A59586C1A0D3CBCD1"
+  },
+  "message": {
+    "videoMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7161-24/19006650_1086579032883440_1350773939698082979_n.enc?ccb=11-4&oh=01_Q5AaIOLfSh7zGyyd9lHdnsPLzJgZpiv4IAeJGLvRpjXkA1g7&oe=67235105&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "video/mp4",
+      "fileSha256": "xmK++ABwHudYIbZaQ4vQlHRYFhz6y2qKsYY1Qe5YyA0=",
+      "fileLength": "21425995",
+      "mediaKey": "93SYD1X1znbaYZUxDe+OT4GhrTeKYqYnnP3jEf80BOE=",
+      "height": 360,
+      "width": 640,
+      "fileEncSha256": "y2fMmk9g2spS6gGyXy/2dWCmvzxCH2JgnjkqHzytxgI=",
+      "directPath": "/v/t62.7161-24/19006650_1086579032883440_1350773939698082979_n.enc?ccb=11-4&oh=01_Q5AaIOLfSh7zGyyd9lHdnsPLzJgZpiv4IAeJGLvRpjXkA1g7&oe=67235105&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1727786617",
+      "contextInfo": {
+        "stanzaId": "42279F4401EC7B3A7D74808554170577",
+        "participant": "5511993330079@s.whatsapp.net",
+        "quotedMessage": {
+          "templateButtonReplyMessage": {
+            "selectedDisplayText": "𝙑𝙄́𝘿𝙀𝙊 🎥",
+            "contextInfo": {},
+            "selectedIndex": 0
+          }
+        },
+        "mentionedJid": [
+          "5511993330079@s.whatsapp.net"
+        ]
+      }
+    }
+  },
+  "messageTimestamp": "1727786617",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true,
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Video/Private/VID-20241001-WA0008.mp4"
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 114 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB0EC2B09402241DB5479"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7114-24/383042437_1057211659182321_7784230742225746615_n.enc?ccb=11-4&oh=01_Q5AaIJHnYE-_c7k6ydrxtpButN7bXK-D9OHwqwITbvzKT_wy&oe=67236761&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/mpeg",
+      "fileSha256": "C9nONJCH5OWv/YrZwTvMZS15Sxd/wCNRW9wqpdH2e9g=",
+      "fileLength": "5522631",
+      "seconds": 345,
+      "ptt": false,
+      "mediaKey": "W23wllzwiWP4gAxGXvnCIKNzdK/jpOhZGLPpvucUpbs=",
+      "fileEncSha256": "JUYGkC+nCZnqhtXybArN7Tp6YyuSq+oqA++K9KVIySY=",
+      "directPath": "/v/t62.7114-24/383042437_1057211659182321_7784230742225746615_n.enc?ccb=11-4&oh=01_Q5AaIJHnYE-_c7k6ydrxtpButN7bXK-D9OHwqwITbvzKT_wy&oe=67236761&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1727786610",
+      "contextInfo": {
+        "stanzaId": "FCED9AA08F9EA72F3887A0877180E6B9",
+        "participant": "5511993330079@s.whatsapp.net",
+        "quotedMessage": {
+          "templateButtonReplyMessage": {
+            "selectedDisplayText": "𝘼́𝙐𝘿𝙄𝙊 🎵",
+            "contextInfo": {},
+            "selectedIndex": 0
+          }
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1727786610",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true,
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Audio/Private/AUD-20241001-WA0006.mp3"
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 115 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB0389C30ED993326AEC8"
+  },
+  "message": {
+    "editedMessage": {
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "120363332920017614@g.us",
+            "fromMe": false,
+            "id": "3EB0B737B3A4C1C2EA8388"
+          },
+          "type": "MESSAGE_EDIT",
+          "editedMessage": {
+            "extendedTextMessage": {
+              "text": "~_*© black system*_~\n𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳...",
+              "previewType": "NONE",
+              "contextInfo": {
+                "stanzaId": "FCED9AA08F9EA72F3887A0877180E6B9",
+                "participant": "5511993330079@s.whatsapp.net",
+                "quotedMessage": {
+                  "templateButtonReplyMessage": {
+                    "selectedDisplayText": "𝘼́𝙐𝘿𝙄𝙊 🎵",
+                    "contextInfo": {},
+                    "selectedIndex": 0
+                  }
+                }
+              },
+              "inviteLinkGroupTypeV2": "DEFAULT"
+            }
+          },
+          "timestampMs": "1727786602906"
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1727786598",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 116 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB05A9EF9B3633D3F5708"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "</> @557184753805\n</> @5511981530703\n</> @553192365524\n</> @558488877654\n</> @5524998456111\n</> @553499171787\n</> @559887676832\n</> @556198609693\n</> @5511939394181\n</> @5516994096631\n</> @559294242111\n</> @5511993330079\n</> @557582711614\n</> @556793392971\n</> @559184777763\n</> @553291517688\n</> @5511983393203\n</> @555596481781\n</> @557192672115\n</> @558185221278\n</> @558388558552\n</> @553198242057\n</> @554498304882\n</> @554396644492\n</> @557788731216\n</> @556296331704\n</> @5518998078360\n</> @558586479655\n</> @553599996899\n</> @258851827945\n</> @553186218137\n</> @554498124739\n</> @351967950858\n</> @553398113201\n</> @5524999869804\n</> @558694332538\n</> @558291498686\n</> @5511951012023\n</> @554488571934\n</> @5516981512065\n</> @556281670120\n</> @5511959068003\n</> @553196707701\n</> @351927159732\n</> @258864286020\n</> @556992080642\n</> @553195711548\n</> @5511932903348\n</> @5519978211636\n</> @5521979841920\n</> @5511967252430\n</> @559881180892\n</> @5517999747925\n</> @5521964746381\n</> @553899483739\n</> @558396731310\n</> @556198314384\n</> @5511916675061\n</> @5511918273264\n</> @5511937043692\n</> @556297007965\n</> @5524998437700\n</> @5517997187882\n</> @5517999774892\n</> @559884365123\n</> @5517997019190\n</> @5511959179417\n</> @5511954960262\n</> @555195444243\n</> @556797313792\n</> @5548933802356\n</> @556392538321\n</> @559291895662\n</> @559884501601\n</> @5524999295177\n</> @558386678452\n</> @559492297133\n</> @559492966434\n</> @558585793573\n</> @5524981397319\n</> @5517981639072\n</> @559294083563\n</> @556596605948\n</> @553799767239\n</> @553799743116\n</> @556181711937\n</> @556282339310\n</> @559981239645\n</> @554891757439\n</> @5521982563576\n</> @5524981493553\n</> @258871083019\n</> @558287342487\n</> @553198624048\n</> @258872303545\n</> @557196283195\n</> @5514988285090\n</> @558896663477\n</> @967774804918\n</> @558499987654\n</> @556797311030\n</> @559491640640\n</> @5519996081612\n</> @5511967211843\n</> @56950375126\n</> @244953182452\n</> @559784061818\n</> @559191130449",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "B8F9DCD8ECAFE5631556684C27A3BB8B",
+        "participant": "553491541089@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": ".marcar"
+        },
+        "mentionedJid": [
+          "5516994096631@s.whatsapp.net",
+          "558488877654@s.whatsapp.net",
+          "556296331704@s.whatsapp.net",
+          "558287342487@s.whatsapp.net",
+          "556793392971@s.whatsapp.net",
+          "558386678452@s.whatsapp.net",
+          "558185221278@s.whatsapp.net",
+          "5548933802356@s.whatsapp.net",
+          "56950375126@s.whatsapp.net",
+          "5517997187882@s.whatsapp.net",
+          "557582711614@s.whatsapp.net",
+          "559884365123@s.whatsapp.net",
+          "5511983393203@s.whatsapp.net",
+          "559294083563@s.whatsapp.net",
+          "5511939394181@s.whatsapp.net",
+          "258871083019@s.whatsapp.net",
+          "553198624048@s.whatsapp.net",
+          "556181711937@s.whatsapp.net",
+          "5521982563576@s.whatsapp.net",
+          "557788731216@s.whatsapp.net",
+          "5514988285090@s.whatsapp.net",
+          "558896663477@s.whatsapp.net",
+          "559881180892@s.whatsapp.net",
+          "553291517688@s.whatsapp.net",
+          "5518998078360@s.whatsapp.net",
+          "5521964746381@s.whatsapp.net",
+          "553196707701@s.whatsapp.net",
+          "5524999295177@s.whatsapp.net",
+          "553799743116@s.whatsapp.net",
+          "559784061818@s.whatsapp.net",
+          "5519996081612@s.whatsapp.net",
+          "558388558552@s.whatsapp.net",
+          "556198609693@s.whatsapp.net",
+          "5511932903348@s.whatsapp.net",
+          "558585793573@s.whatsapp.net",
+          "5511981530703@s.whatsapp.net",
+          "555596481781@s.whatsapp.net",
+          "553186218137@s.whatsapp.net",
+          "559191130449@s.whatsapp.net",
+          "554891757439@s.whatsapp.net",
+          "553195711548@s.whatsapp.net",
+          "553398113201@s.whatsapp.net",
+          "553499171787@s.whatsapp.net",
+          "559981239645@s.whatsapp.net",
+          "5511967211843@s.whatsapp.net",
+          "553198242057@s.whatsapp.net",
+          "5511959068003@s.whatsapp.net",
+          "554498304882@s.whatsapp.net",
+          "5511954960262@s.whatsapp.net",
+          "5524998456111@s.whatsapp.net",
+          "258864286020@s.whatsapp.net",
+          "558586479655@s.whatsapp.net",
+          "558291498686@s.whatsapp.net",
+          "559884501601@s.whatsapp.net",
+          "5524981397319@s.whatsapp.net",
+          "556596605948@s.whatsapp.net",
+          "554396644492@s.whatsapp.net",
+          "556392538321@s.whatsapp.net",
+          "553599996899@s.whatsapp.net",
+          "558499987654@s.whatsapp.net",
+          "554488571934@s.whatsapp.net",
+          "5511937043692@s.whatsapp.net",
+          "557184753805@s.whatsapp.net",
+          "351927159732@s.whatsapp.net",
+          "559492966434@s.whatsapp.net",
+          "557196283195@s.whatsapp.net",
+          "5524998437700@s.whatsapp.net",
+          "558694332538@s.whatsapp.net",
+          "5511951012023@s.whatsapp.net",
+          "5517999774892@s.whatsapp.net",
+          "556282339310@s.whatsapp.net",
+          "967774804918@s.whatsapp.net",
+          "258851827945@s.whatsapp.net",
+          "5524981493553@s.whatsapp.net",
+          "351967950858@s.whatsapp.net",
+          "559491640640@s.whatsapp.net",
+          "553192365524@s.whatsapp.net",
+          "556198314384@s.whatsapp.net",
+          "5511959179417@s.whatsapp.net",
+          "559492297133@s.whatsapp.net",
+          "5521979841920@s.whatsapp.net",
+          "556797311030@s.whatsapp.net",
+          "553799767239@s.whatsapp.net",
+          "556297007965@s.whatsapp.net",
+          "5511967252430@s.whatsapp.net",
+          "556992080642@s.whatsapp.net",
+          "559294242111@s.whatsapp.net",
+          "556797313792@s.whatsapp.net",
+          "5519978211636@s.whatsapp.net",
+          "5524999869804@s.whatsapp.net",
+          "556281670120@s.whatsapp.net",
+          "244953182452@s.whatsapp.net",
+          "553899483739@s.whatsapp.net",
+          "559887676832@s.whatsapp.net",
+          "5511916675061@s.whatsapp.net",
+          "5511993330079@s.whatsapp.net",
+          "5517997019190@s.whatsapp.net",
+          "258872303545@s.whatsapp.net",
+          "555195444243@s.whatsapp.net",
+          "5511918273264@s.whatsapp.net",
+          "5517981639072@s.whatsapp.net",
+          "558396731310@s.whatsapp.net",
+          "557192672115@s.whatsapp.net",
+          "5517999747925@s.whatsapp.net",
+          "559184777763@s.whatsapp.net",
+          "559291895662@s.whatsapp.net",
+          "554498124739@s.whatsapp.net",
+          "5516981512065@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1727786590",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 117 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB06E1CC43D34C1675E28"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "[❗] Este comando só pode ser usado por administradores de grupo! ❌",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "5B3620F6CA06C28F434B8A22BCA41D35",
+        "participant": "5517999774892@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": ".marcar"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1727786574",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 118 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB0F319DE4C3A8365B655"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-0bc25d43-429f-46d1-a943-a3fd0d69b8ff?ccb=9-4&oh=01_Q5AaII7cCu6wUFaDdFG4qkAVvciobV8L7qrnxggAjAc-uGwg&oe=67236F94&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "𝙎𝙀𝙅𝘼 𝘽𝙀𝙈-𝙑𝙄𝙉𝘿𝙊 𝘼𝙊 𝙂𝙍𝙐𝙋𝙊 𝙇𝙀𝙄𝘼 𝘼𝙎 𝙍𝙂𝙎 𝙀𝙑𝙄𝙏𝙀 𝙎𝙐𝘼 𝙍𝙀𝙈𝙊𝘾̧𝘼̃𝙊\n\n𝙅𝘼́ 𝙎𝙀 𝘼𝙋𝙍𝙀𝙎𝙀𝙉𝙏𝘼𝙉𝘿𝙊 𝘾𝙊𝙈 👇\n\n📷𝙁𝙊𝙏𝙊 𝙀𝙈 𝙑𝙎 𝙐́𝙉𝙄𝘾𝘼\n🌸𝙉𝙊𝙈𝙀 \n🌻𝙄𝘿𝘼𝘿𝙀 \n🌝𝙀𝙎𝙏𝘼𝘿𝙊",
+      "fileSha256": "ntQOq7we2LEmn9XgYxupUJOmK8OR2JAG42TWo2EHOmY=",
+      "fileLength": "60247",
+      "height": 300,
+      "width": 600,
+      "mediaKey": "AIZR8Ex4MaczmZnSU1YYnVCVqSmmPwOjT5sx5Jyv25s=",
+      "fileEncSha256": "O6epTePkjAVTW23mc75rM+ZTlRqBBINp7YtkMrhYbVg=",
+      "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-0bc25d43-429f-46d1-a943-a3fd0d69b8ff?ccb=9-4&oh=01_Q5AaII7cCu6wUFaDdFG4qkAVvciobV8L7qrnxggAjAc-uGwg&oe=67236F94&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1727786543",
+      "contextInfo": {
+        "mentionedJid": [
+          "5516994096631@s.whatsapp.net",
+          "5511943677872@s.whatsapp.net"
+        ]
+      }
+    }
+  },
+  "messageTimestamp": "1727786543",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true,
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/Private/IMG-20241001-WA0004.jpg"
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 119 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB06A9A3515C52DF347D1"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-11fc2edf-597c-4202-a9a6-2661be3e59c7?ccb=9-4&oh=01_Q5AaIElJDz0ztu761XXufCFuWx-u6wq2rXwmCjwLztUZiPBq&oe=67235C24&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "𝙎𝙀𝙅𝘼 𝘽𝙀𝙈-𝙑𝙄𝙉𝘿𝙊 𝘼𝙊 𝙂𝙍𝙐𝙋𝙊 𝙇𝙀𝙄𝘼 𝘼𝙎 𝙍𝙂𝙎 𝙀𝙑𝙄𝙏𝙀 𝙎𝙐𝘼 𝙍𝙀𝙈𝙊𝘾̧𝘼̃𝙊\n\n𝙅𝘼́ 𝙎𝙀 𝘼𝙋𝙍𝙀𝙎𝙀𝙉𝙏𝘼𝙉𝘿𝙊 𝘾𝙊𝙈 👇\n\n📷𝙁𝙊𝙏𝙊 𝙀𝙈 𝙑𝙎 𝙐́𝙉𝙄𝘾𝘼\n🌸𝙉𝙊𝙈𝙀 \n🌻𝙄𝘿𝘼𝘿𝙀 \n🌝𝙀𝙎𝙏𝘼𝘿𝙊",
+      "fileSha256": "AayjPJtakTer+6PwvLjpd3QmpSmbd2vZEcAjz9ul9cI=",
+      "fileLength": "79993",
+      "height": 300,
+      "width": 600,
+      "mediaKey": "gmj+5ojVTNkQpClLx+sWGF+yrkb0qmpXeMaLWgvGQOM=",
+      "fileEncSha256": "/vHtMdX2XN4fdn2ZpqppfGvtr5n4jeSSlsn201fh2aI=",
+      "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-11fc2edf-597c-4202-a9a6-2661be3e59c7?ccb=9-4&oh=01_Q5AaIElJDz0ztu761XXufCFuWx-u6wq2rXwmCjwLztUZiPBq&oe=67235C24&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1727786543",
+      "contextInfo": {
+        "mentionedJid": [
+          "5511943677872@s.whatsapp.net",
+          "554488571934@s.whatsapp.net"
+        ]
+      }
+    }
+  },
+  "messageTimestamp": "1727786543",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true,
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/Private/IMG-20241001-WA0003.jpg"
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 120 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB0CD8B4077E00E940306"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Bom dia @5516994096631, seja bem vindo (a) ao grupo  𑱄⃟|𐏓𝑙𝑒𝑔𝑒𝑛𝑑𝑠 👑᭄🪽",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          "5516994096631@s.whatsapp.net",
+          "5511943677872@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1727786541",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 121 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB0588B8231F8C22B0F07"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Bom dia @5516981512065, seja bem vindo (a) ao grupo  𑱄⃟|𐏓𝑙𝑒𝑔𝑒𝑛𝑑𝑠 👑᭄🪽",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          "5511943677872@s.whatsapp.net",
+          "5516981512065@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1727786541",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 122 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB05A0C822A481A75268C"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Bom dia @554488571934, seja bem vindo (a) ao grupo  𑱄⃟|𐏓𝑙𝑒𝑔𝑒𝑛𝑑𝑠 👑᭄🪽",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          "5511943677872@s.whatsapp.net",
+          "554488571934@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1727786540",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 123 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB0CA18D76E5C8A6DCEE6"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-f24242f2-12d2-4162-846e-3aa70e7665f1?ccb=9-4&oh=01_Q5AaILqE7SAWJzfs_XW0GykzHJOVqhUXavV1C0jnV0CCC6GL&oe=6723452E&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "𝙎𝙀𝙅𝘼 𝘽𝙀𝙈-𝙑𝙄𝙉𝘿𝙊 𝘼𝙊 𝙂𝙍𝙐𝙋𝙊 𝙇𝙀𝙄𝘼 𝘼𝙎 𝙍𝙂𝙎 𝙀𝙑𝙄𝙏𝙀 𝙎𝙐𝘼 𝙍𝙀𝙈𝙊𝘾̧𝘼̃𝙊\n\n𝙅𝘼́ 𝙎𝙀 𝘼𝙋𝙍𝙀𝙎𝙀𝙉𝙏𝘼𝙉𝘿𝙊 𝘾𝙊𝙈 👇\n\n📷𝙁𝙊𝙏𝙊 𝙀𝙈 𝙑𝙎 𝙐́𝙉𝙄𝘾𝘼\n🌸𝙉𝙊𝙈𝙀 \n🌻𝙄𝘿𝘼𝘿𝙀 \n🌝𝙀𝙎𝙏𝘼𝘿𝙊",
+      "fileSha256": "w/UqCTxgR3Z0ODmGrZQB3auDEInQ5i53Ihj81SNmLRA=",
+      "fileLength": "59713",
+      "height": 300,
+      "width": 600,
+      "mediaKey": "5+4LTbjTloJ+iWVtt1jSoBnZaGlnFnqW76Bc/YfwbsE=",
+      "fileEncSha256": "BD9ZvQLxuaMjcrdFM0lnwk4bS+PXaHBgbYR3LsrGtIU=",
+      "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-f24242f2-12d2-4162-846e-3aa70e7665f1?ccb=9-4&oh=01_Q5AaILqE7SAWJzfs_XW0GykzHJOVqhUXavV1C0jnV0CCC6GL&oe=6723452E&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1727786536",
+      "contextInfo": {
+        "mentionedJid": [
+          "5511943677872@s.whatsapp.net",
+          "558694332538@s.whatsapp.net"
+        ]
+      }
+    }
+  },
+  "messageTimestamp": "1727786538",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true,
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/Private/IMG-20241001-WA0000.jpg"
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 124 de 124
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363332920017614@g.us",
+    "fromMe": false,
+    "id": "3EB08F619F3C4CB3D4F44C"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Bom dia @558694332538, seja bem vindo (a) ao grupo  𑱄⃟|𐏓𝑙𝑒𝑔𝑒𝑛𝑑𝑠 👑᭄🪽",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          "5511943677872@s.whatsapp.net",
+          "558694332538@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1727786534",
+  "participant": "5511943677872@s.whatsapp.net",
+  "ephemeralOutOfSync": true
+}>>>>>>>>>>>>>>>>>>> 

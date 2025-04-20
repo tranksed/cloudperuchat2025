@@ -1,0 +1,609 @@
+Aguardando conexão para iniciar a importação de mensagens:
+  Whatsapp nome: teste
+  Whatsapp Id: 6
+  Criação do arquivo de logs: 12/11/2024 12:40:49
+  Selecionado Data de inicio de importação: 24/10/2024 00:00:00
+  Selecionado Data final da importação: 12/11/2024 12:39:00
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 17:29:40
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 17:18:10
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 17:06:29
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 17:06:10
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 17:06:09
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 17:04:02
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 17:04:01
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 17:03:57
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 17:02:46
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 17:02:42
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 17:02:04
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:50:36
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:46:10
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:37:56
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:35:27
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:35:14
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:34:39
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:33:23
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:33:22
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:33:15
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:33:14
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:33:05
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:32:46
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:22:50
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:22:49
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:21:34
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:21:33
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:02:00
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:01:53
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:01:52
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 16:01:33
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 15:58:41
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 15:58:35
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 15:57:52
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 15:46:46
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 15:46:10
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 15:44:29
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 15:44:24
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 15:44:24
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 15:41:10
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 15:39:55
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 15:32:05
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 15:31:59
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 15:31:58
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 15:17:40
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 15:07:04
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 15:01:49
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 14:59:56
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 14:59:55
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 14:59:05
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 14:59:04
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 14:55:51
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 11:22:09
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 11:22:08
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 11:21:54
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 11:21:53
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 11:21:40
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 11:21:39
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:52:34
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:52:17
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:50:27
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:50:23
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:48:59
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:48:18
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:48:17
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:48:01
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:48:00
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:47:56
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:47:55
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:47:49
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:47:48
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:47:44
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:47:43
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:47:41
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:47:40
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:47:34
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:47:33
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:47:21
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:47:20
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:46:57
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:08:55
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:08:53
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:07:28
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:07:26
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:06:39
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 24/10/2024 09:06:36
+  Contato da Mensagem : 5524999480445@s.whatsapp.net
+  Tipo da mensagem : conversation
+
+   

@@ -1,0 +1,1805 @@
+Aguardando conexão para iniciar a importação de mensagens:
+    Whatsapp nome: teste
+    Whatsapp Id: 6
+    Criação do arquivo de logs: 12/11/2024 12:41:34
+    Selecionado Data de inicio de importação: 24/10/2024 00:00:00 
+    Selecionado Data final da importação: 12/11/2024 12:39:00 
+     
+
+Mensagem 1 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "8FCD43B35372CAF870E17A2A6A48DE3B"
+  },
+  "message": {
+    "conversation": "https://bit.ly/avalie-o-baffi"
+  },
+  "messageTimestamp": "1729801780",
+  "reportingTokenInfo": {
+    "reportingTag": "AY96L6PJxUonaVECrOuzig=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 2 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F4C276123893D47157"
+  },
+  "message": {
+    "conversation": "‎ teste"
+  },
+  "messageTimestamp": "1729801090",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729801090",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB07F9F7C04C5103CBC31"
+  },
+  "message": {
+    "conversation": "*Mensagem Automática:*\nBoa tarde *Caio D. Coutinho*, meu nome é *Caio Coutinho* e agora vou prosseguir com seu atendimento!"
+  },
+  "messageTimestamp": "1729800389",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729800390",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 3 de 86
+               
+
+Mensagem 4 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0BB3E634B6A7AE75016"
+  },
+  "message": {
+    "conversation": "‎\n*Digite o número da opção desejada e escolha a especialidade para qual deseja atendimento:*\n\n*[ 1 ]* - Direito Trabalhista\n*[ 2 ]* - Direito Civil\n*[ 3 ]* - Direito de Família\n*[ 4 ]* - Direito Empresarial\n\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1729800370",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729800370",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 5 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "48F6AB3933AE3120183965C385802175"
+  },
+  "message": {
+    "conversation": "1"
+  },
+  "messageTimestamp": "1729800369",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9fp57WoYeH4UMvUz+Tbw=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 6 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0D04A0BFA46AD0537D9"
+  },
+  "message": {
+    "conversation": "‎Olá! 👋 Bem-vindo ao *Resende Marinho Advogados Associados*, especializado em oferecer soluções jurídicas sob medida para as suas necessidades. \n\nAntes de começarmos, aqui estão algumas coisas que posso fazer por você:\n\n- 📂 Informações sobre nossas áreas de atuação, como Direito Trabalhista, Civil, de Família, e mais.\n- 🗓️ Agendar uma consulta com nossos advogados.\n- 📑 Fornecer detalhes sobre documentos e procedimentos legais comuns.\n- ❓ Responder a perguntas frequentes ou encaminhar você para um de nossos especialistas.\n\nComo posso ajudá-lo hoje?\n\nDigite o número da opção desejada ou explique brevemente sua dúvida.\n\n*[ 1 ]* - Áreas de Atuação\n*[ 2 ]* - Consultas e Agendamentos\n*[ 3 ]* - Documentos e Procedimentos\n*[ 4 ]* - Contato e Suporte\n"
+  },
+  "messageTimestamp": "1729800242",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729800242",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 7 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "23382CF01D06848BBCA04B4A870C7E12"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1729800241",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/FT1+QUp6IeweiQSk0kg=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 8 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08880BCE280EA0E30E6"
+  },
+  "message": {
+    "conversation": "‎Sua solicitação foi encerrada com sucesso! 🏆\n\n\n*_Você poderia nos avaliar no Google?_* 🫶\n\nClique no link abaixo e nos avalie com *5* Estrelas! 💚\n\nbit.ly/avalie-nos\n\n*_Sua avaliação é muito importante para nós!_*🤗\n"
+  },
+  "messageTimestamp": "1729800237",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729800237",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 9 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB075ADB7315A9CDF0A71"
+  },
+  "message": {
+    "conversation": "‎ Olá! 👋 Obrigado por entrar em contato com o *Resende Marinho Advogados Associados*.\n\nNo momento, nosso escritório está fora do horário de atendimento. Nosso horário de funcionamento é de *_segunda a sexta, das 9h às 18h_*.\n\n📧 Você pode deixar uma mensagem aqui, e nossa equipe retornará assim que estivermos de volta. Para assuntos urgentes, você pode nos enviar um e-mail para: *rmadvogados.atendimento@hotmail.com* ou telefonar para um número: *(24)99999-9999*.\n\nAgradecemos pela compreensão e pela sua paciência. Estamos ansiosos para ajudá-lo em breve!"
+  },
+  "messageTimestamp": "1729800166",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729800166",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 10 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "9609120227CD9A313C8D35D03CD856D2"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1729800162",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8Mgg/UAu4D8vdC3NhjiQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 11 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB02D3DC81AF0C9FABF21"
+  },
+  "message": {
+    "conversation": "‎Sua solicitação foi encerrada com sucesso! 🏆\n\n\n*_Você poderia nos avaliar no Google?_* 🫶\n\nClique no link abaixo e nos avalie com *5* Estrelas! 💚\n\nbit.ly/avalie-nos\n\n*_Sua avaliação é muito importante para nós!_*🤗\n"
+  },
+  "messageTimestamp": "1729800124",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729800141",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 12 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "06D2FA284031AD371551C8538E83B944"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1729799436",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/Z2pdcH2pJIU6Y/v0N5g=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 13 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0B4E6484BE1D38D51FF"
+  },
+  "message": {
+    "conversation": "‎ teste"
+  },
+  "messageTimestamp": "1729799170",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729799170",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 14 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB09ED1EA71F089F91E60"
+  },
+  "message": {
+    "conversation": "*Caio Coutinho:*\nteste"
+  },
+  "messageTimestamp": "1729798676",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729798677",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 15 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0866D0175CA9DA32FAC"
+  },
+  "message": {
+    "conversation": "ola"
+  },
+  "messageTimestamp": "1729798527",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729798528",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 16 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB021EDA8A8B5C411778B"
+  },
+  "message": {
+    "conversation": "*Caio Coutinho:*\nOlá"
+  },
+  "messageTimestamp": "1729798514",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729798515",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 17 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB046F2DEA32C2B64DE75"
+  },
+  "message": {
+    "conversation": "*Mensagem Automática:*\nBoa tarde *Caio D. Coutinho*, meu nome é *Caio Coutinho* e agora vou prosseguir com seu atendimento!"
+  },
+  "messageTimestamp": "1729798479",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729798479",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 18 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB06AC2C8ECE19C504D95"
+  },
+  "message": {
+    "conversation": "‎\n*Digite o número da opção desejada e escolha a especialidade para qual deseja atendimento:*\n\n*[ 1 ]* - Direito Trabalhista\n*[ 2 ]* - Direito Civil\n*[ 3 ]* - Direito de Família\n*[ 4 ]* - Direito Empresarial\n\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1729798403",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729798404",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 19 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "B73B8372B3239954450F1BDA69D13E52"
+  },
+  "message": {
+    "conversation": "1"
+  },
+  "messageTimestamp": "1729798402",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8rGzSMYyEnX8daTJHXQQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 20 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0FB6BD0CF319CA2D245"
+  },
+  "message": {
+    "conversation": "‎Olá! 👋 Bem-vindo ao *Resende Marinho Advogados Associados*, especializado em oferecer soluções jurídicas sob medida para as suas necessidades. \n\nAntes de começarmos, aqui estão algumas coisas que posso fazer por você:\n\n- 📂 Informações sobre nossas áreas de atuação, como Direito Trabalhista, Civil, de Família, e mais.\n- 🗓️ Agendar uma consulta com nossos advogados.\n- 📑 Fornecer detalhes sobre documentos e procedimentos legais comuns.\n- ❓ Responder a perguntas frequentes ou encaminhar você para um de nossos especialistas.\n\nComo posso ajudá-lo hoje?\n\nDigite o número da opção desejada ou explique brevemente sua dúvida.\n\n*[ 1 ]* - Áreas de Atuação\n*[ 2 ]* - Consultas e Agendamentos\n*[ 3 ]* - Documentos e Procedimentos\n*[ 4 ]* - Contato e Suporte\n"
+  },
+  "messageTimestamp": "1729798395",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729798395",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 21 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "456444607E29FCE428FC810C1EB7A9B3"
+  },
+  "message": {
+    "conversation": "Ola"
+  },
+  "messageTimestamp": "1729798394",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+Mze5mKBmxcPcolXnTwQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 22 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0EA07D83D2C70C0CDD0"
+  },
+  "message": {
+    "conversation": "‎Sua solicitação foi encerrada com sucesso! 🏆\n\n\n*_Você poderia nos avaliar no Google?_* 🫶\n\nClique no link abaixo e nos avalie com *5* Estrelas! 💚\n\nbit.ly/avalie-nos\n\n*_Sua avaliação é muito importante para nós!_*🤗\n"
+  },
+  "messageTimestamp": "1729798385",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729798385",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 23 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB00C682386E793A19AF7"
+  },
+  "message": {
+    "conversation": "*Mensagem Automática:*\nBoa tarde *Caio D. Coutinho*, meu nome é *Caio Coutinho* e agora vou prosseguir com seu atendimento!"
+  },
+  "messageTimestamp": "1729798366",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729798366",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 24 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0E8D209B8829122CD1B"
+  },
+  "message": {
+    "conversation": "‎\n*Digite o número da opção desejada e escolha a especialidade para qual deseja atendimento:*\n\n*[ 1 ]* - Direito Trabalhista\n*[ 2 ]* - Direito Civil\n*[ 3 ]* - Direito de Família\n*[ 4 ]* - Direito Empresarial\n\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1729797770",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729797771",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 25 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "FA3F31147729FEA323C068A6AAE266B3"
+  },
+  "message": {
+    "conversation": "1"
+  },
+  "messageTimestamp": "1729797769",
+  "reportingTokenInfo": {
+    "reportingTag": "AY//uYNxL1agNdNqjE2m1g=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 26 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0E1F02B6EE47B76EFC5"
+  },
+  "message": {
+    "conversation": "‎Olá! 👋 Bem-vindo ao *Resende Marinho Advogados Associados*, especializado em oferecer soluções jurídicas sob medida para as suas necessidades. \n\nAntes de começarmos, aqui estão algumas coisas que posso fazer por você:\n\n- 📂 Informações sobre nossas áreas de atuação, como Direito Trabalhista, Civil, de Família, e mais.\n- 🗓️ Agendar uma consulta com nossos advogados.\n- 📑 Fornecer detalhes sobre documentos e procedimentos legais comuns.\n- ❓ Responder a perguntas frequentes ou encaminhar você para um de nossos especialistas.\n\nComo posso ajudá-lo hoje?\n\nDigite o número da opção desejada ou explique brevemente sua dúvida.\n\n*[ 1 ]* - Áreas de Atuação\n*[ 2 ]* - Consultas e Agendamentos\n*[ 3 ]* - Documentos e Procedimentos\n*[ 4 ]* - Contato e Suporte\n"
+  },
+  "messageTimestamp": "1729797694",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729797694",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 27 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AA26DD2CCD1AED5E80BFCA0B77ACFA86"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1729797693",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+V5MD7Eme6H0V7Vc8nXg=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 28 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB07A3A53BCE3A4203933"
+  },
+  "message": {
+    "conversation": "‎Sua solicitação foi encerrada com sucesso! 🏆\n\n\n*_Você poderia nos avaliar no Google?_* 🫶\n\nClique no link abaixo e nos avalie com *5* Estrelas! 💚\n\nbit.ly/avalie-nos\n\n*_Sua avaliação é muito importante para nós!_*🤗\n"
+  },
+  "messageTimestamp": "1729796520",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729796520",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 29 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0222A2CB4B675E75026"
+  },
+  "message": {
+    "conversation": "‎Olá! 👋 Bem-vindo ao *Resende Marinho Advogados Associados*, especializado em oferecer soluções jurídicas sob medida para as suas necessidades. \n\nAntes de começarmos, aqui estão algumas coisas que posso fazer por você:\n\n- 📂 Informações sobre nossas áreas de atuação, como Direito Trabalhista, Civil, de Família, e mais.\n- 🗓️ Agendar uma consulta com nossos advogados.\n- 📑 Fornecer detalhes sobre documentos e procedimentos legais comuns.\n- ❓ Responder a perguntas frequentes ou encaminhar você para um de nossos especialistas.\n\nComo posso ajudá-lo hoje?\n\nDigite o número da opção desejada ou explique brevemente sua dúvida.\n\n*[ 1 ]* - Áreas de Atuação\n*[ 2 ]* - Consultas e Agendamentos\n*[ 3 ]* - Documentos e Procedimentos\n*[ 4 ]* - Contato e Suporte\n"
+  },
+  "messageTimestamp": "1729796513",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729796513",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 30 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "339B4D9D98AE2168F5B6EFD18B4368D9"
+  },
+  "message": {
+    "conversation": "Ola"
+  },
+  "messageTimestamp": "1729796512",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9+GsyxczfdblpCAo9fMA=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 31 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0D606D22B22B6006D0A"
+  },
+  "message": {
+    "conversation": "‎Sua solicitação foi encerrada com sucesso! 🏆\n\n\n*_Você poderia nos avaliar no Google?_* 🫶\n\nClique no link abaixo e nos avalie com *5* Estrelas! 💚\n\nbit.ly/avalie-nos\n\n*_Sua avaliação é muito importante para nós!_*🤗\n"
+  },
+  "messageTimestamp": "1729796493",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729796494",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 32 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB073585BEB51D67B881A"
+  },
+  "message": {
+    "conversation": "*Caio Coutinho:*\nIJJIJ"
+  },
+  "messageTimestamp": "1729796321",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729796321",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 33 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB070467DE7E138F2D334"
+  },
+  "message": {
+    "conversation": "KOJK"
+  },
+  "messageTimestamp": "1729796315",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729796315",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 34 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB07FE019BB5718E50A40"
+  },
+  "message": {
+    "conversation": "IOJ"
+  },
+  "messageTimestamp": "1729796272",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729796272",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 35 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0C82A4E42C6BBB470C5"
+  },
+  "message": {
+    "conversation": "*Mensagem Automática:*\nBoa tarde *Caio D. Coutinho*, meu nome é *Caio Coutinho* e agora vou prosseguir com seu atendimento!"
+  },
+  "messageTimestamp": "1729795606",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729795606",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 36 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0B28BA298D150489CB3"
+  },
+  "message": {
+    "conversation": "*Mensagem automática*:\nVocê foi transferido para o departamento *Consultas e Agendamentos*\naguarde, já vamos te atender!"
+  },
+  "messageTimestamp": "1729795570",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729795571",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 37 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0786667F2775C560AC3"
+  },
+  "message": {
+    "conversation": "*Mensagem Automática:*\nBoa tarde *Caio D. Coutinho*, meu nome é *Caio Coutinho* e agora vou prosseguir com seu atendimento!"
+  },
+  "messageTimestamp": "1729795469",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729795470",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 38 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB069911C79CDD1069CD2"
+  },
+  "message": {
+    "conversation": "‎Olá! 👋 Bem-vindo ao *Resende Marinho Advogados Associados*, especializado em oferecer soluções jurídicas sob medida para as suas necessidades. \n\nAntes de começarmos, aqui estão algumas coisas que posso fazer por você:\n\n- 📂 Informações sobre nossas áreas de atuação, como Direito Trabalhista, Civil, de Família, e mais.\n- 🗓️ Agendar uma consulta com nossos advogados.\n- 📑 Fornecer detalhes sobre documentos e procedimentos legais comuns.\n- ❓ Responder a perguntas frequentes ou encaminhar você para um de nossos especialistas.\n\nComo posso ajudá-lo hoje?\n\nDigite o número da opção desejada ou explique brevemente sua dúvida.\n\n*[ 1 ]* - Áreas de Atuação\n*[ 2 ]* - Consultas e Agendamentos\n*[ 3 ]* - Documentos e Procedimentos\n*[ 4 ]* - Contato e Suporte\n"
+  },
+  "messageTimestamp": "1729795464",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729795465",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 39 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "33A603F39EAB605674F49F00059E78C8"
+  },
+  "message": {
+    "conversation": "Confirmo"
+  },
+  "messageTimestamp": "1729795464",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/hVp6povW6yScNQkrEvw=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 40 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04BC7C90B64EA9A2B8A"
+  },
+  "message": {
+    "conversation": "‎ teste"
+  },
+  "messageTimestamp": "1729795270",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729795270",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 41 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A8FC91429C9EE0D081"
+  },
+  "message": {
+    "conversation": "‎Sua solicitação foi encerrada com sucesso! 🏆\n\n\n*_Você poderia nos avaliar no Google?_* 🫶\n\nClique no link abaixo e nos avalie com *5* Estrelas! 💚\n\nbit.ly/avalie-nos\n\n*_Sua avaliação é muito importante para nós!_*🤗\n"
+  },
+  "messageTimestamp": "1729795195",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729795197",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 42 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08AC48B3DAE72E9202F"
+  },
+  "message": {
+    "conversation": "*Mensagem Automática:*\nBoa tarde *Caio D. Coutinho*, meu nome é *Caio Coutinho* e agora vou prosseguir com seu atendimento!"
+  },
+  "messageTimestamp": "1729794725",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729794726",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 43 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB00F87B6BA3F5D63B7FB"
+  },
+  "message": {
+    "conversation": "‎Olá! 👋 Bem-vindo ao *Resende Marinho Advogados Associados*, especializado em oferecer soluções jurídicas sob medida para as suas necessidades. \n\nAntes de começarmos, aqui estão algumas coisas que posso fazer por você:\n\n- 📂 Informações sobre nossas áreas de atuação, como Direito Trabalhista, Civil, de Família, e mais.\n- 🗓️ Agendar uma consulta com nossos advogados.\n- 📑 Fornecer detalhes sobre documentos e procedimentos legais comuns.\n- ❓ Responder a perguntas frequentes ou encaminhar você para um de nossos especialistas.\n\nComo posso ajudá-lo hoje?\n\nDigite o número da opção desejada ou explique brevemente sua dúvida.\n\n*[ 1 ]* - Áreas de Atuação\n*[ 2 ]* - Consultas e Agendamentos\n*[ 3 ]* - Documentos e Procedimentos\n*[ 4 ]* - Contato e Suporte\n"
+  },
+  "messageTimestamp": "1729794719",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729794719",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 44 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "4CA7DA6874694AB5F08F1842AD87E1D1"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1729794718",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/k6ARUJQmDVdIV68Pcmw=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 45 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0C20CA3D56C8CA1AFEC"
+  },
+  "message": {
+    "conversation": "‎Sua solicitação foi encerrada com sucesso! 🏆\n\n\n*_Você poderia nos avaliar no Google?_* 🫶\n\nClique no link abaixo e nos avalie com *5* Estrelas! 💚\n\nbit.ly/avalie-nos\n\n*_Sua avaliação é muito importante para nós!_*🤗\n"
+  },
+  "messageTimestamp": "1729793860",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729793861",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 46 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "C00B8064A760F6AAE65F7902C299CFE3"
+  },
+  "message": {
+    "conversation": "Ola"
+  },
+  "messageTimestamp": "1729793224",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+uZjHfYdD98weRRSedsw=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 47 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0617B668E14503A8640"
+  },
+  "message": {
+    "conversation": "*Mensagem Automática:*\nBoa tarde *Caio D. Coutinho*, meu nome é *Caio Coutinho* e agora vou prosseguir com seu atendimento!"
+  },
+  "messageTimestamp": "1729792909",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729792910",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 48 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0802BCDE5B185901BDC"
+  },
+  "message": {
+    "conversation": "‎\n*Digite o número da opção desejada e escolha a especialidade para qual deseja atendimento:*\n\n*[ 1 ]* - Direito Trabalhista\n*[ 2 ]* - Direito Civil\n*[ 3 ]* - Direito de Família\n*[ 4 ]* - Direito Empresarial\n\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1729792796",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729792796",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 49 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "65344791D9D2448E5F9AD79101C14C76"
+  },
+  "message": {
+    "conversation": "1"
+  },
+  "messageTimestamp": "1729792795",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8eHqBljgLx4abypxB7Pg=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 50 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0CD3FD2969C2F4F554D"
+  },
+  "message": {
+    "conversation": "‎Olá! 👋 Bem-vindo ao *Resende Marinho Advogados Associados*, especializado em oferecer soluções jurídicas sob medida para as suas necessidades. \n\nAntes de começarmos, aqui estão algumas coisas que posso fazer por você:\n\n- 📂 Informações sobre nossas áreas de atuação, como Direito Trabalhista, Civil, de Família, e mais.\n- 🗓️ Agendar uma consulta com nossos advogados.\n- 📑 Fornecer detalhes sobre documentos e procedimentos legais comuns.\n- ❓ Responder a perguntas frequentes ou encaminhar você para um de nossos especialistas.\n\nComo posso ajudá-lo hoje?\n\nDigite o número da opção desejada ou explique brevemente sua dúvida.\n\n*[ 1 ]* - Áreas de Atuação\n*[ 2 ]* - Consultas e Agendamentos\n*[ 3 ]* - Documentos e Procedimentos\n*[ 4 ]* - Contato e Suporte\n"
+  },
+  "messageTimestamp": "1729792745",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729792746",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 51 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "A839474BFD6D2C4C8B55487DACB2BA70"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1729792744",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9AnTK5HKAF3GwRPYcuaw=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 52 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08814CB7AD128D00B01"
+  },
+  "message": {
+    "conversation": "‎Sua solicitação foi encerrada com sucesso! 🏆\n\n\n*_Você poderia nos avaliar no Google?_* 🫶\n\nClique no link abaixo e nos avalie com *5* Estrelas! 💚\n\nbit.ly/avalie-nos\n\n*_Sua avaliação é muito importante para nós!_*🤗\n"
+  },
+  "messageTimestamp": "1729792551",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729792552",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 53 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0FA1D36976D6FA26AF1"
+  },
+  "message": {
+    "conversation": "‎Olá! 👋 Bem-vindo ao *Resende Marinho Advogados Associados*, especializado em oferecer soluções jurídicas sob medida para as suas necessidades. \n\nAntes de começarmos, aqui estão algumas coisas que posso fazer por você:\n\n- 📂 Informações sobre nossas áreas de atuação, como Direito Trabalhista, Civil, de Família, e mais.\n- 🗓️ Agendar uma consulta com nossos advogados.\n- 📑 Fornecer detalhes sobre documentos e procedimentos legais comuns.\n- ❓ Responder a perguntas frequentes ou encaminhar você para um de nossos especialistas.\n\nComo posso ajudá-lo hoje?\n\nDigite o número da opção desejada ou explique brevemente sua dúvida.\n\n*[ 1 ]* - Áreas de Atuação\n*[ 2 ]* - Consultas e Agendamentos\n*[ 3 ]* - Documentos e Procedimentos\n*[ 4 ]* - Contato e Suporte\n"
+  },
+  "messageTimestamp": "1729779729",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729779729",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 54 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "2CBF29CED401B9DD3DF1F1B497C8554B"
+  },
+  "message": {
+    "conversation": "#"
+  },
+  "messageTimestamp": "1729779728",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8SQU8QgZHzf2U63gJoAw=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 55 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB002653CEF238260D52F"
+  },
+  "message": {
+    "conversation": "‎\n*Digite o número da opção desejada e escolha a especialidade para qual deseja atendimento:*\n\n*[ 1 ]* - Direito Trabalhista\n*[ 2 ]* - Direito Civil\n*[ 3 ]* - Direito de Família\n*[ 4 ]* - Direito Empresarial\n\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1729779714",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729779715",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 56 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "15F93550C8D92AF0B2C9FFDE693FECA6"
+  },
+  "message": {
+    "conversation": "1"
+  },
+  "messageTimestamp": "1729779713",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/SaV0XWJ8Jljhvxed5WA=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 57 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB083E663EEB3DF2FACC6"
+  },
+  "message": {
+    "conversation": "‎Olá! 👋 Bem-vindo ao *Resende Marinho Advogados Associados*, especializado em oferecer soluções jurídicas sob medida para as suas necessidades. \n\nAntes de começarmos, aqui estão algumas coisas que posso fazer por você:\n\n- 📂 Informações sobre nossas áreas de atuação, como Direito Trabalhista, Civil, de Família, e mais.\n- 🗓️ Agendar uma consulta com nossos advogados.\n- 📑 Fornecer detalhes sobre documentos e procedimentos legais comuns.\n- ❓ Responder a perguntas frequentes ou encaminhar você para um de nossos especialistas.\n\nComo posso ajudá-lo hoje?\n\nDigite o número da opção desejada ou explique brevemente sua dúvida.\n\n*[ 1 ]* - Áreas de Atuação\n*[ 2 ]* - Consultas e Agendamentos\n*[ 3 ]* - Documentos e Procedimentos\n*[ 4 ]* - Contato e Suporte\n"
+  },
+  "messageTimestamp": "1729779700",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729779700",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 58 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "730E614524C7C261F371FC7EC49A2484"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1729779699",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8rzCZr+EsYyFRNejh6EQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 59 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0622A510CF56C67DB42"
+  },
+  "message": {
+    "conversation": "‎Sua solicitação foi encerrada com sucesso! 🏆\n\n\n*_Você poderia nos avaliar no Google?_* 🫶\n\nClique no link abaixo e nos avalie com *5* Estrelas! 💚\n\nbit.ly/avalie-nos\n\n*_Sua avaliação é muito importante para nós!_*🤗\n"
+  },
+  "messageTimestamp": "1729774354",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729774354",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 60 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0B742DBED15B39A0C36"
+  },
+  "message": {
+    "conversation": "*Caio:*\nolá"
+  },
+  "messageTimestamp": "1729774337",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729774337",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 61 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB09D5B2046922B0745D0"
+  },
+  "message": {
+    "conversation": "‎ Olá! 👋 Obrigado por entrar em contato com o *Resende Marinho Advogados Associados*.\n\nNo momento, nosso escritório está fora do horário de atendimento. Nosso horário de funcionamento é de *_segunda a sexta, das 9h às 18h_*.\n\n📧 Você pode deixar uma mensagem aqui, e nossa equipe retornará assim que estivermos de volta. Para assuntos urgentes, você pode nos enviar um e-mail para: *rmadvogados.atendimento@hotmail.com* ou telefonar para um número: *(24)99999-9999*.\n\nAgradecemos pela compreensão e pela sua paciência. Estamos ansiosos para ajudá-lo em breve!"
+  },
+  "messageTimestamp": "1729774227",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729774227",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 62 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3FC4DC47B1EFF70165B4"
+  },
+  "message": {
+    "conversation": "olá"
+  },
+  "messageTimestamp": "1729774223",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8zVCkuzQGvcn+qxxEijw=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 63 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0BBF19E6040C662C3E3"
+  },
+  "message": {
+    "conversation": "‎Sua solicitação foi encerrada com sucesso! 🏆\n\n\n*_Você poderia nos avaliar no Google?_* 🫶\n\nClique no link abaixo e nos avalie com *5* Estrelas! 💚\n\nbit.ly/avalie-nos\n\n*_Sua avaliação é muito importante para nós!_*🤗\n"
+  },
+  "messageTimestamp": "1729774139",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729774139",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 64 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB01EB0F892B870EDDBDF"
+  },
+  "message": {
+    "conversation": "‎Olá! 👋 Bem-vindo ao *Resende Marinho Advogados Associados*, especializado em oferecer soluções jurídicas sob medida para as suas necessidades. \n\nAntes de começarmos, aqui estão algumas coisas que posso fazer por você:\n\n- 📂 Informações sobre nossas áreas de atuação, como Direito Trabalhista, Civil, de Família, e mais.\n- 🗓️ Agendar uma consulta com nossos advogados.\n- 📑 Fornecer detalhes sobre documentos e procedimentos legais comuns.\n- ❓ Responder a perguntas frequentes ou encaminhar você para um de nossos especialistas.\n\nComo posso ajudá-lo hoje?\n\nDigite o número da opção desejada ou explique brevemente sua dúvida.\n\n*[ 1 ]* - Áreas de Atuação\n*[ 2 ]* - Consultas e Agendamentos\n*[ 3 ]* - Documentos e Procedimentos\n*[ 4 ]* - Contato e Suporte\n"
+  },
+  "messageTimestamp": "1729774098",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729774098",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 65 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3F2DABA511214D9CDF29"
+  },
+  "message": {
+    "conversation": "#"
+  },
+  "messageTimestamp": "1729774097",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8To6c7oIsKX1S7q/gLRQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 66 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08BE1F6A598B79992C9"
+  },
+  "message": {
+    "conversation": "‎\n*Digite o número da opção desejada :*\n\n*[ 1 ]* - Falar com um representante\n*[ 2 ]* - Localização e horário de atendimento\n*[ 3 ]* - Suporte técnico\n\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1729774081",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729774082",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 67 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3FEFF5D31962DFC1D269"
+  },
+  "message": {
+    "conversation": "4"
+  },
+  "messageTimestamp": "1729774080",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9I5coIk4y27kym+aYngw=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 68 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB00B69C8B6D4C4739C18"
+  },
+  "message": {
+    "conversation": "‎Olá! 👋 Bem-vindo ao *Resende Marinho Advogados Associados*, especializado em oferecer soluções jurídicas sob medida para as suas necessidades. \n\nAntes de começarmos, aqui estão algumas coisas que posso fazer por você:\n\n- 📂 Informações sobre nossas áreas de atuação, como Direito Trabalhista, Civil, de Família, e mais.\n- 🗓️ Agendar uma consulta com nossos advogados.\n- 📑 Fornecer detalhes sobre documentos e procedimentos legais comuns.\n- ❓ Responder a perguntas frequentes ou encaminhar você para um de nossos especialistas.\n\nComo posso ajudá-lo hoje?\n\nDigite o número da opção desejada ou explique brevemente sua dúvida.\n\n*[ 1 ]* - Áreas de Atuação\n*[ 2 ]* - Consultas e Agendamentos\n*[ 3 ]* - Documentos e Procedimentos\n*[ 4 ]* - Contato e Suporte\n"
+  },
+  "messageTimestamp": "1729774076",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729774077",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 69 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3FE2110C05191A1A51AD"
+  },
+  "message": {
+    "conversation": "#"
+  },
+  "messageTimestamp": "1729774075",
+  "reportingTokenInfo": {
+    "reportingTag": "AY9NhEjJtJn2yuvGesOlBQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 70 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0BF348B3911DA980189"
+  },
+  "message": {
+    "conversation": "‎\n\n*[ 1 ]* - Presencial\n*[ 2 ]* - Virtual\n\n*[ 0 ]* - Menu anterior\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1729774069",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729774070",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 71 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3F933A4140ED698B6572"
+  },
+  "message": {
+    "conversation": "1"
+  },
+  "messageTimestamp": "1729774068",
+  "reportingTokenInfo": {
+    "reportingTag": "AY/9QJSq19oDsFB+M3YR9g=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 72 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0C66C95214E1CB4FB25"
+  },
+  "message": {
+    "conversation": "‎\n*Digite o número da opção desejada :*\n\n*[ 1 ]* - Agendar consulta  com um advogado\n*[ 2 ]* - Perguntas Frequentes (FAQ)\n\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1729774064",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729774064",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 73 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3F0DDE8BED62A1D08FF3"
+  },
+  "message": {
+    "conversation": "2"
+  },
+  "messageTimestamp": "1729774063",
+  "reportingTokenInfo": {
+    "reportingTag": "AY98s5TfyGAectivEjOmRg=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 74 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB048D194ED391A54FCD7"
+  },
+  "message": {
+    "conversation": "‎Olá! 👋 Bem-vindo ao *Resende Marinho Advogados Associados*, especializado em oferecer soluções jurídicas sob medida para as suas necessidades. \n\nAntes de começarmos, aqui estão algumas coisas que posso fazer por você:\n\n- 📂 Informações sobre nossas áreas de atuação, como Direito Trabalhista, Civil, de Família, e mais.\n- 🗓️ Agendar uma consulta com nossos advogados.\n- 📑 Fornecer detalhes sobre documentos e procedimentos legais comuns.\n- ❓ Responder a perguntas frequentes ou encaminhar você para um de nossos especialistas.\n\nComo posso ajudá-lo hoje?\n\nDigite o número da opção desejada ou explique brevemente sua dúvida.\n\n*[ 1 ]* - Áreas de Atuação\n*[ 2 ]* - Consultas e Agendamentos\n*[ 3 ]* - Documentos e Procedimentos\n*[ 4 ]* - Contato e Suporte\n"
+  },
+  "messageTimestamp": "1729774061",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729774061",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 75 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3F65926699E7A8231A59"
+  },
+  "message": {
+    "conversation": "#"
+  },
+  "messageTimestamp": "1729774060",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8FW5I4tCbtLi6KbBc8SQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 76 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB09F744F5FF9FC34E160"
+  },
+  "message": {
+    "conversation": "‎\n*Digite o número da opção desejada e escolha a especialidade para qual deseja atendimento:*\n\n*[ 1 ]* - Direito Trabalhista\n*[ 2 ]* - Direito Civil\n*[ 3 ]* - Direito de Família\n*[ 4 ]* - Direito Empresarial\n\n*[ # ]* - Menu inicial"
+  },
+  "messageTimestamp": "1729774054",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729774054",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 77 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3F636FC975339EC57A2B"
+  },
+  "message": {
+    "conversation": "1"
+  },
+  "messageTimestamp": "1729774053",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8ZFP/s27OQzifZ6NJthA=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 78 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0AD41A5363280F07785"
+  },
+  "message": {
+    "conversation": "‎Olá! 👋 Bem-vindo ao *Resende Marinho Advogados Associados*, especializado em oferecer soluções jurídicas sob medida para as suas necessidades. \n\nAntes de começarmos, aqui estão algumas coisas que posso fazer por você:\n\n- 📂 Informações sobre nossas áreas de atuação, como Direito Trabalhista, Civil, de Família, e mais.\n- 🗓️ Agendar uma consulta com nossos advogados.\n- 📑 Fornecer detalhes sobre documentos e procedimentos legais comuns.\n- ❓ Responder a perguntas frequentes ou encaminhar você para um de nossos especialistas.\n\nComo posso ajudá-lo hoje?\n\nDigite o número da opção desejada ou explique brevemente sua dúvida.\n\n*[ 1 ]* - Áreas de Atuação\n*[ 2 ]* - Consultas e Agendamentos\n*[ 3 ]* - Documentos e Procedimentos\n*[ 4 ]* - Contato e Suporte\n"
+  },
+  "messageTimestamp": "1729774041",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729774042",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 79 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3FF2792B2596A861A5C9"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1729774040",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8RZddeDUmQLEg2Ryg7mg=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 80 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A1DC6910B79D21E6A9"
+  },
+  "message": {
+    "conversation": "‎Sua solicitação foi encerrada com sucesso! 🏆\n\n\n*_Você poderia nos avaliar no Google?_* 🫶\n\nClique no link abaixo e nos avalie com *5* Estrelas! 💚\n\nbit.ly/avalie-nos\n\n*_Sua avaliação é muito importante para nós!_*🤗\n"
+  },
+  "messageTimestamp": "1729774017",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729774017",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 81 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0BE184CEA72A9AAD84C"
+  },
+  "message": {
+    "conversation": "Olá {{name}} ! 👋 Bem-vindo ao *Resende Marinho Advogados Associados*, especializado em oferecer soluções jurídicas sob medida para as suas necessidades. \n\nAntes de começarmos, aqui estão algumas coisas que posso fazer por você:\n\n- 📂 Informações sobre nossas áreas de atuação, como Direito Trabalhista, Civil, de Família, e mais.\n- 🗓️ Agendar uma consulta com nossos advogados.\n- 📑 Fornecer detalhes sobre documentos e procedimentos legais comuns.\n- ❓ Responder a perguntas frequentes ou encaminhar você para um de nossos especialistas.\n\nComo posso ajudá-lo hoje?\n\nDigite o número da opção desejada ou explique brevemente sua dúvida.\n"
+  },
+  "messageTimestamp": "1729771735",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729771735",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 82 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "E00CE0A2C5BDFB0BB6EA34E40F429BA2"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1729771733",
+  "reportingTokenInfo": {
+    "reportingTag": "AY+H95+7SK8dXUKuzBT40g=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 83 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0BBD8E7AC73E743A72D"
+  },
+  "message": {
+    "conversation": "Olá {{firstname}} ! 👋 Bem-vindo ao *Resende Marinho Advogados Associados*, especializado em oferecer soluções jurídicas sob medida para as suas necessidades. \n\nAntes de começarmos, aqui estão algumas coisas que posso fazer por você:\n\n- 📂 Informações sobre nossas áreas de atuação, como Direito Trabalhista, Civil, de Família, e mais.\n- 🗓️ Agendar uma consulta com nossos advogados.\n- 📑 Fornecer detalhes sobre documentos e procedimentos legais comuns.\n- ❓ Responder a perguntas frequentes ou encaminhar você para um de nossos especialistas.\n\nComo posso ajudá-lo hoje?\n\nDigite o número da opção desejada ou explique brevemente sua dúvida.\n"
+  },
+  "messageTimestamp": "1729771648",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729771648",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 84 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "6B5AF89DA936DD043344111476BE1CFB"
+  },
+  "message": {
+    "conversation": "Olá"
+  },
+  "messageTimestamp": "1729771646",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8Uoi7QzPaUXVURhIafVQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 85 de 86
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0DA0FEDEBFEF9DA0D52"
+  },
+  "message": {
+    "conversation": "Olá {{firstname}}! 👋 Bem-vindo ao *Resende Marinho Advogados Associados*, especializado em oferecer soluções jurídicas sob medida para as suas necessidades. \n\nAntes de começarmos, aqui estão algumas coisas que posso fazer por você:\n\n- 📂 Informações sobre nossas áreas de atuação, como Direito Trabalhista, Civil, de Família, e mais.\n- 🗓️ Agendar uma consulta com nossos advogados.\n- 📑 Fornecer detalhes sobre documentos e procedimentos legais comuns.\n- ❓ Responder a perguntas frequentes ou encaminhar você para um de nossos especialistas.\n\nComo posso ajudá-lo hoje?\n\nDigite o número da opção desejada ou explique brevemente sua dúvida.\n"
+  },
+  "messageTimestamp": "1729771599",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5524999480445@s.whatsapp.net",
+      "receiptTimestamp": "1729771599",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524999480445@s.whatsapp.net",
+    "fromMe": false,
+    "id": "2E4B88168E9854D2596D571283878D26"
+  },
+  "message": {
+    "conversation": "Oi"
+  },
+  "messageTimestamp": "1729771596",
+  "reportingTokenInfo": {
+    "reportingTag": "AY8f901wFxi/e3iLRlptog=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 86 de 86
+               
